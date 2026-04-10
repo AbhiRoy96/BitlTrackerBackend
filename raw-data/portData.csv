@@ -1,0 +1,345 @@
+From Port,From_Port_Detls,Type,To Port,To_Port_Detls,Via,Distance
+Calcutta, India,Junction Points,Cape of Good Hope,South Africa,East Of Madagascar,5444
+Calcutta, India,Junction Points,Cape Leeuwin,Australia,Direct,3796
+Calcutta, India,Junction Points,Selat Lombok,Indonesia,Malacca,2608
+Calcutta, India,Junction Points,Port Said,Egypt,Direct,4691
+Calcutta, India,Junction Points,Singapore,,Direct,1649
+Calcutta, India,Junction Points,Selat Sunda,Indonesia,Direct,2140
+Calcutta, India,Ports,Aden,Yemen,Direct,3304
+Calcutta, India,Ports,Akyab,Burma,Direct,402
+Calcutta, India,Ports,Al Basrah,Iraq,Direct,3593
+Calcutta, India,Ports,Al Manamah,Bahrain,Direct,3355
+Calcutta, India,Ports,Assab,Ethiopia,Direct,3446
+Calcutta, India,Ports,Bandar Abbas,Iran,Direct,3058
+Calcutta, India,Ports,Bassein,Burma,Direct,643
+Calcutta, India,Ports,Belawan,Indonesia,Direct,1326
+Calcutta, India,Ports,Bombay,India,Direct,2128
+Calcutta, India,Ports,Bushehr,Iran,Direct,3414
+Calcutta, India,Ports,Chalna,"Mungla Anchorage,Bangladesh",Direct,288
+Calcutta, India,Ports,Chittagong,Bangladesh,Direct,367
+Calcutta, India,Ports,Colombo,Sri Lanka,Direct,1258
+Calcutta, India,Ports,Dumai,Indonesia,Direct,1579
+Calcutta, India,Ports,Fremantle,Australia,Direct,3693
+Calcutta, India,Ports,Kakinada,India,Direct,522
+Calcutta, India,Ports,Karachi,Pakistan,Direct,2578
+Calcutta, India,Ports,Madras,India,Direct,769
+Calcutta, India,Ports,Malacca,Malaysia,Direct,1523
+Calcutta, India,Ports,Massawa,Ethiopia,Direct,3696
+Calcutta, India,Ports,Mocambique,Mozambique,Direct,3831
+Calcutta, India,Ports,Mombasa,Kenya,One Half Degree Channel,3703
+Calcutta, India,Ports,Moulmein,Burma,Direct,824
+Calcutta, India,Ports,Penang,Malaysia,Direct,1294
+Calcutta, India,Ports,Phuket,Thailand,Direct,1124
+Calcutta, India,Ports,Port Blair,Andaman Islands,Direct,775
+Calcutta, India,Ports,Port Louis,Mauritius,Direct,3212
+Calcutta, India,Ports,Port Swettenham,Malaysia,Direct,1444
+Calcutta, India,Ports,Rangoon,Burma,Direct,787
+Calcutta, India,Ports,Sabang,Indonesia,Duncan Passage,1120
+Calcutta, India,Ports,Singapore,,Direct,1650
+Calcutta, India,Ports,Vishakhapatnam,India,Direct,458
+Calcutta, India,Ports,Yenbo,Saudi Arabia,Direct,4148
+Calcutta, India,Ports,Zanzibar,Tanzania,One Half Degree Channel,3776
+Bombay, India,Junction Points,Cape of Good Hope,South Africa,East Of Madagascar,4554
+Bombay, India,Junction Points,Cape Leeuwin,Australia,Direct,4059
+Bombay, India,Junction Points,Port Said,Egypt,Direct,3046
+Bombay, India,Junction Points,Singapore,,Direct,2441
+Bombay, India,Junction Points,Selat Sunda,Indonesia,Direct,2664
+Bombay, India,Junction Points,Torres Strait,Australia,South Of Java,4849
+Bombay, India,Ports,Abadan,Iran,Direct,1357
+Bombay, India,Ports,Ad Damman,Saudi Arabia,Direct,1373
+Bombay, India,Ports,Aden,Yemen,Direct,1657
+Bombay, India,Ports,Al Basrah,Iraq,Direct,1594
+Bombay, India,Ports,Al Jubayl,Saudi Arabia,Direct,2353
+Bombay, India,Ports,Belawan,Indonesia,Direct,2109
+Bombay, India,Ports,Bhavnager,India,Direct,204
+Bombay, India,Ports,Calcutta,India,Direct,2128
+Bombay, India,Ports,Cochin,India,Direct,392
+Bombay, India,Ports,Colombo,Sri Lanka,Direct,895
+Bombay, India,Ports,Dampier,Australia,Direct,3624
+Bombay, India,Ports,Dar es Salaam,Tanzania,Direct,2500
+Bombay, India,Ports,Diego Garcia,Chagos Archipelago,Direct,1603
+Bombay, India,Ports,Durban,South Africa,Direct,3826
+Bombay, India,Ports,Fateh Terminal,United Arab Emirates,Direct,1146
+Bombay, India,Ports,Fremantle,Australia,Direct,3984
+Bombay, India,Ports,Galle,Sri Lanka,Direct,944
+Bombay, India,Ports,Karachi,Pakistan,Direct,504
+Bombay, India,Ports,Madras,India,Direct,1482
+Bombay, India,Ports,Malacca,Malaysia,Direct,2327
+Bombay, India,Ports,Marmagao,India,Direct,235
+Bombay, India,Ports,Massawa,Ethiopia,Direct,2050
+Bombay, India,Ports,Mina al Ahmadi,Kuwait,Direct,1517
+Bombay, India,Ports,Mina Abd Allah,Kuwait,Direct,1514
+Bombay, India,Ports,Mina Az Zawr,Kuwait,Direct,1495
+Bombay, India,Ports,Mombasa,Kenya,Direct,2400
+Bombay, India,Ports,Okha,India,Direct,341
+Bombay, India,Ports,Penang,Malaysia,Direct,2154
+Bombay, India,Ports,Port Darwin,Australia,Direct,4193
+Bombay, India,Ports,Port Louis,Mauritius,Direct,2517
+Bombay, India,Ports,Port Said,Egypt,Direct,3046
+Bombay, India,Ports,Port Sudan,Sudan,Direct,2310
+Bombay, India,Ports,Port Victoria,"Mahe,Seychelles",Direct,1752
+Bombay, India,Ports,Rangoon,Burma,Direct,2139
+Bombay, India,Ports,Ras al Khafji,Saudi Arabia,Direct,1491
+Bombay, India,Ports,Sabang,Indonesia,Direct,1843
+Bombay, India,Ports,Tamatave,Madagascar,Direct,2621
+Bombay, India,Ports,Trincomalee,Sri Lanka,Direct,1218
+Bombay, India,Ports,Weipa,Australia,South Of Java,4844
+Bombay, India,Ports,Yenbo,Indonesia,Direct,2503
+Bombay, India,Ports,Zanzibar,Tanzania,Direct,2517
+Shanghai, China,Junction Points,Selat Lombok,Indonesia,Pai-Chieh Hsia,2577
+Shanghai, China,Junction Points,Panama,Panama,Osumi Kaikyo,8648
+Shanghai, China,Junction Points,Panama,Panama,Tsugaru-Kaikyo,8566
+Shanghai, China,Junction Points,Punta Arenas,Chile,Direct,9827
+Shanghai, China,Junction Points,Singapore,,Direct,2207
+Shanghai, China,Junction Points,Selat Sunda,Indonesia,Pai-Chieh Hsia,2535
+Shanghai, China,Junction Points,Selat Wetar,Indonesia,Direct,2553
+Shanghai, China,Ports,Aleksandrovsk-Sakhalinskiy,Russia,Direct,1597
+Shanghai, China,Ports,Apia,Samoa,Direct,4715
+Shanghai, China,Ports,Apra,Guam,Direct,1687
+Shanghai, China,Ports,Auckland,New Zealand,West Of New Ireland,5148
+Shanghai, China,Ports,Avarua,Cook Islands,Direct,5533
+Shanghai, China,Ports,Brisbane,Australia,Direct,4243
+Shanghai, China,Ports,Busan,South Korea,North Of Cheju Do,491
+Shanghai, China,Ports,Cebu,Philippines,South Channel,1322
+Shanghai, China,Ports,Chi-lung,Taiwan,Direct,447
+Shanghai, China,Ports,Chimu Wan,Ryukyu Islands,Direct,527
+Shanghai, China,Ports,Dagu,China,Outside Islands,720
+Shanghai, China,Ports,Dalian,China,Direct,560
+Shanghai, China,Ports,Dutch Harbor,"Alaska,U.S.A.",La Perouse Strait,3375
+Shanghai, China,Ports,Dutch Harbor,"Alaska,U.S.A.",Tsugaru-Kaikyo,3377
+Shanghai, China,Ports,Guayaquil,Ecuador,Direct,8872
+Shanghai, China,Ports,Gunsan,South Korea,Direct,457
+Shanghai, China,Ports,Haiphong,Vietnam,Pai-Chieh Hsia,1285
+Shanghai, China,Ports,Hakodate,Japan,Direct,1166
+Shanghai, China,Ports,Hankou,China,Direct,592
+Shanghai, China,Ports,Higashi-Iwase,Japan,Direct,966
+Shanghai, China,Ports,Ho Chi Minh,Vietnam,Bonham Strait,1679
+Shanghai, China,Ports,Hong Kong,China,Pai-Chieh Hsia,831
+Shanghai, China,Ports,Honolulu,"Hawaii,U.S.A.",Direct,4336
+Shanghai, China,Ports,Hua-lien Kang,Taiwan,Direct,533
+Shanghai, China,Ports,Iloilo,Philippines,South Channel,1343
+Shanghai, China,Ports,Incheon,South Korea,South Channel,503
+Shanghai, China,Ports,Jakarta,Indonesia,Direct,2522
+Shanghai, China,Ports,Jaluit,Marshall Islands,Direct,3138
+Shanghai, China,Ports,Kobe,Japan,Inland Sea,789
+Shanghai, China,Ports,Kobe,Japan,Osumi Kaikyo,826
+Shanghai, China,Ports,Kodiak,"Alaska,U.S.A.",Direct,3967
+Shanghai, China,Ports,Levuka,Fiji Islands,Direct,4528
+Shanghai, China,Ports,Lianyungang,China,Direct,414
+Shanghai, China,Ports,Lo hsing-ta Mao-ti,China,South Channel,440
+Shanghai, China,Ports,Los Angeles,U.S.A.,Osumi Kaikyo,5810
+Shanghai, China,Ports,Los Angeles,U.S.A.,Tsugaru-Kaikyo,5699
+Shanghai, China,Ports,Maizuru,Japan,Direct,800
+Shanghai, China,Ports,Manila,Philippines,East Of Taiwan,1156
+Shanghai, China,Ports,Manila,Philippines,Formosa Strait,1166
+Shanghai, China,Ports,Midway Island,,Direct,3184
+Shanghai, China,Ports,Misumi,Japan,Direct,490
+Shanghai, China,Ports,Mogpo,South Korea,Direct,369
+Shanghai, China,Ports,Nagasaki,Japan,Direct,463
+Shanghai, China,Ports,Naha,Ryukyu Islands,Direct,479
+Shanghai, China,Ports,Nakagusuku,Ryukyu Islands,Direct,515
+Shanghai, China,Ports,Nakhodka,Russia,Direct,991
+Shanghai, China,Ports,Nampo,North Korea,Direct,561
+Shanghai, China,Ports,Nikolayevsk-Na-Amure,Russia,Direct,1742
+Shanghai, China,Ports,Noumea,New Caledonia,Passé De Dunbea,4185
+Shanghai, China,Ports,Otaru,Japan,Direct,1233
+Shanghai, China,Ports,Pago Pago,American Samoa,Direct,4794
+Shanghai, China,Ports,Papeete,French Polynesia,Direct,5907
+Shanghai, China,Ports,Peng-hu Kang,Taiwan,Direct,605
+Shanghai, China,Ports,Petropavlovsk-Kamchatskiy,Russia,La Perouse Strait,2200
+Shanghai, China,Ports,Petropavlovsk-Kamchatskiy,Russia,Tsugaru-Kaikyo,2224
+Shanghai, China,Ports,Ponape,Caroline Islands,Direct,2545
+Shanghai, China,Ports,Port Darwin,Australia,Direct,2804
+Shanghai, China,Ports,Qingdao,China,Outside Islands,401
+Shanghai, China,Ports,Qinhuangdao,China,Outside Islands,668
+Shanghai, China,Ports,Rabaul,Papua New Guinea,Direct,2812
+Shanghai, China,Ports,San Diego,"California,U.S.A.",Tsugaru-Kaikyo,5396
+Shanghai, China,Ports,San Francisco,"California,U.S.A.",Tsugaru-Kaikyo,5396
+Shanghai, China,Ports,San Francisco,"California,U.S.A.",Osumi Kaikyo,5502
+Shanghai, China,Ports,Sanmen Wen,China,Direct,270
+Shanghai, China,Ports,Seattle,"Washington,U.S.A.",La Perouse Strait,5067
+Shanghai, China,Ports,Seattle,"Washington,U.S.A.",Osumi Kaikyo,5242
+Shanghai, China,Ports,Seattle,"Washington,U.S.A.",Tsugaru-Kaikyo,5071
+Shanghai, China,Ports,Seattle,"Washington,U.S.A.",Tsugaru-Kaikyo,5131
+Shanghai, China,Ports,Shantou,China,Direct,708
+Shanghai, China,Ports,Shimonoseki,Japan,Direct,548
+Shanghai, China,Ports,Sitka,"Alaska,U.S.A.",Direct,4446
+Shanghai, China,Ports,Su-ao Kang,Taiwan,Direct,498
+Shanghai, China,Ports,Surabaya,Indonesia,Direct,2626
+Shanghai, China,Ports,Suva,Fiji Islands,Direct,4467
+Shanghai, China,Ports,Sydney,Australia,West Of New Ireland,4642
+Shanghai, China,Ports,Sydney,Australia,Vitiaz Strait,4636
+Shanghai, China,Ports,Tai-tung Kang,Taiwan,Direct,612
+Shanghai, China,Ports,Tianjin,China,Chang-Shan Shuitao,740
+Shanghai, China,Ports,Truk,Caroline Islands,Direct,2261
+Shanghai, China,Ports,Tsuruga,Japan,Direct,823
+Shanghai, China,Ports,Valparaiso,Chile,Tokara Kaikyo,10148
+Shanghai, China,Ports,Vinh Cam Ranh,Vietnam,Direct,1520
+Shanghai, China,Ports,Vladivostok,Russia,North Of Cheju Do,998
+Shanghai, China,Ports,Vladivostok,Russia,South Of Cheju Do,997
+Shanghai, China,Ports,Wakamatsu,Japan,Direct,541
+Shanghai, China,Ports,Wake Island,,Direct,2550
+Shanghai, China,Ports,Weihai,China,South Channel,483
+Shanghai, China,Ports,Wenzhou,China,Direct,365
+Shanghai, China,Ports,Weonsan,North Korea,North Of Cheju Do,797
+Shanghai, China,Ports,Xiamen,China,Outside Islands,603
+Shanghai, China,Ports,Yantai,China,Outside Islands,523
+Shanghai, China,Ports,Yokohama,Japan,Naikai,1117
+Singapore, Singapore,Junction Points,Cape of Good Hope,South Africa,Direct,5579
+Singapore, Singapore,Junction Points,Honshu,Japan,Direct,2879
+Singapore, Singapore,Junction Points,Selat Lombok,Indonesia,Direct,963
+Singapore, Singapore,Junction Points,Panama,Panama,Direct,10505
+Singapore, Singapore,Junction Points,Port Said,Egypt,Direct,5035
+Singapore, Singapore,Junction Points,Selat Sunda,Indonesia,Direct,532
+Singapore, Singapore,Junction Points,Tsugaru-Kaikyo,Japan,Direct,3343
+Singapore, Singapore,Junction Points,Selat Wetar,Indonesia,Direct,1587
+Singapore, Singapore,Ports,Ad Damman,Saudi Arabia,Direct,3681
+Singapore, Singapore,Ports,Aden,Yemen,Direct,3627
+Singapore, Singapore,Ports,Akyab,Burma,Direct,1365
+Singapore, Singapore,Ports,Al Basrah,Iraq,Direct,3916
+Singapore, Singapore,Ports,Al Gurdagah,Egypt,Direct,4754
+Singapore, Singapore,Ports,Al Manamah,Bahrain,Direct,3652
+Singapore, Singapore,Ports,Albany,Australia,Direct,2525
+Singapore, Singapore,Ports,Aleksandrovsk-Sakhalinskiy,Russia,Direct,3608
+Singapore, Singapore,Ports,Apra,Guam,Sulu Sea,2585
+Singapore, Singapore,Ports,Assab,Ethiopia,Direct,3769
+Singapore, Singapore,Ports,Balikpapan,"Kalimantan,Indonesia",Selat Riouw,1053
+Singapore, Singapore,Ports,Bandar Abbas,Iran,Direct,3381
+Singapore, Singapore,Ports,Bandar Khomeini,Iran,Direct,3872
+Singapore, Singapore,Ports,Bandjermasin,"Kalimantan,Indonesia",Direct,830
+Singapore, Singapore,Ports,Bangkok,Thailand,Direct,842
+Singapore, Singapore,Ports,Barbers Point,"Hawaii,U.S.A.",Sulu Sea,5866
+Singapore, Singapore,Ports,Bassein,Burma,Direct,1137
+Singapore, Singapore,Ports,Beihai,China,Direct,1332
+Singapore, Singapore,Ports,Beira,Mozambique,Direct,4520
+Singapore, Singapore,Ports,Belawan,Indonesia,Direct,368
+Singapore, Singapore,Ports,Berbera,Somalia,Direct,3646
+Singapore, Singapore,Ports,Bikini,Marshall Islands,Direct,3591
+Singapore, Singapore,Ports,Bombay,India,Direct,2441
+Singapore, Singapore,Ports,Bur Safaga,Egypt,Direct,4729
+Singapore, Singapore,Ports,Busan,South Korea,Direct,2502
+Singapore, Singapore,Ports,Bushehr,Iran,Direct,3737
+Singapore, Singapore,Ports,Calcutta,India,Direct,1649
+Singapore, Singapore,Ports,Calicut,India,Direct,1942
+Singapore, Singapore,Ports,Cebu,Philippines,Direct,1355
+Singapore, Singapore,Ports,Chalna,Bangladesh,Direct,1578
+Singapore, Singapore,Ports,Chimu Wan,Ryukyu Islands,Direct,2046
+Singapore, Singapore,Ports,Chittagong,Bangladesh,Direct,1517
+Singapore, Singapore,Ports,Cochin,India,Direct,1853
+Singapore, Singapore,Ports,Colombo,Sri Lanka,Direct,1581
+Singapore, Singapore,Ports,Dagu,China,Direct,2770
+Singapore, Singapore,Ports,Dalian,China,Direct,2612
+Singapore, Singapore,Ports,Dar es Salaam,Tanzania,Direct,4042
+Singapore, Singapore,Ports,Davao,Philippines,Direct,1532
+Singapore, Singapore,Ports,Diego Garcia,Chagos Archipelago,Strait Of Malacca,2227
+Singapore, Singapore,Ports,Djibouti,Djibouti,Direct,3769
+Singapore, Singapore,Ports,Dumai,Indonesia,Direct,200
+Singapore, Singapore,Ports,Durban,South Africa,Direct,4872
+Singapore, Singapore,Ports,Dutch Harbor,"Alaska,U.S.A.",Direct,5364
+Singapore, Singapore,Ports,East London,South Africa,Direct,5082
+Singapore, Singapore,Ports,Eilat,Israel,Direct,4868
+Singapore, Singapore,Ports,Fort Dauphin,Madagascar,Direct,3975
+Singapore, Singapore,Ports,Galle,Sri Lanka,Direct,1502
+Singapore, Singapore,Ports,Guayaquil,Ecuador,Surigao Strait,10726
+Singapore, Singapore,Ports,Hakodate,Japan,Sea Of Japan,3160
+Singapore, Singapore,Ports,Ho Chi Minh,Vietnam,Direct,649
+Singapore, Singapore,Ports,Hong Kong,China,Direct,1454
+Singapore, Singapore,Ports,Honolulu,"Hawaii,U.S.A.",Sulu Sea,5881
+Singapore, Singapore,Ports,Iloilo,Philippines,Lumbucan Channel,1268
+Singapore, Singapore,Ports,Incheon,South Korea,Direct,2560
+Singapore, Singapore,Ports,Jakarta,Indonesia,Selat Durian,525
+Singapore, Singapore,Ports,Jakarta,Indonesia,Selat Riouw,526
+Singapore, Singapore,Ports,Kakinada,India,Direct,1593
+Singapore, Singapore,Ports,Karachi,Pakistan,Direct,2882
+Singapore, Singapore,Ports,Kobe,Japan,Direct,2689
+Singapore, Singapore,Ports,Kodiak,"Alaska,U.S.A.",Direct,6020
+Singapore, Singapore,Ports,Kompong Som,Cambodia,Direct,638
+Singapore, Singapore,Ports,Kota Kinabalu,Sabah,Direct,832
+Singapore, Singapore,Ports,Kuching,Sarawak,Direct,443
+Singapore, Singapore,Ports,Lo hsing-ta Mao-ti,China,Direct,1817
+Singapore, Singapore,Ports,Los Angeles,"California,U.S.A.",San Bernardino Strait,7867
+Singapore, Singapore,Ports,Madras,India,Direct,1583
+Singapore, Singapore,Ports,Majunga,Madagascar,Direct,3845
+Singapore, Singapore,Ports,Makassar,Sulawesi,Direct,1070
+Singapore, Singapore,Ports,Malacca,Malaysia,Direct,117
+Singapore, Singapore,Ports,Malakal,Palau Islands,Basilan Strait,2006
+Singapore, Singapore,Ports,Manila,Philippines,North Of North Danger Reef,1330
+Singapore, Singapore,Ports,Maputo,Mozambique,Direct,4769
+Singapore, Singapore,Ports,Massawa,Ethiopia,Direct,4019
+Singapore, Singapore,Ports,Midway Island,,Direct,4828
+Singapore, Singapore,Ports,Mina al Ahmadi,Kuwait,Direct,3825
+Singapore, Singapore,Ports,Mina Abd Allah,Kuwait,Direct,3822
+Singapore, Singapore,Ports,Mina Az Zawr,Kuwait,Direct,3803
+Singapore, Singapore,Ports,Mocambique,Mozambique,Direct,4080
+Singapore, Singapore,Ports,Mogadishu,Somalia,Direct,3611
+Singapore, Singapore,Ports,Mombasa,Kenya,Direct,3987
+Singapore, Singapore,Ports,Marmagao,India,Direct,2217
+Singapore, Singapore,Ports,Mosselbaai,South Africa,Direct,5384
+Singapore, Singapore,Ports,Mtwara,Tanzania,Direct,4042
+Singapore, Singapore,Ports,Nagasaki,Japan,East Of Taiwan,2413
+Singapore, Singapore,Ports,Nagasaki,Japan,Formosa Strait,2427
+Singapore, Singapore,Ports,Nampo,North Korea,Direct,2621
+Singapore, Singapore,Ports,Negappattinam,India,Direct,1568
+Singapore, Singapore,Ports,Nha Trang Bay,Vietnam,Direct,769
+Singapore, Singapore,Ports,Olongapo,Philippines,Direct,1335
+Singapore, Singapore,Ports,Palembang,Indonesia,Direct,304
+Singapore, Singapore,Ports,Penang,Malaysia,Direct,367
+Singapore, Singapore,Ports,Petropavlovsk-Kamchatskiy,Russia,La Perouse Strait,4194
+Singapore, Singapore,Ports,Phuket,Thailand,Direct,538
+Singapore, Singapore,Ports,Port des Galets,Reunion Island,Direct,3450
+Singapore, Singapore,Ports,Port Augusta,Australia,Direct,3580
+Singapore, Singapore,Ports,Port Blair,Andaman Islands,Direct,929
+Singapore, Singapore,Ports,Port Elizabeth,South Africa,Direct,5209
+Singapore, Singapore,Ports,Port Louis,Mauritius,Direct,3333
+Singapore, Singapore,Ports,Port Pirie,Australia,Direct,3564
+Singapore, Singapore,Ports,Port Swettenham,Malaysia,Direct,210
+Singapore, Singapore,Ports,Portland,"Oregon,U.S.A.",Direct,7142
+Singapore, Singapore,Ports,Prince Rupert,Canada,Direct,6683
+Singapore, Singapore,Ports,Pulupandan,Philippines,Direct,1504
+Singapore, Singapore,Ports,Qingdao,China,Direct,2466
+Singapore, Singapore,Ports,Qui Nhon,Vietnam,Direct,856
+Singapore, Singapore,Ports,Rangoon,Burma,Direct,1109
+Singapore, Singapore,Ports,Ras al Khafji,Saudi Arabia,Direct,3799
+Singapore, Singapore,Ports,Ras as Sidr,Egypt,Direct,4902
+Singapore, Singapore,Ports,Ras Gharib,Egypt,Direct,4827
+Singapore, Singapore,Ports,Ras Tannurah,Saudi Arabia,Direct,3701
+Singapore, Singapore,Ports,Rongelap,Marshall Islands,Direct,3669
+Singapore, Singapore,Ports,Sabang,Indonesia,Direct,601
+Singapore, Singapore,Ports,San Diego,"California,U.S.A.",Direct,7736
+Singapore, Singapore,Ports,San Fernando,Philippines,Direct,1379
+Singapore, Singapore,Ports,San Francisco,"California,U.S.A.",Balintang Channel,7353
+Singapore, Singapore,Ports,San Francisco,"California,U.S.A.",Tawitawi Island,7735
+Singapore, Singapore,Ports,San Francisco,"California,U.S.A.",Tawitawi Island,7735
+Singapore, Singapore,Ports,Seattle,"Washington,U.S.A.",Direct,7062
+Singapore, Singapore,Ports,Shanghai,China,Direct,2207
+Singapore, Singapore,Ports,Shimonoseki,Japan,Direct,2527
+Singapore, Singapore,Ports,Sitka,"Alaska,U.S.A.",Direct,6433
+Singapore, Singapore,Ports,Sorido,Indonesia,Direct,2202
+Singapore, Singapore,Ports,Sorong,New Guinea,Direct,1894
+Singapore, Singapore,Ports,Suakin,Sudan,Direct,4251
+Singapore, Singapore,Ports,Surabaya,Indonesia,Direct,763
+Singapore, Singapore,Ports,Tamatave,Madagascar,Direct,3675
+Singapore, Singapore,Ports,Tandjung Uban,Indonesia,Direct,27
+Singapore, Singapore,Ports,Tanga,Tanzania,Direct,4037
+Singapore, Singapore,Ports,Tarakan,Indonesia,Direct,1286
+Singapore, Singapore,Ports,Telukbayur,Indonesia,Direct,1011
+Singapore, Singapore,Ports,Tjirebon,Indonesia,Direct,624
+Singapore, Singapore,Ports,Truk,Caroline Islands,Direct,3052
+Singapore, Singapore,Ports,Umm Said,Qatar,Direct,3630
+Singapore, Singapore,Ports,Vancouver,Canada,Direct,7078
+Singapore, Singapore,Ports,Victoria,Sabah,Direct,762
+Singapore, Singapore,Ports,Victoria,Seychelles,Direct,3067
+Singapore, Singapore,Ports,Vinh Cam Ranh,Vietnam,Direct,786
+Singapore, Singapore,Ports,Vladivostok,Russia,Direct,3004
+Singapore, Singapore,Ports,Weihai,China,Direct,2548
+Singapore, Singapore,Ports,Wake Island ,,Surigao Strait,3885
+Singapore, Singapore,Ports,Wallaroo,Australia,Direct,3500
+Singapore, Singapore,Ports,Whyalla,Australia,Direct,3546
+Singapore, Singapore,Ports,Weonsan,South Korea,Direct,2808
+Singapore, Singapore,Ports,Wotho,Marshall Islands,Direct,3614
+Singapore, Singapore,Ports,Xiamen,China,Direct,1649
+Singapore, Singapore,Ports,Yantai,China,Direct,2582
+Singapore, Singapore,Ports,Yokohama,Japan,Direct,2889
+Singapore, Singapore,Ports,Zamboanga,Philippines,Balabac Strait,1197
+Singapore, Singapore,Ports,Zanzibar,Tanzania,Direct,4060
+Singapore, Singapore,Ports,Zhenjiang,China,Direct,1333

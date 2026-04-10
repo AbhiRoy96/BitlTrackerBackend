@@ -1,0 +1,845 @@
+from,from_name,to,to_name,distance
+10032,Bombay,10001,Abadan,1357
+10032,Bombay,10002,Ad Damman,1373
+10032,Bombay,10003,Aden,1657
+10032,Bombay,10004,Akyab,2530
+10032,Bombay,10005,Al Basrah,1594
+10032,Bombay,10006,Al Gurdagah,7195
+10032,Bombay,10007,Al Jubayl,2353
+10032,Bombay,10008,Al Manamah,5483
+10032,Bombay,10009,Albany,4966
+10032,Bombay,10010,Aleksandrovsk-Sakhalinskiy,6049
+10032,Bombay,10011,Apia,9363
+10032,Bombay,10012,Apra,5026
+10032,Bombay,10013,Assab,5574
+10032,Bombay,10014,Auckland,9796
+10032,Bombay,10015,Avarua,10181
+10032,Bombay,10017,Balikpapan,3494
+10032,Bombay,10019,Bandar Abbas,5186
+10032,Bombay,10020,Bandar Khomeini,6313
+10032,Bombay,10021,Bandjermasin,3271
+10032,Bombay,10022,Bangkok,3283
+10032,Bombay,10023,Barbers Point,8307
+10032,Bombay,10025,Bassein,2771
+10032,Bombay,10026,Beihai,3773
+10032,Bombay,10027,Beira,6961
+10032,Bombay,10028,Belawan,2109
+10032,Bombay,10029,Berbera,6087
+10032,Bombay,10030,Bhavnager,204
+10032,Bombay,10031,Bikini,6032
+10032,Bombay,10034,Brisbane,8891
+10032,Bombay,10035,Bur Safaga,7170
+10032,Bombay,10036,Busan,4943
+10032,Bombay,10037,Bushehr,5542
+10032,Bombay,10038,Calcutta,2128
+10032,Bombay,10039,Calicut,4383
+10032,Bombay,10040,Cape Leeuwin,4059
+10032,Bombay,10041,Cape of Good Hope,4554
+10032,Bombay,10042,Cebu,3796
+10032,Bombay,10043,Chalna,2416
+10032,Bombay,10045,Chi-lung,5095
+10032,Bombay,10046,Chimu Wan,4487
+10032,Bombay,10047,Chittagong,2495
+10032,Bombay,10048,Cochin,392
+10032,Bombay,10049,Colombo,895
+10032,Bombay,10050,Dagu,5211
+10032,Bombay,10051,Dalian,5053
+10032,Bombay,10052,Dampier,3624
+10032,Bombay,10053,Dar es Salaam,2500
+10032,Bombay,10054,Davao,3973
+10032,Bombay,10055,Diego Garcia,1603
+10032,Bombay,10056,Djibouti,6210
+10032,Bombay,10057,Dumai,2641
+10032,Bombay,10059,Durban,3826
+10032,Bombay,10060,Dutch Harbor,7805
+10032,Bombay,10061,East London,7523
+10032,Bombay,10064,Eilat,7309
+10032,Bombay,10065,Fateh Terminal,1146
+10032,Bombay,10067,Fort Dauphin,6416
+10032,Bombay,10068,Fremantle,3984
+10032,Bombay,10069,Galle,944
+10032,Bombay,10070,Guayaquil,13167
+10032,Bombay,10071,Gunsan,5105
+10032,Bombay,10072,Haiphong,5933
+10032,Bombay,10073,Hakodate,5601
+10032,Bombay,10074,Hankou,5240
+10032,Bombay,10075,Higashi-Iwase,5614
+10032,Bombay,10076,Ho Chi Minh,3090
+10032,Bombay,10077,Hong Kong,3895
+10032,Bombay,10078,Honolulu,8322
+10032,Bombay,10079,Honshu,5320
+10032,Bombay,10080,Hua-lien Kang,5181
+10032,Bombay,10081,Iloilo,3709
+10032,Bombay,10082,Incheon,5001
+10032,Bombay,10084,Jakarta,2966
+10032,Bombay,10085,Jaluit,7786
+10032,Bombay,10086,Kakinada,2650
+10032,Bombay,10087,Karachi,504
+10032,Bombay,10088,Kobe,5130
+10032,Bombay,10089,Kodiak,8461
+10032,Bombay,10090,Kompong Som,3079
+10032,Bombay,10091,Kota Kinabalu,3273
+10032,Bombay,10092,Kuching,2884
+10032,Bombay,10094,Levuka,9176
+10032,Bombay,10095,Lianyungang,5062
+10032,Bombay,10096,Lo hsing-ta Mao-ti,4258
+10032,Bombay,10097,Los Angeles,10308
+10032,Bombay,10099,Madras,1482
+10032,Bombay,10100,Maizuru,5448
+10032,Bombay,10101,Majunga,6286
+10032,Bombay,10102,Makassar,3511
+10032,Bombay,10103,Malacca,2327
+10032,Bombay,10104,Malakal,4447
+10032,Bombay,10105,Manila,3771
+10032,Bombay,10106,Maputo,7210
+10032,Bombay,10107,Marmagao,235
+10032,Bombay,10108,Massawa,2050
+10032,Bombay,10109,Midway Island,7269
+10032,Bombay,10110,Mina Abd Allah,1514
+10032,Bombay,10111,Mina al Ahmadi,1517
+10032,Bombay,10112,Mina Az Zawr,1495
+10032,Bombay,10113,Misumi,5138
+10032,Bombay,10114,Mocambique,5959
+10032,Bombay,10115,Mogadishu,6052
+10032,Bombay,10116,Mogpo,5017
+10032,Bombay,10117,Mombasa,2400
+10032,Bombay,10118,Mosselbaai,7825
+10032,Bombay,10119,Moulmein,2952
+10032,Bombay,10120,Mtwara,6483
+10032,Bombay,10121,Nagasaki,4854
+10032,Bombay,10122,Naha,5127
+10032,Bombay,10124,Nakagusuku,5163
+10032,Bombay,10125,Nakhodka,5639
+10032,Bombay,10126,Nampo,5062
+10032,Bombay,10127,Negappattinam,4009
+10032,Bombay,10128,Nha Trang Bay,3210
+10032,Bombay,10129,Nikolayevsk-Na-Amure,6390
+10032,Bombay,10132,Noumea,8833
+10032,Bombay,10133,Okha,341
+10032,Bombay,10134,Olongapo,3776
+10032,Bombay,10137,Otaru,5881
+10032,Bombay,10139,Pago Pago,9442
+10032,Bombay,10141,Palembang,2745
+10032,Bombay,10142,Panama,12946
+10032,Bombay,10143,Papeete,10555
+10032,Bombay,10145,Penang,2154
+10032,Bombay,10146,Peng-hu Kang,5253
+10032,Bombay,10147,Petropavlovsk-Kamchatskiy,6635
+10032,Bombay,10148,Phuket,2979
+10032,Bombay,10149,Ponape,7193
+10032,Bombay,10150,Port Augusta,6021
+10032,Bombay,10151,Port Blair,2903
+10032,Bombay,10152,Port Darwin,4193
+10032,Bombay,10153,Port des Galets,5891
+10032,Bombay,10154,Port Elizabeth,7650
+10032,Bombay,10155,Port Louis,2517
+10032,Bombay,10156,Port Pirie,6005
+10032,Bombay,10157,Port Said,3046
+10032,Bombay,10158,Port Sudan,2310
+10032,Bombay,10159,Port Swettenham,2651
+10032,Bombay,10160,Port Victoria,1752
+10032,Bombay,10161,Portland,9583
+10032,Bombay,10162,Prince Rupert,9124
+10032,Bombay,10163,Pulupandan,3945
+10032,Bombay,10164,Punta Arenas,14475
+10032,Bombay,10165,Qingdao,4907
+10032,Bombay,10166,Qinhuangdao,5316
+10032,Bombay,10167,Qui Nhon,3297
+10032,Bombay,10168,Rabaul,7460
+10032,Bombay,10169,Rangoon,2139
+10032,Bombay,10170,Ras al Khafji,1491
+10032,Bombay,10171,Ras as Sidr,7343
+10032,Bombay,10172,Ras Gharib,7268
+10032,Bombay,10173,Ras Tannurah,6142
+10032,Bombay,10174,Rongelap,6110
+10032,Bombay,10175,Sabang,1843
+10032,Bombay,10177,San Diego,10044
+10032,Bombay,10178,San Fernando,3820
+10032,Bombay,10179,San Francisco,9794
+10032,Bombay,10180,Sanmen Wen,4918
+10032,Bombay,10182,Seattle,9503
+10032,Bombay,10184,Selat Lombok,3404
+10032,Bombay,10186,Selat Sunda,2664
+10032,Bombay,10187,Selat Wetar,4028
+10032,Bombay,10188,Shanghai,4648
+10032,Bombay,10189,Shantou,5356
+10032,Bombay,10190,Shimonoseki,4968
+10032,Bombay,10191,Singapore,2441
+10032,Bombay,10192,Sitka,8874
+10032,Bombay,10193,Sorido,4643
+10032,Bombay,10194,Sorong,4335
+10032,Bombay,10199,Suakin,6692
+10032,Bombay,10200,Su-ao Kang,5146
+10032,Bombay,10202,Surabaya,3204
+10032,Bombay,10204,Suva,9115
+10032,Bombay,10205,Sydney,9290
+10032,Bombay,10206,Tai-tung Kang,5260
+10032,Bombay,10207,Tamatave,2621
+10032,Bombay,10208,Tandjung Uban,2468
+10032,Bombay,10209,Tanga,6478
+10032,Bombay,10210,Tarakan,3727
+10032,Bombay,10212,Telukbayur,3452
+10032,Bombay,10213,Tianjin,5388
+10032,Bombay,10214,Tjirebon,3065
+10032,Bombay,10216,Torres Strait,4849
+10032,Bombay,10217,Trincomalee,1218
+10032,Bombay,10218,Truk,5493
+10032,Bombay,10219,Tsugaru-Kaikyo,5784
+10032,Bombay,10220,Tsuruga,5471
+10032,Bombay,10221,Umm Said,6071
+10032,Bombay,10222,Valparaiso,14796
+10032,Bombay,10223,Vancouver,9519
+10032,Bombay,10224,Victoria,3203
+10032,Bombay,10225,Vinh Cam Ranh,3227
+10032,Bombay,10226,Vishakhapatnam,2586
+10032,Bombay,10228,Vladivostok,5445
+10032,Bombay,10229,Wakamatsu,5189
+10032,Bombay,10230,Wake Island,7198
+10032,Bombay,10231,Wake Island ,6326
+10032,Bombay,10232,Wallaroo,5941
+10032,Bombay,10233,Weihai,4989
+10032,Bombay,10234,Weipa,4844
+10032,Bombay,10235,Wenzhou,5013
+10032,Bombay,10236,Weonsan,5249
+10032,Bombay,10238,Whyalla,5987
+10032,Bombay,10239,Wotho,6055
+10032,Bombay,10240,Xiamen,4090
+10032,Bombay,10241,Yantai,5023
+10032,Bombay,10242,Yenbo,2503
+10032,Bombay,10243,Yokohama,5330
+10032,Bombay,10244,Zamboanga,3638
+10032,Bombay,10245,Zanzibar,2517
+10032,Bombay,10246,Zhenjiang,3774
+10038,Calcutta,10001,Abadan,3485
+10038,Calcutta,10002,Ad Damman,3501
+10038,Calcutta,10003,Aden,3304
+10038,Calcutta,10004,Akyab,402
+10038,Calcutta,10005,Al Basrah,3593
+10038,Calcutta,10006,Al Gurdagah,6403
+10038,Calcutta,10007,Al Jubayl,4481
+10038,Calcutta,10008,Al Manamah,3355
+10038,Calcutta,10009,Albany,4174
+10038,Calcutta,10010,Aleksandrovsk-Sakhalinskiy,5257
+10038,Calcutta,10011,Apia,8571
+10038,Calcutta,10012,Apra,4234
+10038,Calcutta,10013,Assab,3446
+10038,Calcutta,10014,Auckland,9004
+10038,Calcutta,10015,Avarua,9389
+10038,Calcutta,10017,Balikpapan,2702
+10038,Calcutta,10019,Bandar Abbas,3058
+10038,Calcutta,10020,Bandar Khomeini,5521
+10038,Calcutta,10021,Bandjermasin,2479
+10038,Calcutta,10022,Bangkok,2491
+10038,Calcutta,10023,Barbers Point,7515
+10038,Calcutta,10025,Bassein,643
+10038,Calcutta,10026,Beihai,2981
+10038,Calcutta,10027,Beira,6169
+10038,Calcutta,10028,Belawan,1326
+10038,Calcutta,10029,Berbera,5295
+10038,Calcutta,10030,Bhavnager,2332
+10038,Calcutta,10031,Bikini,5240
+10038,Calcutta,10032,Bombay,2128
+10038,Calcutta,10034,Brisbane,8099
+10038,Calcutta,10035,Bur Safaga,6378
+10038,Calcutta,10036,Busan,4151
+10038,Calcutta,10037,Bushehr,3414
+10038,Calcutta,10039,Calicut,3591
+10038,Calcutta,10040,Cape Leeuwin,3796
+10038,Calcutta,10041,Cape of Good Hope,5444
+10038,Calcutta,10042,Cebu,3004
+10038,Calcutta,10043,Chalna,288
+10038,Calcutta,10045,Chi-lung,4303
+10038,Calcutta,10046,Chimu Wan,3695
+10038,Calcutta,10047,Chittagong,367
+10038,Calcutta,10048,Cochin,2520
+10038,Calcutta,10049,Colombo,1258
+10038,Calcutta,10050,Dagu,4419
+10038,Calcutta,10051,Dalian,4261
+10038,Calcutta,10052,Dampier,5752
+10038,Calcutta,10053,Dar es Salaam,4628
+10038,Calcutta,10054,Davao,3181
+10038,Calcutta,10055,Diego Garcia,3731
+10038,Calcutta,10056,Djibouti,5418
+10038,Calcutta,10057,Dumai,1579
+10038,Calcutta,10059,Durban,5954
+10038,Calcutta,10060,Dutch Harbor,7013
+10038,Calcutta,10061,East London,6731
+10038,Calcutta,10064,Eilat,6517
+10038,Calcutta,10065,Fateh Terminal,3274
+10038,Calcutta,10067,Fort Dauphin,5624
+10038,Calcutta,10068,Fremantle,3693
+10038,Calcutta,10069,Galle,3072
+10038,Calcutta,10070,Guayaquil,12375
+10038,Calcutta,10071,Gunsan,4313
+10038,Calcutta,10072,Haiphong,5141
+10038,Calcutta,10073,Hakodate,4809
+10038,Calcutta,10074,Hankou,4448
+10038,Calcutta,10075,Higashi-Iwase,4822
+10038,Calcutta,10076,Ho Chi Minh,2298
+10038,Calcutta,10077,Hong Kong,3103
+10038,Calcutta,10078,Honolulu,7530
+10038,Calcutta,10079,Honshu,4528
+10038,Calcutta,10080,Hua-lien Kang,4389
+10038,Calcutta,10081,Iloilo,2917
+10038,Calcutta,10082,Incheon,4209
+10038,Calcutta,10084,Jakarta,2174
+10038,Calcutta,10085,Jaluit,6994
+10038,Calcutta,10086,Kakinada,522
+10038,Calcutta,10087,Karachi,2578
+10038,Calcutta,10088,Kobe,4338
+10038,Calcutta,10089,Kodiak,7669
+10038,Calcutta,10090,Kompong Som,2287
+10038,Calcutta,10091,Kota Kinabalu,2481
+10038,Calcutta,10092,Kuching,2092
+10038,Calcutta,10094,Levuka,8384
+10038,Calcutta,10095,Lianyungang,4270
+10038,Calcutta,10096,Lo hsing-ta Mao-ti,3466
+10038,Calcutta,10097,Los Angeles,9516
+10038,Calcutta,10099,Madras,769
+10038,Calcutta,10100,Maizuru,4656
+10038,Calcutta,10101,Majunga,5494
+10038,Calcutta,10102,Makassar,2719
+10038,Calcutta,10103,Malacca,1523
+10038,Calcutta,10104,Malakal,3655
+10038,Calcutta,10105,Manila,2979
+10038,Calcutta,10106,Maputo,6418
+10038,Calcutta,10107,Marmagao,2363
+10038,Calcutta,10108,Massawa,3696
+10038,Calcutta,10109,Midway Island,6477
+10038,Calcutta,10110,Mina Abd Allah,3642
+10038,Calcutta,10111,Mina al Ahmadi,3645
+10038,Calcutta,10112,Mina Az Zawr,3623
+10038,Calcutta,10113,Misumi,4346
+10038,Calcutta,10114,Mocambique,3831
+10038,Calcutta,10115,Mogadishu,5260
+10038,Calcutta,10116,Mogpo,4225
+10038,Calcutta,10117,Mombasa,3703
+10038,Calcutta,10118,Mosselbaai,7033
+10038,Calcutta,10119,Moulmein,824
+10038,Calcutta,10120,Mtwara,5691
+10038,Calcutta,10121,Nagasaki,4062
+10038,Calcutta,10122,Naha,4335
+10038,Calcutta,10124,Nakagusuku,4371
+10038,Calcutta,10125,Nakhodka,4847
+10038,Calcutta,10126,Nampo,4270
+10038,Calcutta,10127,Negappattinam,3217
+10038,Calcutta,10128,Nha Trang Bay,2418
+10038,Calcutta,10129,Nikolayevsk-Na-Amure,5598
+10038,Calcutta,10132,Noumea,8041
+10038,Calcutta,10133,Okha,2469
+10038,Calcutta,10134,Olongapo,2984
+10038,Calcutta,10137,Otaru,5089
+10038,Calcutta,10139,Pago Pago,8650
+10038,Calcutta,10141,Palembang,1953
+10038,Calcutta,10142,Panama,12154
+10038,Calcutta,10143,Papeete,9763
+10038,Calcutta,10145,Penang,1294
+10038,Calcutta,10146,Peng-hu Kang,4461
+10038,Calcutta,10147,Petropavlovsk-Kamchatskiy,5843
+10038,Calcutta,10148,Phuket,1124
+10038,Calcutta,10149,Ponape,6401
+10038,Calcutta,10150,Port Augusta,5229
+10038,Calcutta,10151,Port Blair,775
+10038,Calcutta,10152,Port Darwin,6321
+10038,Calcutta,10153,Port des Galets,5099
+10038,Calcutta,10154,Port Elizabeth,6858
+10038,Calcutta,10155,Port Louis,3212
+10038,Calcutta,10156,Port Pirie,5213
+10038,Calcutta,10157,Port Said,4691
+10038,Calcutta,10158,Port Sudan,4438
+10038,Calcutta,10159,Port Swettenham,1444
+10038,Calcutta,10160,Port Victoria,3880
+10038,Calcutta,10161,Portland,8791
+10038,Calcutta,10162,Prince Rupert,8332
+10038,Calcutta,10163,Pulupandan,3153
+10038,Calcutta,10164,Punta Arenas,13683
+10038,Calcutta,10165,Qingdao,4115
+10038,Calcutta,10166,Qinhuangdao,4524
+10038,Calcutta,10167,Qui Nhon,2505
+10038,Calcutta,10168,Rabaul,6668
+10038,Calcutta,10169,Rangoon,787
+10038,Calcutta,10170,Ras al Khafji,3619
+10038,Calcutta,10171,Ras as Sidr,6551
+10038,Calcutta,10172,Ras Gharib,6476
+10038,Calcutta,10173,Ras Tannurah,5350
+10038,Calcutta,10174,Rongelap,5318
+10038,Calcutta,10175,Sabang,1120
+10038,Calcutta,10177,San Diego,9252
+10038,Calcutta,10178,San Fernando,3028
+10038,Calcutta,10179,San Francisco,9002
+10038,Calcutta,10180,Sanmen Wen,4126
+10038,Calcutta,10182,Seattle,8711
+10038,Calcutta,10184,Selat Lombok,2608
+10038,Calcutta,10186,Selat Sunda,2140
+10038,Calcutta,10187,Selat Wetar,3236
+10038,Calcutta,10188,Shanghai,3856
+10038,Calcutta,10189,Shantou,4564
+10038,Calcutta,10190,Shimonoseki,4176
+10038,Calcutta,10191,Singapore,1649
+10038,Calcutta,10192,Sitka,8082
+10038,Calcutta,10193,Sorido,3851
+10038,Calcutta,10194,Sorong,3543
+10038,Calcutta,10199,Suakin,5900
+10038,Calcutta,10200,Su-ao Kang,4354
+10038,Calcutta,10202,Surabaya,2412
+10038,Calcutta,10204,Suva,8323
+10038,Calcutta,10205,Sydney,8498
+10038,Calcutta,10206,Tai-tung Kang,4468
+10038,Calcutta,10207,Tamatave,4749
+10038,Calcutta,10208,Tandjung Uban,1676
+10038,Calcutta,10209,Tanga,5686
+10038,Calcutta,10210,Tarakan,2935
+10038,Calcutta,10212,Telukbayur,2660
+10038,Calcutta,10213,Tianjin,4596
+10038,Calcutta,10214,Tjirebon,2273
+10038,Calcutta,10216,Torres Strait,6977
+10038,Calcutta,10217,Trincomalee,3346
+10038,Calcutta,10218,Truk,4701
+10038,Calcutta,10219,Tsugaru-Kaikyo,4992
+10038,Calcutta,10220,Tsuruga,4679
+10038,Calcutta,10221,Umm Said,5279
+10038,Calcutta,10222,Valparaiso,14004
+10038,Calcutta,10223,Vancouver,8727
+10038,Calcutta,10224,Victoria,2411
+10038,Calcutta,10225,Vinh Cam Ranh,2435
+10038,Calcutta,10226,Vishakhapatnam,458
+10038,Calcutta,10228,Vladivostok,4653
+10038,Calcutta,10229,Wakamatsu,4397
+10038,Calcutta,10230,Wake Island,6406
+10038,Calcutta,10231,Wake Island ,5534
+10038,Calcutta,10232,Wallaroo,5149
+10038,Calcutta,10233,Weihai,4197
+10038,Calcutta,10234,Weipa,6972
+10038,Calcutta,10235,Wenzhou,4221
+10038,Calcutta,10236,Weonsan,4457
+10038,Calcutta,10238,Whyalla,5195
+10038,Calcutta,10239,Wotho,5263
+10038,Calcutta,10240,Xiamen,3298
+10038,Calcutta,10241,Yantai,4231
+10038,Calcutta,10242,Yenbo,4148
+10038,Calcutta,10243,Yokohama,4538
+10038,Calcutta,10244,Zamboanga,2846
+10038,Calcutta,10245,Zanzibar,3776
+10038,Calcutta,10246,Zhenjiang,2982
+10188,Shanghai,10001,Abadan,6005
+10188,Shanghai,10002,Ad Damman,5888
+10188,Shanghai,10003,Aden,5834
+10188,Shanghai,10004,Akyab,3572
+10188,Shanghai,10005,Al Basrah,6123
+10188,Shanghai,10006,Al Gurdagah,6961
+10188,Shanghai,10007,Al Jubayl,7001
+10188,Shanghai,10008,Al Manamah,5859
+10188,Shanghai,10009,Albany,4732
+10188,Shanghai,10010,Aleksandrovsk-Sakhalinskiy,1597
+10188,Shanghai,10011,Apia,4715
+10188,Shanghai,10012,Apra,1687
+10188,Shanghai,10013,Assab,5976
+10188,Shanghai,10014,Auckland,5148
+10188,Shanghai,10015,Avarua,5533
+10188,Shanghai,10017,Balikpapan,3260
+10188,Shanghai,10019,Bandar Abbas,5588
+10188,Shanghai,10020,Bandar Khomeini,6079
+10188,Shanghai,10021,Bandjermasin,3037
+10188,Shanghai,10022,Bangkok,3049
+10188,Shanghai,10023,Barbers Point,8073
+10188,Shanghai,10025,Bassein,3344
+10188,Shanghai,10026,Beihai,3539
+10188,Shanghai,10027,Beira,6727
+10188,Shanghai,10028,Belawan,2575
+10188,Shanghai,10029,Berbera,5853
+10188,Shanghai,10030,Bhavnager,4852
+10188,Shanghai,10031,Bikini,5798
+10188,Shanghai,10032,Bombay,4648
+10188,Shanghai,10034,Brisbane,4243
+10188,Shanghai,10035,Bur Safaga,6936
+10188,Shanghai,10036,Busan,491
+10188,Shanghai,10037,Bushehr,5944
+10188,Shanghai,10038,Calcutta,3856
+10188,Shanghai,10039,Calicut,4149
+10188,Shanghai,10040,Cape Leeuwin,7652
+10188,Shanghai,10041,Cape of Good Hope,7786
+10188,Shanghai,10042,Cebu,1322
+10188,Shanghai,10043,Chalna,3785
+10188,Shanghai,10045,Chi-lung,447
+10188,Shanghai,10046,Chimu Wan,527
+10188,Shanghai,10047,Chittagong,3724
+10188,Shanghai,10048,Cochin,4060
+10188,Shanghai,10049,Colombo,3788
+10188,Shanghai,10050,Dagu,720
+10188,Shanghai,10051,Dalian,560
+10188,Shanghai,10052,Dampier,8272
+10188,Shanghai,10053,Dar es Salaam,6249
+10188,Shanghai,10054,Davao,3739
+10188,Shanghai,10055,Diego Garcia,4434
+10188,Shanghai,10056,Djibouti,5976
+10188,Shanghai,10057,Dumai,2407
+10188,Shanghai,10059,Durban,7079
+10188,Shanghai,10060,Dutch Harbor,3375
+10188,Shanghai,10061,East London,7289
+10188,Shanghai,10064,Eilat,7075
+10188,Shanghai,10065,Fateh Terminal,5794
+10188,Shanghai,10067,Fort Dauphin,6182
+10188,Shanghai,10068,Fremantle,7549
+10188,Shanghai,10069,Galle,3709
+10188,Shanghai,10070,Guayaquil,8872
+10188,Shanghai,10071,Gunsan,457
+10188,Shanghai,10072,Haiphong,1285
+10188,Shanghai,10073,Hakodate,1166
+10188,Shanghai,10074,Hankou,592
+10188,Shanghai,10075,Higashi-Iwase,966
+10188,Shanghai,10076,Ho Chi Minh,1679
+10188,Shanghai,10077,Hong Kong,831
+10188,Shanghai,10078,Honolulu,4336
+10188,Shanghai,10079,Honshu,5086
+10188,Shanghai,10080,Hua-lien Kang,533
+10188,Shanghai,10081,Iloilo,1343
+10188,Shanghai,10082,Incheon,503
+10188,Shanghai,10084,Jakarta,2522
+10188,Shanghai,10085,Jaluit,3138
+10188,Shanghai,10086,Kakinada,3800
+10188,Shanghai,10087,Karachi,5089
+10188,Shanghai,10088,Kobe,789
+10188,Shanghai,10089,Kodiak,3967
+10188,Shanghai,10090,Kompong Som,2845
+10188,Shanghai,10091,Kota Kinabalu,3039
+10188,Shanghai,10092,Kuching,2650
+10188,Shanghai,10094,Levuka,4528
+10188,Shanghai,10095,Lianyungang,414
+10188,Shanghai,10096,Lo hsing-ta Mao-ti,440
+10188,Shanghai,10097,Los Angeles,5810
+10188,Shanghai,10099,Madras,3790
+10188,Shanghai,10100,Maizuru,800
+10188,Shanghai,10101,Majunga,6052
+10188,Shanghai,10102,Makassar,3277
+10188,Shanghai,10103,Malacca,2324
+10188,Shanghai,10104,Malakal,4213
+10188,Shanghai,10105,Manila,1156
+10188,Shanghai,10106,Maputo,6976
+10188,Shanghai,10107,Marmagao,4424
+10188,Shanghai,10108,Massawa,6226
+10188,Shanghai,10109,Midway Island,3184
+10188,Shanghai,10110,Mina Abd Allah,6029
+10188,Shanghai,10111,Mina al Ahmadi,6032
+10188,Shanghai,10112,Mina Az Zawr,6010
+10188,Shanghai,10113,Misumi,490
+10188,Shanghai,10114,Mocambique,6287
+10188,Shanghai,10115,Mogadishu,5818
+10188,Shanghai,10116,Mogpo,369
+10188,Shanghai,10117,Mombasa,6194
+10188,Shanghai,10118,Mosselbaai,7591
+10188,Shanghai,10119,Moulmein,4680
+10188,Shanghai,10120,Mtwara,6249
+10188,Shanghai,10121,Nagasaki,463
+10188,Shanghai,10122,Naha,479
+10188,Shanghai,10124,Nakagusuku,515
+10188,Shanghai,10125,Nakhodka,991
+10188,Shanghai,10126,Nampo,561
+10188,Shanghai,10127,Negappattinam,3775
+10188,Shanghai,10128,Nha Trang Bay,2976
+10188,Shanghai,10129,Nikolayevsk-Na-Amure,1742
+10188,Shanghai,10132,Noumea,4185
+10188,Shanghai,10133,Okha,4989
+10188,Shanghai,10134,Olongapo,3542
+10188,Shanghai,10137,Otaru,1233
+10188,Shanghai,10139,Pago Pago,4794
+10188,Shanghai,10141,Palembang,2511
+10188,Shanghai,10142,Panama,8648
+10188,Shanghai,10143,Papeete,5907
+10188,Shanghai,10145,Penang,2574
+10188,Shanghai,10146,Peng-hu Kang,605
+10188,Shanghai,10147,Petropavlovsk-Kamchatskiy,2200
+10188,Shanghai,10148,Phuket,2745
+10188,Shanghai,10149,Ponape,2545
+10188,Shanghai,10150,Port Augusta,5787
+10188,Shanghai,10151,Port Blair,3136
+10188,Shanghai,10152,Port Darwin,2804
+10188,Shanghai,10153,Port des Galets,5657
+10188,Shanghai,10154,Port Elizabeth,7416
+10188,Shanghai,10155,Port Louis,5540
+10188,Shanghai,10156,Port Pirie,5771
+10188,Shanghai,10157,Port Said,7242
+10188,Shanghai,10158,Port Sudan,6958
+10188,Shanghai,10159,Port Swettenham,2417
+10188,Shanghai,10160,Port Victoria,6400
+10188,Shanghai,10161,Portland,9349
+10188,Shanghai,10162,Prince Rupert,8890
+10188,Shanghai,10163,Pulupandan,3711
+10188,Shanghai,10164,Punta Arenas,9827
+10188,Shanghai,10165,Qingdao,401
+10188,Shanghai,10166,Qinhuangdao,668
+10188,Shanghai,10167,Qui Nhon,3063
+10188,Shanghai,10168,Rabaul,2812
+10188,Shanghai,10169,Rangoon,3316
+10188,Shanghai,10170,Ras al Khafji,6006
+10188,Shanghai,10171,Ras as Sidr,7109
+10188,Shanghai,10172,Ras Gharib,7034
+10188,Shanghai,10173,Ras Tannurah,5908
+10188,Shanghai,10174,Rongelap,5876
+10188,Shanghai,10175,Sabang,2808
+10188,Shanghai,10177,San Diego,5396
+10188,Shanghai,10178,San Fernando,3586
+10188,Shanghai,10179,San Francisco,5396
+10188,Shanghai,10180,Sanmen Wen,270
+10188,Shanghai,10182,Seattle,5067
+10188,Shanghai,10184,Selat Lombok,2577
+10188,Shanghai,10186,Selat Sunda,2535
+10188,Shanghai,10187,Selat Wetar,2553
+10188,Shanghai,10189,Shantou,708
+10188,Shanghai,10190,Shimonoseki,548
+10188,Shanghai,10191,Singapore,2207
+10188,Shanghai,10192,Sitka,4446
+10188,Shanghai,10193,Sorido,4409
+10188,Shanghai,10194,Sorong,4101
+10188,Shanghai,10199,Suakin,6458
+10188,Shanghai,10200,Su-ao Kang,498
+10188,Shanghai,10202,Surabaya,2626
+10188,Shanghai,10204,Suva,4467
+10188,Shanghai,10205,Sydney,4642
+10188,Shanghai,10206,Tai-tung Kang,612
+10188,Shanghai,10207,Tamatave,5882
+10188,Shanghai,10208,Tandjung Uban,2234
+10188,Shanghai,10209,Tanga,6244
+10188,Shanghai,10210,Tarakan,3493
+10188,Shanghai,10212,Telukbayur,3218
+10188,Shanghai,10213,Tianjin,740
+10188,Shanghai,10214,Tjirebon,2831
+10188,Shanghai,10216,Torres Strait,9497
+10188,Shanghai,10217,Trincomalee,5866
+10188,Shanghai,10218,Truk,2261
+10188,Shanghai,10219,Tsugaru-Kaikyo,5550
+10188,Shanghai,10220,Tsuruga,823
+10188,Shanghai,10221,Umm Said,5837
+10188,Shanghai,10222,Valparaiso,10148
+10188,Shanghai,10223,Vancouver,9285
+10188,Shanghai,10224,Victoria,2969
+10188,Shanghai,10225,Vinh Cam Ranh,1520
+10188,Shanghai,10226,Vishakhapatnam,4314
+10188,Shanghai,10228,Vladivostok,998
+10188,Shanghai,10229,Wakamatsu,541
+10188,Shanghai,10230,Wake Island,2550
+10188,Shanghai,10231,Wake Island ,6092
+10188,Shanghai,10232,Wallaroo,5707
+10188,Shanghai,10233,Weihai,483
+10188,Shanghai,10234,Weipa,9492
+10188,Shanghai,10235,Wenzhou,365
+10188,Shanghai,10236,Weonsan,797
+10188,Shanghai,10238,Whyalla,5753
+10188,Shanghai,10239,Wotho,5821
+10188,Shanghai,10240,Xiamen,603
+10188,Shanghai,10241,Yantai,523
+10188,Shanghai,10242,Yenbo,7151
+10188,Shanghai,10243,Yokohama,1117
+10188,Shanghai,10244,Zamboanga,3404
+10188,Shanghai,10245,Zanzibar,6267
+10188,Shanghai,10246,Zhenjiang,3540
+10191,Singapore,10001,Abadan,3798
+10191,Singapore,10002,Ad Damman,3681
+10191,Singapore,10003,Aden,3627
+10191,Singapore,10004,Akyab,1365
+10191,Singapore,10005,Al Basrah,3916
+10191,Singapore,10006,Al Gurdagah,4754
+10191,Singapore,10007,Al Jubayl,4794
+10191,Singapore,10008,Al Manamah,3652
+10191,Singapore,10009,Albany,2525
+10191,Singapore,10010,Aleksandrovsk-Sakhalinskiy,3608
+10191,Singapore,10011,Apia,6922
+10191,Singapore,10012,Apra,2585
+10191,Singapore,10013,Assab,3769
+10191,Singapore,10014,Auckland,7355
+10191,Singapore,10015,Avarua,7740
+10191,Singapore,10017,Balikpapan,1053
+10191,Singapore,10019,Bandar Abbas,3381
+10191,Singapore,10020,Bandar Khomeini,3872
+10191,Singapore,10021,Bandjermasin,830
+10191,Singapore,10022,Bangkok,842
+10191,Singapore,10023,Barbers Point,5866
+10191,Singapore,10025,Bassein,1137
+10191,Singapore,10026,Beihai,1332
+10191,Singapore,10027,Beira,4520
+10191,Singapore,10028,Belawan,368
+10191,Singapore,10029,Berbera,3646
+10191,Singapore,10030,Bhavnager,2645
+10191,Singapore,10031,Bikini,3591
+10191,Singapore,10032,Bombay,2441
+10191,Singapore,10034,Brisbane,6450
+10191,Singapore,10035,Bur Safaga,4729
+10191,Singapore,10036,Busan,2502
+10191,Singapore,10037,Bushehr,3737
+10191,Singapore,10038,Calcutta,1649
+10191,Singapore,10039,Calicut,1942
+10191,Singapore,10040,Cape Leeuwin,5445
+10191,Singapore,10041,Cape of Good Hope,5579
+10191,Singapore,10042,Cebu,1355
+10191,Singapore,10043,Chalna,1578
+10191,Singapore,10045,Chi-lung,2654
+10191,Singapore,10046,Chimu Wan,2046
+10191,Singapore,10047,Chittagong,1517
+10191,Singapore,10048,Cochin,1853
+10191,Singapore,10049,Colombo,1581
+10191,Singapore,10050,Dagu,2770
+10191,Singapore,10051,Dalian,2612
+10191,Singapore,10052,Dampier,6065
+10191,Singapore,10053,Dar es Salaam,4042
+10191,Singapore,10054,Davao,1532
+10191,Singapore,10055,Diego Garcia,2227
+10191,Singapore,10056,Djibouti,3769
+10191,Singapore,10057,Dumai,200
+10191,Singapore,10059,Durban,4872
+10191,Singapore,10060,Dutch Harbor,5364
+10191,Singapore,10061,East London,5082
+10191,Singapore,10064,Eilat,4868
+10191,Singapore,10065,Fateh Terminal,3587
+10191,Singapore,10067,Fort Dauphin,3975
+10191,Singapore,10068,Fremantle,5342
+10191,Singapore,10069,Galle,1502
+10191,Singapore,10070,Guayaquil,10726
+10191,Singapore,10071,Gunsan,2664
+10191,Singapore,10072,Haiphong,3492
+10191,Singapore,10073,Hakodate,3160
+10191,Singapore,10074,Hankou,2799
+10191,Singapore,10075,Higashi-Iwase,3173
+10191,Singapore,10076,Ho Chi Minh,649
+10191,Singapore,10077,Hong Kong,1454
+10191,Singapore,10078,Honolulu,5881
+10191,Singapore,10079,Honshu,2879
+10191,Singapore,10080,Hua-lien Kang,2740
+10191,Singapore,10081,Iloilo,1268
+10191,Singapore,10082,Incheon,2560
+10191,Singapore,10084,Jakarta,525
+10191,Singapore,10085,Jaluit,5345
+10191,Singapore,10086,Kakinada,1593
+10191,Singapore,10087,Karachi,2882
+10191,Singapore,10088,Kobe,2689
+10191,Singapore,10089,Kodiak,6020
+10191,Singapore,10090,Kompong Som,638
+10191,Singapore,10091,Kota Kinabalu,832
+10191,Singapore,10092,Kuching,443
+10191,Singapore,10094,Levuka,6735
+10191,Singapore,10095,Lianyungang,2621
+10191,Singapore,10096,Lo hsing-ta Mao-ti,1817
+10191,Singapore,10097,Los Angeles,7867
+10191,Singapore,10099,Madras,1583
+10191,Singapore,10100,Maizuru,3007
+10191,Singapore,10101,Majunga,3845
+10191,Singapore,10102,Makassar,1070
+10191,Singapore,10103,Malacca,117
+10191,Singapore,10104,Malakal,2006
+10191,Singapore,10105,Manila,1330
+10191,Singapore,10106,Maputo,4769
+10191,Singapore,10107,Marmagao,2217
+10191,Singapore,10108,Massawa,4019
+10191,Singapore,10109,Midway Island,4828
+10191,Singapore,10110,Mina Abd Allah,3822
+10191,Singapore,10111,Mina al Ahmadi,3825
+10191,Singapore,10112,Mina Az Zawr,3803
+10191,Singapore,10113,Misumi,2697
+10191,Singapore,10114,Mocambique,4080
+10191,Singapore,10115,Mogadishu,3611
+10191,Singapore,10116,Mogpo,2576
+10191,Singapore,10117,Mombasa,3987
+10191,Singapore,10118,Mosselbaai,5384
+10191,Singapore,10119,Moulmein,2473
+10191,Singapore,10120,Mtwara,4042
+10191,Singapore,10121,Nagasaki,2413
+10191,Singapore,10122,Naha,2686
+10191,Singapore,10124,Nakagusuku,2722
+10191,Singapore,10125,Nakhodka,3198
+10191,Singapore,10126,Nampo,2621
+10191,Singapore,10127,Negappattinam,1568
+10191,Singapore,10128,Nha Trang Bay,769
+10191,Singapore,10129,Nikolayevsk-Na-Amure,3949
+10191,Singapore,10132,Noumea,6392
+10191,Singapore,10133,Okha,2782
+10191,Singapore,10134,Olongapo,1335
+10191,Singapore,10137,Otaru,3440
+10191,Singapore,10139,Pago Pago,7001
+10191,Singapore,10141,Palembang,304
+10191,Singapore,10142,Panama,10505
+10191,Singapore,10143,Papeete,8114
+10191,Singapore,10145,Penang,367
+10191,Singapore,10146,Peng-hu Kang,2812
+10191,Singapore,10147,Petropavlovsk-Kamchatskiy,4194
+10191,Singapore,10148,Phuket,538
+10191,Singapore,10149,Ponape,4752
+10191,Singapore,10150,Port Augusta,3580
+10191,Singapore,10151,Port Blair,929
+10191,Singapore,10152,Port Darwin,5011
+10191,Singapore,10153,Port des Galets,3450
+10191,Singapore,10154,Port Elizabeth,5209
+10191,Singapore,10155,Port Louis,3333
+10191,Singapore,10156,Port Pirie,3564
+10191,Singapore,10157,Port Said,5035
+10191,Singapore,10158,Port Sudan,4751
+10191,Singapore,10159,Port Swettenham,210
+10191,Singapore,10160,Port Victoria,4193
+10191,Singapore,10161,Portland,7142
+10191,Singapore,10162,Prince Rupert,6683
+10191,Singapore,10163,Pulupandan,1504
+10191,Singapore,10164,Punta Arenas,12034
+10191,Singapore,10165,Qingdao,2466
+10191,Singapore,10166,Qinhuangdao,2875
+10191,Singapore,10167,Qui Nhon,856
+10191,Singapore,10168,Rabaul,5019
+10191,Singapore,10169,Rangoon,1109
+10191,Singapore,10170,Ras al Khafji,3799
+10191,Singapore,10171,Ras as Sidr,4902
+10191,Singapore,10172,Ras Gharib,4827
+10191,Singapore,10173,Ras Tannurah,3701
+10191,Singapore,10174,Rongelap,3669
+10191,Singapore,10175,Sabang,601
+10191,Singapore,10177,San Diego,7603
+10191,Singapore,10178,San Fernando,1379
+10191,Singapore,10179,San Francisco,7353
+10191,Singapore,10180,Sanmen Wen,2477
+10191,Singapore,10182,Seattle,7062
+10191,Singapore,10184,Selat Lombok,963
+10191,Singapore,10186,Selat Sunda,532
+10191,Singapore,10187,Selat Wetar,1587
+10191,Singapore,10188,Shanghai,2207
+10191,Singapore,10189,Shantou,2915
+10191,Singapore,10190,Shimonoseki,2527
+10191,Singapore,10192,Sitka,6433
+10191,Singapore,10193,Sorido,2202
+10191,Singapore,10194,Sorong,1894
+10191,Singapore,10199,Suakin,4251
+10191,Singapore,10200,Su-ao Kang,2705
+10191,Singapore,10202,Surabaya,763
+10191,Singapore,10204,Suva,6674
+10191,Singapore,10205,Sydney,6849
+10191,Singapore,10206,Tai-tung Kang,2819
+10191,Singapore,10207,Tamatave,3675
+10191,Singapore,10208,Tandjung Uban,27
+10191,Singapore,10209,Tanga,4037
+10191,Singapore,10210,Tarakan,1286
+10191,Singapore,10212,Telukbayur,1011
+10191,Singapore,10213,Tianjin,2947
+10191,Singapore,10214,Tjirebon,624
+10191,Singapore,10216,Torres Strait,7290
+10191,Singapore,10217,Trincomalee,3659
+10191,Singapore,10218,Truk,3052
+10191,Singapore,10219,Tsugaru-Kaikyo,3343
+10191,Singapore,10220,Tsuruga,3030
+10191,Singapore,10221,Umm Said,3630
+10191,Singapore,10222,Valparaiso,12355
+10191,Singapore,10223,Vancouver,7078
+10191,Singapore,10224,Victoria,762
+10191,Singapore,10225,Vinh Cam Ranh,786
+10191,Singapore,10226,Vishakhapatnam,2107
+10191,Singapore,10228,Vladivostok,3004
+10191,Singapore,10229,Wakamatsu,2748
+10191,Singapore,10230,Wake Island,4757
+10191,Singapore,10231,Wake Island ,3885
+10191,Singapore,10232,Wallaroo,3500
+10191,Singapore,10233,Weihai,2548
+10191,Singapore,10234,Weipa,7285
+10191,Singapore,10235,Wenzhou,2572
+10191,Singapore,10236,Weonsan,2808
+10191,Singapore,10238,Whyalla,3546
+10191,Singapore,10239,Wotho,3614
+10191,Singapore,10240,Xiamen,1649
+10191,Singapore,10241,Yantai,2582
+10191,Singapore,10242,Yenbo,4944
+10191,Singapore,10243,Yokohama,2889
+10191,Singapore,10244,Zamboanga,1197
+10191,Singapore,10245,Zanzibar,4060
+10191,Singapore,10246,Zhenjiang,1333

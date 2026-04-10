@@ -1,0 +1,3696 @@
+port_number,port_name,port_country,latitude,longitude
+10001,Keflavik,Iceland,64.00,-22.33
+10002,Straumsvik,Iceland,64.30,-22.30
+10003,Hafnarfjordur,Iceland,64.40,-21.57
+10004,Skerjafjordur,Iceland,64.90,-22.10
+10005,Reykjavik,Iceland,64.90,-21.56
+10006,Grundartangi,Iceland,64.16,-22.00
+10007,Bildudalur,Iceland,65.41,-23.36
+10008,Thingeyri,Iceland,65.53,-23.29
+10009,Bolungavik,Iceland,66.10,-23.14
+10010,Isafjordur,Iceland,66.40,-23.70
+10011,Blonduos,Iceland,65.40,-20.18
+10012,Skagastrond,Iceland,65.50,-20.19
+10013,Saudarkrokur,Iceland,65.45,-19.40
+10014,Siglufjorhurd,Iceland,66.90,-18.55
+10015,Olafsfjordhur,Iceland,66.50,-18.38
+10016,Dalvik,Iceland,65.59,-18.31
+10017,Akureyri,Iceland,65.41,-18.50
+10018,Husavik,Iceland,66.20,-17.20
+10019,Kopasker,Iceland,66.17,-16.27
+10020,Raufarhofn,Iceland,66.27,-15.56
+10021,Vopnafjordhur,Iceland,65.45,-14.50
+10022,Seydhisfjordhur,Iceland,65.16,-14.00
+10023,Neskaupstadur,Iceland,65.90,-13.41
+10024,Eskifjordhur,Iceland,65.40,-14.10
+10025,Budir,Iceland,64.56,-14.10
+10026,Djupivogur,Iceland,64.40,-14.17
+10027,Hornabjordur,Iceland,64.15,-15.14
+10028,Vestmannaeyjar,Iceland,63.26,-20.17
+10029,Qutdleq,Greenland,61.31,-42.13
+10030,Kusanartoq,Greenland,61.46,-42.13
+10031,Nanortalik Havn,Greenland,60.70,-45.12
+10032,Qaqurtoq,Greenland,60.43,-46.30
+10033,Narsaq,Greenland,60.55,-46.30
+10034,Narsarssuaq,Greenland,61.90,-45.26
+10035,Gronnedal (Kangilinnguit),Greenland,61.14,-48.60
+10036,Paamuit (Frederikshab),Greenland,62.00,-49.40
+10037,Kangerluarsoruseq,Greenland,63.42,-51.33
+10038,Nuuk,Greenland,64.11,-51.45
+10039,Maniitsoq,Greenland,65.25,-52.55
+10040,Kangamiut,Greenland,65.49,-53.18
+10041,Sisimiut,Greenland,66.55,-53.42
+10042,Kangerlusuaq,Greenland,66.58,-50.57
+10043,Attu,Greenland,67.57,-53.44
+10044,Aasiaat,Greenland,68.42,-52.52
+10045,Qasigiannguit-Christianshab,Greenland,68.49,-51.11
+10046,Illulissat (Jakobshavn),Greenland,69.13,-51.60
+10047,Qeqertarsuaq,Greenland,69.14,-53.32
+10048,Niaqornat,Greenland,70.48,-53.40
+10049,Uummannaq Harbor,Greenland,70.41,-52.90
+10050,Kajalleq Upernavik,Greenland,72.90,-55.32
+10051,Upernavik,Greenland,72.46,-56.90
+10052,Pituffik (Thule Air Base),Greenland,76.32,-68.52
+10053,Pond Inlet,Canada,72.45,-76.45
+10054,Padloping Island,Canada,67.20,-62.44
+10055,Pangnirtung,Canada,66.80,-65.45
+10056,Churchill,Canada,58.47,-94.11
+10057,Goose Bay,Canada,53.22,-60.18
+10058,Conche,Canada,50.53,-55.54
+10059,Roddickton,Canada,50.52,-56.80
+10060,Westport Cove,Canada,49.47,-56.37
+10061,Seal Cove,Canada,49.56,-56.23
+10062,Little Bay,Canada,49.37,-56.00
+10063,Springdale,Canada,49.30,-56.40
+10064,Fortune Harbor,Canada,49.32,-55.14
+10065,Twillingate Harbor,Canada,49.40,-54.46
+10066,Bonavista Harbor,Canada,48.39,-53.70
+10067,Catalina Harbor,Canada,48.30,-53.50
+10068,Port Union,Canada,48.30,-53.50
+10069,Clarenville,Canada,48.90,-53.57
+10070,Carbonear Bay,Canada,47.44,-53.13
+10071,Harbor Grace,Canada,47.41,-53.13
+10072,St John'S,Canada,47.34,-52.42
+10073,Trepassey Harbor,Canada,46.44,-53.24
+10074,Argentia,Canada,47.18,-53.59
+10075,Come By Chance Harbor,Canada,47.48,-54.10
+10076,Port De St Pierre,Canada,46.47,-56.10
+10077,Grand Bank,Canada,47.60,-55.45
+10078,Burgeo,Canada,47.36,-57.37
+10079,Port Aux Basques,Canada,47.34,-59.80
+10080,Stephenville,Canada,48.32,-58.32
+10081,St George'S,Canada,48.27,-58.27
+10082,Corner Brook,Canada,48.57,-57.57
+10083,Blanc Sablon,Canada,51.25,-57.80
+10084,Havre St Pierre,Canada,50.14,-63.36
+10085,Mingan,Canada,50.17,-64.10
+10086,Sept Iles,Canada,50.12,-66.23
+10087,Pointe Noire,Canada,50.10,-66.29
+10088,Port Cartier,Canada,50.20,-66.47
+10089,Matane,Canada,48.51,-67.32
+10090,Baie Comeau,Canada,49.14,-68.80
+10091,Rimouski,Canada,48.27,-68.31
+10092,Tadoussac,Canada,48.90,-69.43
+10093,La Baie (Port Alfred),Canada,48.20,-70.53
+10094,Chicoutimi (Port Saguenay),Canada,48.26,-71.40
+10095,Riviere Du Loup,Canada,47.50,-69.31
+10096,Quebec,Canada,46.49,-71.13
+10097,Port De Becancour,Canada,46.24,-72.23
+10098,Trois Rivieres,Canada,46.21,-72.33
+10099,Sorel,Canada,46.30,-73.70
+10100,Montreal,Canada,45.31,-73.33
+10101,Vaudreuil,Canada,45.24,-74.20
+10102,Oka Sur Le Lac,Canada,45.28,-74.50
+10103,Hudson,Canada,45.28,-74.80
+10104,St Placide,Canada,45.32,-74.12
+10105,St Andrews East,Canada,45.34,-74.20
+10106,Carillon,Canada,45.34,-74.22
+10107,Chute A Blondeau,Canada,45.35,-74.28
+10108,Grenville,Canada,45.38,-74.36
+10109,Hawkesbury,Canada,45.37,-74.37
+10110,Fassett,Canada,45.39,-74.52
+10111,Montebello,Canada,45.39,-74.56
+10112,Papineauville,Canada,45.37,-75.10
+10113,Thurso,Canada,45.36,-75.14
+10114,Rockland,Canada,45.33,-75.18
+10115,Cumberland,Canada,45.31,-75.24
+10116,Masson,Canada,45.32,-75.25
+10117,Gatineau,Canada,45.29,-75.39
+10118,Ottawa,Canada,45.26,-75.42
+10119,Hull,Canada,45.26,-75.42
+10120,Beauharnois,Canada,45.19,-73.53
+10121,Coteau Landing,Canada,45.15,-74.12
+10122,St Zotique,Canada,45.15,-74.15
+10123,St Anicet,Canada,45.80,-74.22
+10124,South Lancaster,Canada,45.80,-74.30
+10125,Cornwall,Canada,45.10,-74.44
+10126,Cardinal,Canada,44.47,-75.23
+10127,Lower Lakes Terminal,Canada,44.44,-75.28
+10128,Brockville,Canada,44.35,-75.40
+10129,Rockport,Canada,44.23,-75.56
+10130,Gananoque,Canada,44.20,-76.10
+10131,Wolfe Island,Canada,44.12,-76.26
+10132,Kingston,Canada,44.14,-76.30
+10133,Ogdensburg,United States of America,44.42,-75.30
+10134,Alexandria Bay,United States of America,44.20,-75.55
+10135,Clayton,United States of America,44.14,-76.30
+10136,Millhaven,Canada,44.12,-76.44
+10137,Picton,Canada,44.10,-77.80
+10138,Belleville,Canada,44.90,-77.24
+10139,Trenton,Canada,44.60,-77.34
+10140,Cobourg,Canada,43.57,-78.10
+10141,Port Hope,Canada,43.56,-78.17
+10142,Contrecour,Canada,45.53,-73.12
+10143,Oshawa,Canada,43.52,-78.49
+10144,Port Whitby,Canada,43.51,-78.56
+10145,Toronto,Canada,43.37,-79.23
+10146,Port Credit,Canada,43.33,-79.35
+10147,Clarkson,Canada,43.30,-79.36
+10148,Oakville,Canada,43.26,-79.40
+10149,Bronte,Canada,43.24,-79.43
+10150,Hamilton,Canada,43.15,-79.51
+10151,Port Dalhousie,Canada,43.13,-79.16
+10152,Port Weller,Canada,43.14,-79.13
+10153,Welland,Canada,43.00,-79.15
+10154,Thorold,Canada,43.50,-79.43
+10155,St Catherine,Canada,43.11,-79.17
+10156,Niagara,Canada,43.15,-79.40
+10157,Queenston,Canada,43.10,-79.40
+10158,Chaumont,United States of America,44.40,-76.80
+10159,Sackets Harbor,United States of America,43.57,-76.70
+10160,Oswego,United States of America,43.28,-76.31
+10161,Sodus Bay,United States of America,43.16,-76.59
+10162,Rochester,United States of America,43.16,-77.36
+10163,Youngstown,United States of America,43.15,-79.30
+10164,Port Colborne,Canada,42.53,-79.15
+10165,Port Maitland,Canada,42.51,-79.35
+10166,Port Dover,Canada,42.47,-80.12
+10167,Port Stanley,Canada,42.40,-81.12
+10168,Rondeau,Canada,42.16,-81.54
+10169,Pelee I North Wharf,Canada,41.49,-82.40
+10170,Pelee I West Dock,Canada,41.46,-82.41
+10171,Leamington,Canada,42.20,-82.36
+10172,Kingsville,Canada,42.10,-82.44
+10173,Amherstburg,Canada,42.60,-83.60
+10174,Windsor,Canada,42.19,-83.20
+10175,Tonawanda,United States of America,43.20,-78.53
+10176,Buffalo,United States of America,42.53,-78.53
+10177,Dunkirk,United States of America,42.29,-79.20
+10178,Erie,United States of America,42.90,-80.60
+10179,Conneaut,United States of America,41.58,-80.33
+10180,Ashtabula,United States of America,41.54,-80.48
+10181,Fairport,United States of America,41.46,-81.18
+10182,Cleveland,United States of America,41.30,-81.43
+10183,Lorain,United States of America,41.28,-82.11
+10184,Vermilion,United States of America,41.26,-82.22
+10185,Huron,United States of America,41.24,-82.33
+10186,Sandusky,United States of America,41.27,-82.43
+10187,Port Clinton,United States of America,41.31,-82.56
+10188,Put In Bay,United States of America,41.39,-82.49
+10189,Toledo,United States of America,41.42,-83.28
+10190,Monroe,United States of America,41.53,-83.20
+10191,Trenton,United States of America,42.80,-83.10
+10192,Wyandotte,United States of America,42.12,-83.90
+10193,Rouge River,United States of America,42.17,-83.70
+10194,Detroit,United States of America,42.20,-83.20
+10195,Walpole Island,Canada,42.37,-82.31
+10196,Sombra,Canada,42.43,-82.29
+10197,Courtright,Canada,42.49,-82.28
+10198,Sarnia,Canada,42.59,-82.25
+10199,Point Edward,Canada,43.00,-82.25
+10200,Goderich,Canada,43.45,-81.44
+10201,Port Elgin,Canada,44.26,-81.24
+10202,Southampton,Canada,44.30,-81.23
+10203,Tobermory,Canada,45.16,-81.40
+10204,Lions Head,Canada,44.59,-81.15
+10205,Wiarton,Canada,44.45,-81.80
+10206,Owen Sound,Canada,44.35,-80.56
+10207,Meaford,Canada,44.37,-80.36
+10208,Thornbury,Canada,44.34,-80.27
+10209,Collingwood,Canada,44.30,-80.14
+10210,Penetanguishene,Canada,44.46,-79.56
+10211,Midland,Canada,44.45,-79.55
+10212,Tiffin,Canada,44.45,-79.51
+10213,Port Mcnicoll,Canada,44.45,-79.48
+10214,Victoria Harbour,Canada,44.45,-79.49
+10215,Waubaushene,Canada,44.46,-79.43
+10216,Port Severn,Canada,44.48,-79.43
+10217,Depot Harbour,Canada,45.19,-80.60
+10218,Parry Sound,Canada,45.20,-80.20
+10219,Byng Inlet,Canada,45.46,-80.34
+10220,Key Harbour,Canada,45.53,-80.45
+10221,Killarney,Canada,45.58,-81.31
+10222,Manitowaning,Canada,45.45,-81.48
+10223,Sheguiandah,Canada,45.54,-81.55
+10224,Little Current,Canada,45.59,-81.56
+10225,Honora,Canada,45.52,-82.10
+10226,Kagawong,Canada,45.55,-82.15
+10227,Gore Bay,Canada,45.55,-82.28
+10228,Meldrum Bay,Canada,45.56,-83.70
+10229,Blind River,Canada,46.11,-82.57
+10230,Cockburn,Canada,45.57,-83.19
+10231,Thessalon,Canada,46.15,-83.34
+10232,Bruce Mines,Canada,46.17,-83.47
+10233,Hilton,Canada,46.15,-83.53
+10234,Desbarats,Canada,46.20,-83.55
+10235,Richards Landing,Canada,46.18,-84.20
+10236,Sault Ste Marie,Canada,46.31,-84.21
+10237,Algonac,United States of America,42.37,-82.31
+10238,Marine City,United States of America,42.43,-82.30
+10239,St Clair,United States of America,42.49,-82.29
+10240,Port Huron,United States of America,43.00,-82.26
+10241,Harbor Beach,United States of America,43.51,-82.39
+10242,Port Hope,United States of America,43.57,-82.42
+10243,Bay City,United States of America,43.36,-83.52
+10244,Saginaw,United States of America,43.26,-83.56
+10245,Alabaster,United States of America,44.11,-83.33
+10246,Tawas City,United States of America,44.16,-83.30
+10247,Au Sable,United States of America,44.24,-83.19
+10248,Oscoda,United States of America,44.25,-83.19
+10249,Alpena,United States of America,45.40,-83.25
+10250,Rockport,United States of America,45.12,-83.23
+10251,Calcite,United States of America,45.25,-83.47
+10252,Rogers City,United States of America,45.27,-83.49
+10253,Cheboygan,United States of America,45.39,-84.28
+10254,Mackinaw City,United States of America,45.47,-84.43
+10255,Mackinac Island,United States of America,45.51,-84.37
+10256,St Ignace,United States of America,45.51,-84.43
+10257,Sault Ste Marie,United States of America,46.30,-84.21
+10258,St. James Harbor,United States of America,45.44,-85.31
+10259,Harbor Springs,United States of America,45.26,-84.59
+10260,Petoskey,United States of America,45.22,-84.58
+10261,Charlevoix,United States of America,45.19,-85.16
+10262,Traverse City,United States of America,44.46,-85.37
+10263,Leland,United States of America,45.10,-85.46
+10264,Frankfort,United States of America,44.38,-86.15
+10265,Manistee,United States of America,44.15,-86.19
+10266,Ludington,United States of America,43.57,-86.27
+10267,White Lake,United States of America,43.23,-86.21
+10268,Muskegon,United States of America,43.14,-86.16
+10269,Grand Haven,United States of America,43.40,-86.14
+10270,Holland,United States of America,42.47,-86.80
+10271,Saugatuck,United States of America,42.40,-86.12
+10272,South Haven,United States of America,42.24,-86.17
+10273,St Joseph,United States of America,42.70,-86.29
+10274,Michigan City,United States of America,41.44,-86.54
+10275,Gary,United States of America,41.37,-87.20
+10276,Buffington,United States of America,41.38,-87.25
+10277,Indiana Harbor,United States of America,41.40,-87.26
+10278,Calumet Harbor,United States of America,41.44,-87.31
+10279,Chicago,United States of America,41.53,-87.36
+10280,Wilmette,United States of America,42.50,-87.41
+10281,Great Lakes,United States of America,42.18,-87.50
+10282,Waukegan,United States of America,42.22,-87.49
+10283,Kenosha,United States of America,42.35,-87.49
+10284,Racine,United States of America,42.44,-87.47
+10285,Milwaukee,United States of America,43.20,-87.53
+10286,Port Washington,United States of America,43.23,-87.52
+10287,Sheboygan,United States of America,43.45,-87.42
+10288,Manitowoc,United States of America,44.60,-87.39
+10289,Two Rivers,United States of America,44.90,-87.34
+10290,Kewaunee,United States of America,44.28,-87.30
+10291,Algoma,United States of America,44.36,-87.26
+10292,Sturgeon Bay,United States of America,44.50,-87.23
+10293,Green Bay,United States of America,44.31,-88.10
+10294,Depere,United States of America,44.27,-88.40
+10295,Kaukauna,United States of America,44.17,-88.16
+10296,Oconto,United States of America,44.54,-87.50
+10297,Marinette,United States of America,45.50,-87.36
+10298,Menominee,United States of America,45.60,-87.36
+10299,Escanaba,United States of America,45.46,-87.30
+10300,Gladstone,United States of America,45.51,-87.10
+10301,Nahma,United States of America,45.50,-86.40
+10302,Manistique,United States of America,45.57,-86.15
+10303,Port Inland,United States of America,45.58,-85.52
+10304,Goulais Bay,Canada,46.44,-84.30
+10305,Batchawana Bay,Canada,46.55,-84.36
+10306,Gargantua,Canada,47.34,-84.58
+10307,Michipicoten,Canada,47.58,-84.54
+10308,Quebec Harbour,Canada,47.42,-85.48
+10309,Heron Bay,Canada,48.39,-86.19
+10310,Thunder Bay,Canada,48.24,-89.14
+10311,Grand Marais,United States of America,46.41,-85.58
+10312,Munising,United States of America,46.25,-86.39
+10313,Marquette,United States of America,46.32,-87.23
+10314,Presque Isle,United States of America,46.34,-87.23
+10315,L Anse,United States of America,46.46,-88.28
+10316,Baraga,United States of America,46.47,-88.29
+10317,Copper Harbor,United States of America,47.28,-87.52
+10318,Eagle Harbor,United States of America,47.28,-88.10
+10319,Houghton,United States of America,47.70,-88.34
+10320,Ontonagon,United States of America,46.53,-89.20
+10321,Ashland,United States of America,46.36,-90.52
+10322,Washburn,United States of America,46.40,-90.53
+10323,Bayfield,United States of America,46.48,-90.49
+10324,La Pointe,United States of America,46.47,-90.47
+10325,Cornucopia,United States of America,46.52,-91.60
+10326,Port Wing,United States of America,46.47,-91.23
+10327,Superior,United States of America,46.44,-92.40
+10328,Duluth,United States of America,46.46,-92.60
+10329,Two Harbors,United States of America,47.10,-91.39
+10330,Grand Marais,United States of America,47.45,-90.20
+10331,Washington Harbor,United States of America,47.55,-89.90
+10332,Gaspe,Canada,48.50,-64.29
+10333,Douglastown,Canada,48.46,-64.23
+10334,Chandler,Canada,48.22,-64.40
+10335,Dalhousie,Canada,48.40,-66.22
+10336,Caraquet,Canada,47.48,-64.56
+10337,Shippegan,Canada,47.45,-64.42
+10338,Shediac,Canada,46.13,-64.33
+10339,Alberton,Canada,46.48,-64.40
+10340,Souris Harbour,Canada,46.21,-62.15
+10341,Georgetown,Canada,46.11,-62.32
+10342,Charlottetown,Canada,46.14,-63.80
+10343,Summerside,Canada,46.24,-63.47
+10344,Pictou,Canada,45.40,-62.43
+10345,Port Hawkesbury,Canada,45.37,-61.22
+10346,Port Hastings,Canada,45.39,-61.24
+10347,Cheticamp,Canada,46.38,-61.00
+10348,Whycocomagh,Canada,45.58,-61.80
+10349,Grand Narrows,Canada,45.57,-60.47
+10350,Little Bras D Or,Canada,46.15,-60.18
+10351,North Sydney,Canada,46.13,-60.15
+10352,Sydney,Canada,46.90,-60.12
+10353,Louisburg,Canada,45.55,-59.58
+10354,Arichat,Canada,45.31,-61.10
+10355,Guysborough,Canada,45.24,-61.30
+10356,Canso,Canada,45.20,-61.00
+10357,Whitehaven Harbor,Canada,45.14,-61.11
+10358,Goldsboro,Canada,45.11,-61.39
+10359,Stormont,Canada,45.13,-61.43
+10360,Sonora,Canada,45.40,-61.55
+10361,Musquodoboit Harbour,Canada,44.47,-63.90
+10362,Halifax,Canada,44.39,-63.35
+10363,Sambro,Canada,44.28,-63.36
+10364,Lunenburg,Canada,44.23,-64.19
+10365,Liverpool (Brooklyn),Canada,44.20,-64.39
+10366,Lockeport,Canada,43.42,-65.70
+10367,Yarmouth,Canada,43.50,-66.70
+10368,Digby,Canada,44.37,-65.46
+10369,Annapolis Royal,Canada,44.45,-65.31
+10370,Windsor,Canada,45.00,-64.90
+10371,Canaport (St. John),Canada,45.12,-65.59
+10372,St John,Canada,45.16,-66.30
+10373,Port Bayside Nb,Canada,45.90,-67.80
+10374,Eastport,United States of America,44.54,-66.59
+10375,Lubec,United States of America,44.52,-66.59
+10376,Machiasport,United States of America,44.42,-67.24
+10377,Machias,United States of America,44.43,-67.28
+10378,Jonesport,United States of America,44.32,-67.37
+10379,Wyman,United States of America,44.31,-67.52
+10380,Milbridge,United States of America,44.32,-67.53
+10381,Corea,United States of America,44.24,-67.58
+10382,Winter Harbor,United States of America,44.23,-68.50
+10383,Sorrento,United States of America,44.28,-68.11
+10384,Bar Harbor,United States of America,44.23,-68.12
+10385,Northeast Harbor,United States of America,44.18,-68.17
+10386,Southwest Harbor,United States of America,44.17,-68.19
+10387,Mount Desert,United States of America,44.22,-68.20
+10388,Frenchboro,United States of America,44.70,-68.22
+10389,Minturn,United States of America,44.90,-68.27
+10390,Swans Island,United States of America,44.80,-68.27
+10391,Bass Harbor,United States of America,44.14,-68.21
+10392,Ellsworth,United States of America,44.33,-68.25
+10393,Brooklin,United States of America,44.16,-68.35
+10394,Bucks Harbor,United States of America,44.20,-68.44
+10395,Stonington,United States of America,44.90,-68.40
+10396,Criehaven,United States of America,43.50,-68.53
+10397,Matinicus,United States of America,43.52,-68.53
+10398,Vinalhaven,United States of America,44.30,-68.50
+10399,North Haven,United States of America,44.80,-68.52
+10400,Castine,United States of America,44.23,-68.44
+10401,Sandypoint,United States of America,44.31,-68.49
+10402,Bucksport,United States of America,44.34,-68.47
+10403,Winterport,United States of America,44.38,-68.51
+10404,Bangor,United States of America,44.48,-68.46
+10405,Searsport,United States of America,44.27,-68.55
+10406,Belfast,United States of America,44.25,-69.00
+10407,Camden,United States of America,44.13,-69.40
+10408,Rockport,United States of America,44.11,-69.40
+10409,Rockland,United States of America,44.60,-69.60
+10410,Monhegan,United States of America,43.46,-69.19
+10411,Port Clyde,United States of America,43.55,-69.15
+10412,Thomaston,United States of America,44.40,-69.11
+10413,Friendship,United States of America,43.58,-69.20
+10414,New Harbor,United States of America,43.52,-69.29
+10415,Pemaquid Beach,United States of America,43.52,-69.32
+10416,South Bristol,United States of America,43.52,-69.33
+10417,Boothbay Harbor,United States of America,43.52,-69.35
+10418,Robinhood,United States of America,43.51,-69.44
+10419,Bath,United States of America,43.55,-69.49
+10420,Gardiner,United States of America,44.14,-69.46
+10421,Augusta,United States of America,44.19,-69.46
+10422,Cundy Harbor,United States of America,43.47,-69.54
+10423,South Harpswell,United States of America,43.44,-70.10
+10424,Portland,United States of America,43.40,-70.15
+10425,Saco,United States of America,43.30,-70.27
+10426,Kennebunkport,United States of America,43.22,-70.28
+10427,Portsmouth,United States of America,43.50,-70.45
+10428,Newburyport,United States of America,42.49,-70.52
+10429,Rockport,United States of America,42.40,-70.37
+10430,Gloucester,United States of America,42.36,-70.40
+10431,Beverly,United States of America,42.32,-70.53
+10432,Salem,United States of America,42.31,-70.53
+10433,Marblehead,United States of America,42.30,-70.51
+10434,Lynn,United States of America,42.27,-70.57
+10435,Boston,United States of America,42.21,-71.30
+10436,Quincy,United States of America,42.15,-70.58
+10437,Scituate,United States of America,42.12,-70.43
+10438,Plymouth,United States of America,41.57,-70.40
+10439,Provincetown,United States of America,42.30,-70.11
+10440,Hyannis,United States of America,41.39,-70.17
+10441,Hyannis Port,United States of America,41.38,-70.18
+10442,Falmouth,United States of America,41.33,-70.37
+10443,Nantucket,United States of America,41.17,-70.60
+10444,Edgartown,United States of America,41.23,-70.30
+10445,Vineyard Haven,United States of America,41.27,-70.36
+10446,Woods Hole,United States of America,41.31,-70.40
+10447,New Bedford,United States of America,41.38,-70.55
+10448,Newport,United States of America,41.30,-71.20
+10449,Fall River,United States of America,41.42,-71.10
+10450,Tiverton,United States of America,41.38,-71.13
+10451,Bristol,United States of America,41.40,-71.16
+10452,Providence,United States of America,41.48,-71.24
+10453,Quonset Point,United States of America,41.35,-71.24
+10454,Davisville Depot,United States of America,41.37,-71.24
+10455,Montauk Harbor,United States of America,41.40,-71.56
+10456,Greenport,United States of America,41.60,-72.22
+10457,Stonington,United States of America,41.20,-71.54
+10458,Noank,United States of America,41.19,-71.59
+10459,Mystic,United States of America,41.21,-71.58
+10460,New London,United States of America,41.21,-72.50
+10461,Norwich,United States of America,41.31,-72.50
+10462,Essex,United States of America,41.21,-72.23
+10463,New Haven,United States of America,41.14,-72.55
+10464,Port Jefferson,United States of America,40.57,-73.50
+10465,Bridgeport,United States of America,41.10,-73.11
+10466,Southport,United States of America,41.80,-73.17
+10467,Norwalk,United States of America,41.60,-73.25
+10468,Stamford,United States of America,41.20,-73.33
+10469,Greenwich,United States of America,41.10,-73.37
+10470,Port Chester,United States of America,41.00,-73.40
+10471,City Island,United States of America,40.51,-73.47
+10472,Brooklyn,United States of America,40.40,-74.10
+10473,New York City,United States of America,40.42,-74.10
+10474,Patchogue,United States of America,40.45,-73.10
+10475,Yonkers,United States of America,40.56,-73.54
+10476,Newburgh,United States of America,41.30,-74.00
+10477,Poughkeepsie,United States of America,41.42,-73.57
+10478,Kingston,United States of America,41.56,-73.58
+10479,Catskill,United States of America,42.13,-73.51
+10480,Albany,United States of America,42.39,-73.45
+10481,Rensselaer,United States of America,42.39,-73.45
+10482,Troy,United States of America,42.44,-73.42
+10483,Edgewater,United States of America,40.49,-73.59
+10484,Weehawken,United States of America,40.46,-74.10
+10485,Hoboken,United States of America,40.45,-74.10
+10486,Jersey City,United States of America,40.43,-74.20
+10487,Bayonne,United States of America,40.41,-74.60
+10488,Newark,United States of America,40.42,-74.90
+10489,Elizabethport,United States of America,40.39,-74.11
+10490,Stapleton Si,United States of America,40.38,-74.40
+10491,Tompkinsville Si,United States of America,40.38,-74.40
+10492,Port Richmond Si,United States of America,40.39,-74.80
+10493,Mariners Harbor Si,United States of America,40.38,-74.10
+10494,Gulfport Si,United States of America,40.38,-74.12
+10495,Port Socony,United States of America,40.33,-74.15
+10496,Bayway,United States of America,40.38,-74.12
+10497,Grasselli,United States of America,40.37,-74.12
+10498,Carteret,United States of America,40.35,-74.13
+10499,Chrome,United States of America,40.34,-74.13
+10500,Port Reading,United States of America,40.34,-74.14
+10501,Sewaren,United States of America,40.33,-74.15
+10502,Maurer,United States of America,40.32,-74.15
+10503,Perth Amboy,United States of America,40.30,-74.16
+10504,Sayreville,United States of America,40.28,-74.22
+10505,South Amboy,United States of America,40.29,-74.16
+10506,Leonardo,United States of America,40.26,-74.40
+10507,Barnegat,United States of America,39.46,-74.60
+10508,Atlantic City,United States of America,39.22,-74.25
+10509,Salem Nj,United States of America,39.40,-75.29
+10510,New Castle,United States of America,39.39,-75.34
+10511,Deepwater Point,United States of America,39.42,-75.31
+10512,Wilmington,United States of America,39.44,-75.33
+10513,Marcus Hook,United States of America,39.49,-75.25
+10514,Chester,United States of America,39.51,-75.21
+10515,Philadelphia,United States of America,39.57,-75.80
+10516,Paulsboro,United States of America,39.51,-75.15
+10517,Gloucester,United States of America,39.54,-75.80
+10518,Camden,United States of America,39.57,-75.80
+10519,Burlington,United States of America,40.50,-74.52
+10520,Bristol,United States of America,40.60,-74.51
+10521,Trenton,United States of America,40.12,-74.46
+10522,Ocean City,United States of America,38.20,-75.50
+10523,Cape Charles,United States of America,37.16,-76.10
+10524,Salisbury,United States of America,38.22,-75.36
+10525,Havre De Grace,United States of America,39.32,-76.50
+10526,Baltimore,United States of America,39.16,-76.35
+10527,Annapolis,United States of America,38.59,-76.29
+10528,Solomons Island,United States of America,38.19,-76.27
+10529,Washington D.C.,United States of America,38.52,-77.20
+10530,Alexandria,United States of America,38.48,-77.20
+10531,Piney Point,United States of America,38.80,-76.32
+10532,Yorktown,United States of America,37.14,-76.30
+10533,West Point,United States of America,37.32,-76.48
+10534,Fredericksburg,United States of America,38.18,-77.27
+10535,Norfolk,United States of America,36.51,-76.18
+10536,Portsmouth,United States of America,36.49,-76.18
+10537,Newport News,United States of America,36.58,-76.26
+10538,Warwick,United States of America,37.27,-77.25
+10539,Richmond,United States of America,37.32,-77.25
+10540,Elizabeth City,United States of America,36.18,-76.13
+10541,Hertford,United States of America,36.11,-76.28
+10542,Edenton,United States of America,36.30,-76.37
+10543,Plymouth,United States of America,35.52,-76.45
+10544,Columbia,United States of America,35.55,-76.15
+10545,Belhaven,United States of America,35.37,-76.37
+10546,Washington,United States of America,35.33,-77.30
+10547,Bayboro,United States of America,35.90,-76.46
+10548,New Bern,United States of America,35.60,-77.30
+10549,Beaufort,United States of America,34.43,-76.40
+10550,Morehead City,United States of America,34.43,-76.42
+10551,Swansboro,United States of America,34.41,-77.80
+10552,Wrightsville,United States of America,34.13,-77.49
+10553,Wilmington,United States of America,34.14,-77.57
+10554,Southport,United States of America,33.55,-78.10
+10555,Georgetown,United States of America,33.22,-79.17
+10556,Charleston,United States of America,32.47,-79.55
+10557,Port Royal,United States of America,32.22,-80.41
+10558,Beaufort,United States of America,32.26,-80.40
+10559,Savannah,United States of America,32.50,-81.50
+10560,Darien,United States of America,31.22,-81.26
+10561,Brunswick,United States of America,31.90,-81.30
+10562,Fernandina Beach,United States of America,30.41,-81.28
+10563,Mayport,United States of America,30.24,-81.26
+10564,Jacksonville,United States of America,30.19,-81.39
+10565,St Augustine,United States of America,29.54,-81.19
+10566,Canaveral Harbor,United States of America,28.42,-80.37
+10567,Fort Pierce,United States of America,27.28,-80.19
+10568,Palm Beach,United States of America,26.46,-80.30
+10569,Port Everglades,United States of America,26.60,-80.70
+10570,Miami,United States of America,25.47,-80.11
+10571,Key West,United States of America,24.33,-81.49
+10572,Boca Grande,United States of America,26.42,-82.20
+10573,Port Manatee,United States of America,27.38,-82.34
+10574,Tampa,United States of America,27.55,-82.27
+10575,St Petersburg,United States of America,27.46,-82.37
+10576,Tarpon Springs,United States of America,28.90,-82.46
+10577,Carrabelle,United States of America,29.51,-84.40
+10578,Apalachicola,United States of America,29.43,-84.59
+10579,Port St Joe,United States of America,29.49,-85.19
+10580,Panama City,United States of America,30.80,-85.39
+10581,Pensacola,United States of America,30.24,-87.13
+10582,Mobile,United States of America,30.41,-88.70
+10583,Pascagoula,United States of America,30.21,-88.34
+10584,Biloxi,United States of America,30.23,-88.53
+10585,Gulfport,United States of America,30.21,-89.50
+10586,Slidell,United States of America,30.16,-89.47
+10587,Madisonville,United States of America,30.24,-90.90
+10588,Southwest Pass,United States of America,28.27,-90.42
+10589,Port Sulphur,United States of America,29.29,-89.41
+10590,Gretna,United States of America,29.55,-90.40
+10591,New Orleans,United States of America,29.57,-90.30
+10592,Port Of Memphis,United States of America,35.40,-90.10
+10593,Tri-City Port,United States of America,38.43,-90.12
+10594,St. James,United States of America,29.59,-90.56
+10595,Convent,United States of America,30.10,-90.50
+10596,St Rose,United States of America,29.57,-90.19
+10597,Reserve,United States of America,30.30,-90.33
+10598,Destrehan,United States of America,29.57,-90.22
+10599,Baton Rouge,United States of America,30.27,-91.11
+10600,Loop Terminal,United States of America,28.53,-90.10
+10601,Grand Isle,United States of America,29.14,-90.00
+10602,Morgan City,United States of America,29.42,-91.13
+10603,Haymark Terminal,United States of America,30.80,-93.19
+10604,Lake Charles,United States of America,30.13,-93.15
+10605,Sabine,United States of America,29.43,-93.52
+10606,Sabine Pass,United States of America,29.44,-93.54
+10607,Orange,United States of America,30.50,-93.44
+10608,Port Arthur,United States of America,29.50,-93.58
+10609,Port Neches,United States of America,30.00,-93.57
+10610,Beaumont,United States of America,30.50,-94.50
+10611,Galveston,United States of America,29.19,-94.47
+10612,Texas City,United States of America,29.23,-94.55
+10613,Baytown,United States of America,29.44,-95.10
+10614,Norsworthy,United States of America,29.44,-95.12
+10615,Pasadena,United States of America,29.43,-95.13
+10616,Sinco,United States of America,29.43,-95.14
+10617,Deer Park,United States of America,29.45,-95.20
+10618,Houston,United States of America,29.45,-95.17
+10619,Freeport,United States of America,28.57,-95.20
+10620,Palacios,United States of America,28.41,-96.13
+10621,Port Lavaca,United States of America,28.37,-96.37
+10622,Port Oconnor,United States of America,28.27,-96.24
+10623,Rockport,United States of America,28.10,-97.30
+10624,Corpus Christi,United States of America,27.49,-97.24
+10625,Port Aransas,United States of America,27.50,-97.30
+10626,Port Ingleside,United States of America,27.49,-97.11
+10627,Port Isabel,United States of America,26.50,-97.12
+10628,Brownsville,United States of America,25.57,-97.24
+10629,Altamira,Mexico,22.29,-97.51
+10630,Tampico,Mexico,22.13,-97.52
+10631,Tuxpan,Mexico,20.57,-97.24
+10632,Veracruz,Mexico,19.12,-96.80
+10633,Cayo Arcas Terminal,Mexico,20.10,-91.59
+10634,Coatzacoalcos,Mexico,18.90,-94.25
+10635,Nanchital,Mexico,18.40,-94.25
+10636,Minatitlan,Mexico,17.54,-94.35
+10637,Dos Bocas Terminal,Mexico,18.26,-93.13
+10638,Frontera,Mexico,18.32,-92.39
+10639,Ciudad Del Carmen,Mexico,18.38,-91.52
+10640,Campeche,Mexico,19.51,-90.33
+10641,Progreso,Mexico,21.17,-89.40
+10642,San Miguel De Cozumel,Mexico,20.30,-86.58
+10643,Belize City,Belize,17.30,-88.11
+10644,Puerto Barrios,Guatemala,15.44,-88.36
+10645,Santo Thomas De Castilla,Guatemala,15.42,-88.37
+10646,Puerto Cortes,Honduras,15.50,-87.57
+10647,Tela,Honduras,15.47,-87.27
+10648,Puerto Este,Honduras,16.50,-86.54
+10649,La Ceiba,Honduras,15.47,-86.48
+10650,Coxen Hole,Honduras,16.19,-86.33
+10651,Trujillo,Honduras,15.55,-85.57
+10652,Puerto Castilla,Honduras,16.00,-85.59
+10653,Puerto Cabezas,Nicaragua,14.10,-83.23
+10654,El Bluff,Nicaragua,12.00,-83.42
+10655,Bluefields,Nicaragua,12.10,-83.45
+10656,Puerto Moin,Costa Rica,10.00,-83.50
+10657,Puerto Limon,Costa Rica,9.59,-83.10
+10658,Chiriqui Grande,Panama,8.57,-82.70
+10659,Almirante,Panama,9.18,-82.24
+10660,Bocas Del Toro,Panama,9.20,-82.14
+10661,Puerto Cristobal,Panama,9.21,-79.55
+10662,Puerto Colon,Panama,9.22,-79.53
+10663,Bahia De Las Minas,Panama,9.24,-79.49
+10664,St George'S,Bermuda,32.23,-64.41
+10665,Ireland Island,Bermuda,32.19,-64.50
+10666,Hamilton,Bermuda,32.18,-64.47
+10667,Freeport,Bahamas,26.31,-78.47
+10668,South Riding Point,Bahamas,26.37,-78.13
+10669,Nassau,Bahamas,25.50,-77.21
+10670,Clifton Pier,Bahamas,25.00,-77.33
+10671,Cockburn Town,Bahamas,24.30,-74.32
+10672,Matthew Town,Bahamas,20.57,-73.41
+10673,Grand Turk,Turks and Caicos Islands,21.26,-71.90
+10674,Cockburn Harbor,Turks and Caicos Islands,21.30,-71.32
+10675,Cabanas,Cuba,23.00,-82.58
+10676,Mariel,Cuba,22.59,-82.45
+10677,Bahai De La Habana,Cuba,23.80,-82.22
+10678,Matanzas,Cuba,23.30,-81.33
+10679,Cardenas,Cuba,23.30,-81.12
+10680,Isabela De Sagua,Cuba,22.57,-80.00
+10681,Nuevitas Bay,Cuba,21.33,-77.16
+10682,Manati,Cuba,21.22,-76.49
+10683,Puerto Padre,Cuba,21.17,-76.32
+10684,Antilla,Cuba,20.50,-75.44
+10685,Felton,Cuba,20.44,-75.36
+10686,Nicaro,Cuba,20.43,-75.33
+10687,Bahia De Sagua De Tanamo,Cuba,20.41,-75.20
+10688,Cayo Moa Grande,Cuba,20.40,-74.54
+10689,Puerto Guantanamo,Cuba,19.59,-75.80
+10690,Santiago De Cuba,Cuba,20.10,-75.50
+10691,Media Luna,Cuba,20.90,-77.26
+10692,Ceiba Hueca,Cuba,20.13,-77.19
+10693,Manzanillo,Cuba,20.21,-77.70
+10694,Guayabal,Cuba,20.42,-77.37
+10695,Jucaro,Cuba,21.37,-78.51
+10696,Tunas De Zaza,Cuba,21.38,-79.33
+10697,Casilda,Cuba,21.45,-79.59
+10698,Cienfuegos,Cuba,22.90,-80.27
+10699,Nueva Gerona,Cuba,21.55,-82.48
+10700,Georgetown,Cayman Islands,19.18,-81.23
+10701,Cayman Brac,Cayman Islands,19.45,-79.45
+10702,Lucea,Jamaica,18.27,-78.10
+10703,Montego Bay,Jamaica,18.28,-77.56
+10704,Falmouth,Jamaica,18.29,-77.39
+10705,Rio Bueno,Jamaica,18.28,-77.28
+10706,Ocho Rios,Jamaica,18.25,-77.70
+10707,Port Antonio,Jamaica,18.11,-76.27
+10708,Kingston,Jamaica,17.58,-76.47
+10709,Port Esquivel,Jamaica,17.53,-77.80
+10710,Rocky Point,Jamaica,17.49,-77.90
+10711,Port Kaiser,Jamaica,17.52,-77.36
+10712,Savannah La Mar,Jamaica,18.12,-78.80
+10713,Jacmel,Haiti,18.14,-72.32
+10714,Miragoane,Haiti,18.27,-73.50
+10715,Petit Goave,Haiti,18.26,-72.52
+10716,Port Au Prince,Haiti,18.33,-72.21
+10717,Cap Haitien,Haiti,19.46,-72.12
+10718,Pepillo Salcedo,Dominican Republic,19.42,-71.45
+10719,Puerto Plata,Dominican Republic,19.48,-70.42
+10720,Santa Barbara De Samana,Dominican Republic,19.12,-69.20
+10721,Puerto Botado,Dominican Republic,19.12,-69.27
+10722,Sanchez,Dominican Republic,19.14,-69.37
+10723,La Romana,Dominican Republic,18.25,-68.58
+10724,San Pedro De Macoris,Dominican Republic,18.27,-69.19
+10725,Andres (Andres Lgn Terminal),Dominican Republic,18.26,-69.38
+10726,Santo Domingo,Dominican Republic,18.28,-69.53
+10727,Puerto De Haina,Dominican Republic,18.25,-70.10
+10728,Punta Nizao Oil Terminal,Dominican Republic,18.12,-70.12
+10729,Las Calderas,Dominican Republic,18.13,-70.31
+10730,Puerto Viejo De Azua,Dominican Republic,18.21,-70.50
+10731,Santa Cruz De Barahona,Dominican Republic,18.12,-71.50
+10732,Cabo Rojo,Dominican Republic,17.55,-71.39
+10733,Aguadilla,Puerto Rico,18.26,-67.90
+10734,Arecibo,Puerto Rico,18.29,-66.42
+10735,San Juan,Puerto Rico,18.28,-66.70
+10736,Bahia De Fajardo,Puerto Rico,18.20,-65.38
+10737,Ensenada Honda,Puerto Rico,18.14,-65.38
+10738,Playa De Humacao,Puerto Rico,18.10,-65.45
+10739,Puerto Yabucoa,Puerto Rico,18.30,-65.50
+10740,Arroyo,Puerto Rico,17.58,-66.40
+10741,Bahia De Jobos,Puerto Rico,17.57,-66.11
+10742,Las Mareas,Puerto Rico,17.57,-66.10
+10743,Playa De Ponce,Puerto Rico,17.59,-66.37
+10744,Playa De Guayanilla,Puerto Rico,18.10,-66.46
+10745,Playa De Guanica,Puerto Rico,17.58,-66.55
+10746,Mayaguez,Puerto Rico,18.12,-67.90
+10747,Charlotte Amalie,"Virgin Islands, U.S.",18.21,-64.56
+10748,Cruz Bay,"Virgin Islands, U.S.",18.20,-64.48
+10749,Frederiksted,"Virgin Islands, U.S.",17.43,-64.53
+10750,Limetree Bay,"Virgin Islands, U.S.",17.42,-64.45
+10751,Port Alucroix,"Virgin Islands, U.S.",17.42,-64.46
+10752,Christiansted,"Virgin Islands, U.S.",17.45,-64.42
+10753,Road Harbor,"Virgin Islands, British",18.25,-64.37
+10754,Baie Du Marigot,France,18.40,-63.50
+10755,Phillipsburg,SX,18.10,-63.30
+10756,Coles Bay Oil Terminal,SX,18.10,-63.50
+10757,Gustavia,Guadeloupe,17.54,-62.51
+10758,Oranjestad,BQ,17.29,-62.59
+10759,Basseterre,Saint Kitts and Nevis,17.18,-62.43
+10760,Charlestown,Saint Kitts and Nevis,17.80,-62.38
+10761,St Johns,Antigua and Barbuda,17.70,-61.51
+10762,Pointe A Pitre,Guadeloupe,16.14,-61.32
+10763,Basse Terre,Guadeloupe,16.00,-61.44
+10764,Port Louis,Guadeloupe,16.25,-61.32
+10765,Roseau,Dominica,15.18,-61.24
+10766,Portsmouth,Dominica,15.34,-61.28
+10767,Fort De France,Martinique,14.36,-61.40
+10768,Vieux Fort,Saint Lucia,13.43,-60.58
+10769,Grand Cul De Sac Bay,Saint Lucia,13.59,-61.10
+10770,Castries,Saint Lucia,14.10,-61.00
+10771,Kingstown,Saint Vincent and The Grenadines,13.90,-61.14
+10772,St George'S,Grenada,12.30,-61.45
+10773,Bridgetown,Barbados,13.60,-59.38
+10774,Scarborough,Trinidad and Tobago,11.11,-60.44
+10775,Chaguaramas,Trinidad and Tobago,10.41,-61.39
+10776,Anse Tembladora,Trinidad and Tobago,10.41,-61.35
+10777,Port Of Spain,Trinidad and Tobago,10.39,-61.31
+10778,Point Lisas Port,Trinidad and Tobago,10.23,-61.29
+10779,Pointe A Pierre,Trinidad and Tobago,10.19,-61.28
+10780,Point Lisas Industrial Port,Trinidad and Tobago,10.24,-61.30
+10781,Brighton,Trinidad and Tobago,10.15,-61.38
+10782,Point Fortin,Trinidad and Tobago,10.12,-61.42
+10783,Galeota Point Terminal,Trinidad and Tobago,10.80,-60.59
+10784,Kralendijk,BQ,12.90,-68.17
+10785,Goto Oil Terminal,BQ,12.13,-68.23
+10786,Salina,BQ,12.50,-68.17
+10787,Caracasbaai,CW,12.40,-68.52
+10788,Willemstad,CW,12.70,-68.56
+10789,Bullen Baai,CW,12.11,-69.20
+10790,Sint Michelsbaai,CW,12.80,-69.10
+10791,Sint Nicolaas Baai,Aruba,12.26,-69.55
+10792,Paarden Baai - (Oranjestad),Aruba,12.31,-70.20
+10793,Turbo,Colombia,8.50,-76.44
+10794,Covenas,Colombia,9.25,-75.41
+10795,Covenas Offshore Term.,Colombia,9.30,-75.44
+10796,Mamonal,Colombia,10.19,-75.31
+10797,El Bosque,Colombia,10.24,-75.32
+10798,Cartagena,Colombia,10.25,-75.32
+10799,Barranquilla,Colombia,10.58,-74.46
+10800,Puerto Prodeco,Colombia,11.90,-74.13
+10801,Pozos Colorados,Colombia,11.90,-74.15
+10802,Santa Marta,Colombia,11.15,-74.13
+10803,Puerto Bolivar,Colombia,12.15,-71.58
+10804,Maracaibo,Venezuela,10.38,-71.36
+10805,San Lorenzo,Venezuela,9.47,-71.40
+10806,La Salina,Venezuela,10.22,-71.28
+10807,Punta De Palmas,Venezuela,10.47,-71.35
+10808,Bajo Grande,Venezuela,10.31,-71.38
+10809,Puerto Miranda,Venezuela,10.46,-71.34
+10810,El Tabiazo,Venezuela,10.46,-71.32
+10811,Punta Cardon,Venezuela,11.38,-70.14
+10812,Las Piedras,Venezuela,11.42,-70.13
+10813,Amuay (Bahia De Amuay),Venezuela,11.45,-70.14
+10814,Puerto Cumarebo,Venezuela,11.29,-69.21
+10815,Puerto Chichiriviche,Venezuela,10.55,-68.16
+10816,El Palito,Venezuela,10.29,-68.70
+10817,Venterminals,Venezuela,10.29,-68.20
+10818,Puerto Cabello,Venezuela,10.29,-68.00
+10819,Puerto Borburata,Venezuela,10.29,-67.59
+10820,Catia La Mar,Venezuela,10.36,-67.10
+10821,La Guaira,Venezuela,10.37,-66.56
+10822,Jose Terminal,Venezuela,10.60,-64.51
+10823,Puerto La Cruz,Venezuela,10.15,-64.38
+10824,Guanta,Venezuela,10.15,-64.35
+10825,Bahia De Pertigalete,Venezuela,10.14,-64.34
+10826,Cumana (Puerto Sucre),Venezuela,10.28,-64.11
+10827,El Guamache,Venezuela,10.54,-64.60
+10828,Carupano,Venezuela,10.42,-63.15
+10829,Guiria,Venezuela,10.34,-62.18
+10830,Puerto De Hierro,Venezuela,10.38,-62.60
+10831,Caripito,Venezuela,10.90,-63.20
+10832,Palua,Venezuela,8.22,-62.41
+10833,Puerto Ordaz,Venezuela,8.21,-62.43
+10834,Ciudad Bolivar,Venezuela,8.80,-63.33
+10835,Georgetown,Guyana,6.50,-58.10
+10836,Linden,Guyana,6.00,-58.18
+10837,New Amsterdam,Guyana,6.15,-57.31
+10838,Nieuw Nickerie,Suriname,5.57,-57.00
+10839,Paramaribo,Suriname,5.50,-55.10
+10840,Paranam,Suriname,5.37,-55.60
+10841,Moengo,Suriname,5.38,-54.25
+10842,Degrad Des Cannes,French Guiana,4.51,-52.16
+10843,Porto Santana,Brazil,-0.30,-51.11
+10844,Belem,Brazil,-1.27,-48.30
+10845,Vila Do Conde,Brazil,-1.33,-48.45
+10846,Cameta,Brazil,-2.15,-49.30
+10847,Santarem,Brazil,-2.25,-54.43
+10848,Itacoatiara,Brazil,-3.90,-58.27
+10849,Manaus,Brazil,-3.80,-60.10
+10850,Iquitos,Peru,-3.45,-73.14
+10851,Itaqui,Brazil,-2.34,-44.22
+10852,Tutoia,Brazil,-2.47,-42.17
+10853,Camocim,Brazil,-2.54,-40.50
+10854,Porto De Mucuripe,Brazil,-3.43,-38.29
+10855,Guamare Oil Terminal,Brazil,-4.52,-36.17
+10856,Natal,Brazil,-5.47,-35.12
+10857,Cabedelo,Brazil,-6.58,-34.50
+10858,Recife,Brazil,-8.30,-34.52
+10859,Porto De Suape,Brazil,-8.24,-34.58
+10860,Porto De Maceio,Brazil,-9.40,-35.44
+10861,Port De Aracaju,Brazil,-10.55,-37.30
+10862,Port De Salvador,Brazil,-12.58,-38.31
+10863,Aratu,Brazil,-12.47,-38.30
+10864,Madre De Deus,Brazil,-12.45,-38.37
+10865,Port Of Ilheus,Brazil,-14.47,-39.10
+10866,Portocel,Brazil,-19.51,-40.30
+10867,Vitoria,Brazil,-20.19,-40.20
+10868,Tubarao,Brazil,-20.17,-40.15
+10869,Santa Clara,Brazil,-20.53,-51.22
+10870,Macae,Brazil,-22.22,-41.46
+10871,Dtse / Gegua Oil Terminal,Brazil,-22.49,-43.90
+10872,Porto Do Forno,Brazil,-22.58,-42.10
+10873,Rio De Janeiro,Brazil,-22.54,-43.10
+10874,Niteroi,Brazil,-22.53,-43.70
+10875,Guaiba Island Terminal,Brazil,-23.10,-44.20
+10876,Angra Dos Reis,Brazil,-23.10,-44.19
+10877,Gebig,Brazil,-23.30,-44.13
+10878,Sao Sebastiao,Brazil,-23.48,-45.24
+10879,Santos,Brazil,-23.57,-46.18
+10880,Paranagua,Brazil,-25.30,-48.31
+10881,Sao Francisco,Brazil,-26.15,-48.38
+10882,Itajai,Brazil,-26.55,-48.38
+10883,Imbituba,Brazil,-28.14,-48.40
+10884,Laguna,Brazil,-28.30,-48.47
+10885,Tramandai,Brazil,-29.59,-50.80
+10886,Rio Grande,Brazil,-32.30,-52.50
+10887,Pelotas,Brazil,-31.47,-52.20
+10888,Porto Alegre,Brazil,-30.20,-51.14
+10889,La Paloma,Uruguay,-34.39,-54.90
+10890,Jose Ignacio,Uruguay,-34.57,-54.42
+10891,Montevideo,Uruguay,-34.54,-56.13
+10892,Puerto Sauce,Uruguay,-34.26,-57.27
+10893,Colonia,Uruguay,-34.28,-57.51
+10894,Nueva Palmira,Uruguay,-33.53,-58.25
+10895,Fray Bentos,Uruguay,-33.70,-58.19
+10896,Paysandu,Uruguay,-32.19,-58.40
+10897,Puerto De Asuncion,Paraguay,-25.16,-57.41
+10898,Santa Fe,Argentina,-31.39,-60.42
+10899,Parana,Argentina,-31.43,-60.32
+10900,Diamante,Argentina,-32.40,-60.39
+10901,Puerto San Martin,Argentina,-32.43,-60.44
+10902,San Lorenzo,Argentina,-32.45,-60.44
+10903,Rosario,Argentina,-32.57,-60.38
+10904,Villa Constitucion,Argentina,-33.14,-60.20
+10905,San Nicolas,Argentina,-33.20,-60.14
+10906,Ramallo,Argentina,-33.29,-60.10
+10907,San Pedro,Argentina,-33.35,-59.49
+10908,Puerto Ibicuy,Argentina,-33.45,-59.11
+10909,Zarate,Argentina,-34.50,-59.20
+10910,Campana,Argentina,-34.90,-58.58
+10911,Concordia,Argentina,-31.24,-58.20
+10912,Colon,Argentina,-32.13,-58.80
+10913,Concepcion Del Uruguay,Argentina,-32.29,-58.14
+10914,Buenos Aires,Argentina,-34.36,-58.22
+10915,La Plata,Argentina,-34.50,-57.53
+10916,Mar Del Plata,Argentina,-38.20,-57.32
+10917,Quequen,Argentina,-38.35,-58.42
+10918,Puerto Rosales,Argentina,-38.56,-62.40
+10919,Puerto Belgrano,Argentina,-38.53,-62.60
+10920,Bahia Blanca,Argentina,-38.47,-62.16
+10921,Puerto Ingeniero White,Argentina,-38.48,-62.16
+10922,Puerto Nacional,Argentina,-38.48,-62.17
+10923,Puerto Galvan,Argentina,-38.47,-62.18
+10924,San Blas,Argentina,-40.34,-62.14
+10925,Puerto Madryn,Argentina,-42.46,-65.20
+10926,Comodoro Rivadavia,Argentina,-45.52,-67.28
+10927,Puerto Deseado,Argentina,-47.45,-65.54
+10928,Puerto San Julian,Argentina,-49.19,-67.42
+10929,Puerto Santa Cruz,Argentina,-50.10,-68.31
+10930,Puerto Gallegos,Argentina,-51.37,-68.58
+10931,San Sebastian Bay,Argentina,-53.10,-68.30
+10932,Rio Grande,Argentina,-53.47,-67.41
+10933,Ushuaia,Argentina,-54.49,-68.18
+10934,Villa Constitucion,Argentina,-33.18,-60.20
+10935,Stanley,Falkland Islands,-51.42,-57.50
+10936,Prince Olav Harbor,South Georgia and The South Sandwich Islands,-54.20,-37.90
+10937,Stromness Harbor,South Georgia and The South Sandwich Islands,-54.90,-36.42
+10938,Grytviken,South Georgia and The South Sandwich Islands,-54.16,-36.30
+10939,Puerto Williams,Chile,-54.56,-67.36
+10940,Punta Delgada,Chile,-52.28,-69.33
+10941,Puerto Sara,Chile,-52.38,-70.12
+10942,Caleta Clarencia,Chile,-52.54,-70.60
+10943,Rada Punta Arenas,Chile,-53.10,-70.54
+10944,Bahia Agua Fresca,Chile,-53.23,-70.58
+10945,Port San Juan De La Juan,Chile,-53.38,-70.55
+10946,Bahia Harris,Chile,-53.51,-70.27
+10947,Puerto Yartou,Chile,-53.53,-70.90
+10948,Caleta Mina Elena,Chile,-52.41,-71.54
+10949,Puerto Natales,Chile,-51.43,-72.34
+10950,Puerto Chacabuco,Chile,-45.28,-72.50
+10951,Puerto Castro,Chile,-42.29,-73.46
+10952,Puerto Quemchi,Chile,-42.90,-73.29
+10953,Puerto Montt,Chile,-41.29,-72.58
+10954,Puerto De Corral,Chile,-39.52,-73.26
+10955,Bahia De Valdivia,Chile,-39.48,-73.15
+10956,Lota,Chile,-37.60,-73.90
+10957,Coronel,Chile,-37.20,-73.10
+10958,Bahia San Vicente,Chile,-36.44,-73.10
+10959,Talcahuano,Chile,-36.42,-73.60
+10960,Lirquen,Chile,-36.43,-72.59
+10961,Penco,Chile,-36.43,-73.00
+10962,Puerto San Antonio,Chile,-33.35,-71.37
+10963,Bahia De Valparaiso,Chile,-33.20,-71.37
+10964,Bahia Quintero (Ventanas),Chile,-32.46,-71.32
+10965,Bahia Herradura Guayacan,Chile,-29.58,-71.22
+10966,Coquimbo,Chile,-29.57,-71.20
+10967,Huasco,Chile,-28.28,-71.15
+10968,Puerto Caldera,Chile,-27.30,-70.50
+10969,Puerto Calderilla,Chile,-27.50,-70.52
+10970,Puerto Chanaral,Chile,-26.21,-70.39
+10971,Taltal,Chile,-25.24,-70.29
+10972,Antofagasta,Chile,-23.39,-70.25
+10973,Mejillones,Chile,-23.60,-70.28
+10974,Caleta Patillos,Chile,-20.44,-70.12
+10975,Tocopilla,Chile,-22.50,-70.14
+10976,Iquique,Chile,-20.12,-70.10
+10977,Rada De Arica,Chile,-18.28,-70.20
+10978,Puerto Ilo,Peru,-17.38,-71.22
+10979,Bahia De Matarani,Peru,-17.00,-72.70
+10980,Bahia San Nicolas,Peru,-15.15,-75.14
+10981,Conchan Oil Terminal,Peru,-12.10,-77.00
+10982,Puerto Del Callao,Peru,-12.30,-77.90
+10983,La Pampilla Oil Terminal,Peru,-11.56,-77.80
+10984,Bahia De Ancon,Peru,-11.45,-77.11
+10985,Chancay,Peru,-11.35,-77.15
+10986,Puerto De Huacho,Peru,-11.70,-77.37
+10987,Puerto Supe,Peru,-10.48,-77.45
+10988,Punta Lobitos (Bahia De Huarm,Peru,-10.60,-78.10
+10989,Puerto De Chimbote,Peru,-9.50,-78.37
+10990,Salaverry,Peru,-8.14,-78.59
+10991,Pimental,Peru,-6.50,-79.56
+10992,Puerto Bayovar,Peru,-5.50,-81.30
+10993,Paita,Peru,-5.50,-81.70
+10994,Talara,Peru,-4.35,-81.17
+10995,Caleta Lobitos,Peru,-4.27,-81.17
+10996,Puerto Cabo Blanco,Peru,-4.15,-81.14
+10997,Puerto Bolivar,Ecuador,-3.16,-80.00
+10998,Guayaquil,Ecuador,-2.12,-79.53
+10999,Puerto Maritimo De Guayaquil,Ecuador,-2.17,-79.54
+11000,La Libertad,Ecuador,-2.13,-80.55
+11001,Manta,Ecuador,-0.57,-80.43
+11002,Esmeraldas,Ecuador,1.00,-79.39
+11003,Tumaco,Colombia,1.49,-78.45
+11004,Buenaventura,Colombia,3.53,-77.40
+11005,Balboa,Panama,8.57,-79.34
+11006,Vacamonte,Panama,8.52,-79.40
+11007,Charco Azul,Panama,8.13,-82.52
+11008,Pedregal,Panama,8.21,-82.26
+11009,Puerto Armuelles,Panama,8.16,-82.51
+11010,Golfito,Costa Rica,8.38,-83.10
+11011,Puerto Quepos,Costa Rica,9.26,-84.10
+11012,Puerto Caldera,Costa Rica,9.55,-84.43
+11013,Puntarenas,Costa Rica,9.59,-84.50
+11014,Puerto Sandino,Nicaragua,12.11,-86.46
+11015,Corinto,Nicaragua,12.29,-87.10
+11016,Puerto De Hencan,Honduras,13.24,-87.27
+11017,La Union,El Salvador,13.20,-87.50
+11018,Acajutla,El Salvador,13.35,-89.50
+11019,Acajutla Offshore Terminal,El Salvador,13.35,-89.52
+11020,Puerto Quetzal,Guatemala,13.55,-90.48
+11021,Puerto Madero,Mexico,14.42,-92.27
+11022,Salina Cruz,Mexico,16.10,-95.12
+11023,Acapulco,Mexico,16.51,-99.56
+11024,Lazaro Cardenas,Mexico,17.56,-102.10
+11025,Manzanillo,Mexico,19.30,-104.19
+11026,Puerto Vallarta,Mexico,20.37,-105.16
+11027,Mazatlan,Mexico,23.12,-106.25
+11028,Topolobampo,Mexico,25.36,-109.40
+11029,Guaymas,Mexico,27.55,-110.55
+11030,Santa Rosalia,Mexico,27.20,-112.17
+11031,Isla San Marcos,Mexico,27.11,-112.60
+11032,San Juan De La Costa,Mexico,24.24,-110.42
+11033,Pichilingue,Mexico,24.16,-110.20
+11034,La Paz,Mexico,24.10,-110.19
+11035,Puerto Morro Redondo,Mexico,28.30,-115.11
+11036,Ensenada,Mexico,31.52,-116.38
+11037,Rosarito,Mexico,32.22,-117.60
+11038,San Diego,United States of America,32.43,-117.11
+11039,Wilson Cove,United States of America,33.00,-118.33
+11040,Isthmus Cove,United States of America,33.27,-118.30
+11041,Avalon,United States of America,33.21,-118.19
+11042,Newport Beach,United States of America,33.37,-117.54
+11043,Long Beach,United States of America,33.46,-118.11
+11044,Los Angeles,United States of America,33.45,-118.15
+11045,El Segundo,United States of America,33.55,-118.26
+11046,Port Hueneme,United States of America,34.90,-119.12
+11047,Prisoners,United States of America,34.10,-119.41
+11048,Ventura,United States of America,34.17,-119.17
+11049,Carpinteria,United States of America,34.23,-119.31
+11050,Santa Barbara,United States of America,34.25,-119.41
+11051,Ellwood,United States of America,34.26,-119.55
+11052,Gaviota,United States of America,34.28,-120.12
+11053,Pismo Beach,United States of America,35.80,-120.39
+11054,Port San Luis,United States of America,35.10,-120.45
+11055,Morro Bay,United States of America,35.22,-120.51
+11056,Monterey,United States of America,36.37,-121.53
+11057,Moss Landing,United States of America,36.48,-121.47
+11058,Santa Cruz,United States of America,36.58,-122.10
+11059,Davenport,United States of America,37.10,-122.12
+11060,Princetown,United States of America,37.30,-122.29
+11061,San Francisco,United States of America,37.49,-122.25
+11062,Yerbabuena Island,United States of America,37.49,-122.22
+11063,Redwood City,United States of America,37.32,-122.12
+11064,Alameda,United States of America,37.47,-122.16
+11065,Oakland,United States of America,37.49,-122.20
+11066,Berkeley,United States of America,37.52,-122.18
+11067,Point Richmond,United States of America,37.55,-122.22
+11068,Point San Pablo,United States of America,37.58,-122.26
+11069,Sausalito,United States of America,37.51,-122.29
+11070,Pinole Point,United States of America,38.10,-122.22
+11071,Oleum,United States of America,38.30,-122.16
+11072,Mare Island,United States of America,38.60,-122.16
+11073,South Vallejo,United States of America,38.50,-122.15
+11074,Crockett,United States of America,38.30,-122.13
+11075,Port Costa,United States of America,38.30,-122.11
+11076,Benicia,United States of America,38.30,-122.90
+11077,Martinez,United States of America,38.20,-122.80
+11078,Pittsburg,United States of America,38.20,-121.53
+11079,Antioch,United States of America,38.10,-121.48
+11080,Stockton,United States of America,37.57,-121.18
+11081,Rio Vista,United States of America,38.90,-121.42
+11082,Isleton,United States of America,38.10,-121.36
+11083,Walnut Grove,United States of America,38.14,-121.31
+11084,Courtland,United States of America,38.20,-121.34
+11085,Sacramento,United States of America,38.35,-121.30
+11086,Bodega Bay,United States of America,38.20,-123.30
+11087,Fort Bragg,United States of America,39.27,-123.49
+11088,Fields Landing,United States of America,40.43,-124.13
+11089,Eureka,United States of America,40.48,-124.11
+11090,Samoa,United States of America,40.49,-124.11
+11091,Crescent City,United States of America,41.45,-124.12
+11092,Port Orford,United States of America,42.44,-124.30
+11093,Bandon,United States of America,43.70,-124.25
+11094,Prosper,United States of America,43.90,-124.22
+11095,Empire,United States of America,43.24,-124.17
+11096,North Bend,United States of America,43.24,-124.13
+11097,Coos Bay,United States of America,43.22,-124.13
+11098,Winchester Bay,United States of America,43.41,-124.11
+11099,Gardiner,United States of America,43.43,-124.60
+11100,Reedsport,United States of America,43.42,-124.60
+11101,Florence,United States of America,43.58,-124.70
+11102,Glenada,United States of America,43.58,-124.70
+11103,Cushman,United States of America,43.59,-124.40
+11104,Waldport,United States of America,44.26,-124.40
+11105,Newport,United States of America,44.38,-124.30
+11106,Toledo,United States of America,44.37,-123.56
+11107,Depoe Bay,United States of America,44.48,-124.40
+11108,Ilwaco,United States of America,46.18,-124.30
+11109,Warrenton,United States of America,46.10,-123.55
+11110,Astoria,United States of America,46.12,-123.50
+11111,Tongue Point,United States of America,46.12,-123.45
+11112,Westport,United States of America,46.80,-123.23
+11113,Rainier,United States of America,46.50,-122.56
+11114,Longview,United States of America,46.80,-122.56
+11115,Kalama,United States of America,46.10,-122.51
+11116,St Helens,United States of America,45.52,-122.48
+11117,Portland,United States of America,45.31,-122.40
+11118,Vancouver,United States of America,45.38,-122.41
+11119,Camas,United States of America,45.35,-122.24
+11120,Washougal,United States of America,45.35,-122.21
+11121,The Dalles,United States of America,45.36,-121.11
+11122,Nahcotta,United States of America,46.30,-124.20
+11123,South Bend,United States of America,46.40,-123.47
+11124,Raymond,United States of America,46.41,-123.44
+11125,Willapa Harbor,United States of America,46.41,-123.45
+11126,Westhaven Cove,United States of America,46.55,-124.70
+11127,Bay City,United States of America,46.52,-124.40
+11128,Aberdeen,United States of America,46.59,-123.49
+11129,Hoquiam,United States of America,46.58,-123.54
+11130,La Push,United States of America,47.54,-124.38
+11131,Neah Bay,United States of America,48.22,-124.37
+11132,Sekiu,United States of America,48.16,-124.18
+11133,Port Angeles,United States of America,48.70,-123.26
+11134,Port Townsend,United States of America,48.70,-122.45
+11135,Glen Cove,United States of America,48.50,-122.47
+11136,Hoodsport,United States of America,47.25,-123.80
+11137,Port Gamble,United States of America,47.51,-122.35
+11138,Poulsbo,United States of America,47.44,-122.39
+11139,Keyport,United States of America,47.42,-122.37
+11140,Winslow,United States of America,47.37,-122.31
+11141,Creosote,United States of America,47.37,-122.30
+11142,Fort Ward,United States of America,47.35,-122.31
+11143,East Bremerton,United States of America,47.34,-122.37
+11144,Silverdale,United States of America,47.39,-122.42
+11145,Bremerton,United States of America,47.34,-122.39
+11146,Port Orchard,United States of America,47.32,-122.38
+11147,Quartermaster Harbor,United States of America,47.23,-122.28
+11148,Shelton,United States of America,47.13,-123.60
+11149,Olympia,United States of America,47.30,-122.54
+11150,Nisqually Head,United States of America,47.70,-122.45
+11151,Tacoma,United States of America,47.17,-122.25
+11152,Seattle,United States of America,47.36,-122.20
+11153,Point Wells,United States of America,47.47,-122.24
+11154,Edwards Point,United States of America,47.48,-122.24
+11155,Mukilteo,United States of America,47.57,-122.18
+11156,Everett,United States of America,48.00,-122.13
+11157,Coupeville,United States of America,48.14,-122.41
+11158,Richardson,United States of America,48.27,-122.54
+11159,Friday Harbor,United States of America,48.32,-123.10
+11160,Roche  Harbor,United States of America,48.37,-123.10
+11161,Orcas,United States of America,48.36,-122.56
+11162,Anacortes,United States of America,48.31,-122.37
+11163,Bellingham,United States of America,48.45,-122.30
+11164,Cherry Point,United States of America,48.52,-122.45
+11165,Semiahmoo,United States of America,48.59,-122.46
+11166,Blaine,United States of America,49.00,-122.45
+11167,Steveston,Canada,49.80,-123.11
+11168,New Westminster,Canada,49.12,-122.55
+11169,Fraser Mills,Canada,49.13,-122.52
+11170,Port Coquitlam,Canada,49.16,-122.47
+11171,Mission City,Canada,49.70,-122.15
+11172,Vancouver,Canada,49.17,-123.70
+11173,Port Moody,Canada,49.17,-122.53
+11174,Squamish,Canada,49.41,-123.90
+11175,Port Mellon,Canada,49.31,-123.29
+11176,Westview,Canada,49.50,-124.31
+11177,Powell River,Canada,49.52,-124.32
+11178,Duncan Bay,Canada,50.40,-125.17
+11179,Campbell River,Canada,50.10,-124.14
+11180,Comox Harbor,Canada,49.40,-124.55
+11181,Nanoose Harbor,Canada,49.16,-124.90
+11182,Nanaimo,Canada,49.10,-123.56
+11183,Harmac,Canada,49.80,-123.51
+11184,Chemainus,Canada,48.56,-123.43
+11185,Crofton,Canada,48.52,-123.38
+11186,Cowichan Bay,Canada,48.45,-123.37
+11187,Ganges,Canada,48.51,-123.29
+11188,Lyall Harbor,Canada,48.48,-123.12
+11189,Hope Bay,Canada,48.48,-123.17
+11190,Sidney,Canada,48.39,-123.23
+11191,Bamberton,Canada,48.33,-123.31
+11192,Victoria Harbor,Canada,48.26,-123.23
+11193,Esquimalt Harbor,Canada,48.26,-123.26
+11194,Port San Juan,Canada,48.33,-124.26
+11195,Port Alberni,Canada,49.14,-124.49
+11196,Ucluelet,Canada,48.57,-125.33
+11197,Clayoquot,Canada,49.90,-125.55
+11198,Ahousat,Canada,49.17,-126.40
+11199,Gold River,Canada,49.41,-126.70
+11200,Tahsis,Canada,49.55,-126.40
+11201,Bergh Cove,Canada,50.32,-127.37
+11202,Port Alice,Canada,50.23,-127.27
+11203,Coal Harbor,Canada,50.36,-127.35
+11204,Port Hardy,Canada,50.43,-127.29
+11205,Sointula,Canada,50.38,-127.10
+11206,Alert Bay,Canada,50.35,-126.56
+11207,Port Mcneill,Canada,50.35,-127.50
+11208,Bella Coola,Canada,52.22,-126.48
+11209,Bella Bella,Canada,52.10,-128.90
+11210,Klemtu,Canada,52.36,-128.31
+11211,Butedale,Canada,53.10,-128.41
+11212,Kemano Bay,Canada,53.29,-128.80
+11213,Kitimat,Canada,54.00,-128.41
+11214,Porpoise Harbor,Canada,54.13,-130.17
+11215,Prince Rupert,Canada,54.19,-130.20
+11216,Port Simpson,Canada,54.34,-130.26
+11217,Stewart,Canada,55.56,-130.00
+11218,Masset Harbor,Canada,54.10,-132.90
+11219,Port Clements,Canada,53.41,-132.11
+11220,Queen Charlotte,Canada,53.15,-132.50
+11221,Alliford Bay,Canada,53.13,-131.59
+11222,Hyder,United States of America,55.55,-130.00
+11223,Hidden Inlet,United States of America,54.57,-130.20
+11224,Metlakatla,United States of America,55.80,-131.34
+11225,George Inlet,United States of America,55.23,-131.28
+11226,Ketchikan,United States of America,55.20,-131.39
+11227,Ward Cove,United States of America,55.24,-131.44
+11228,Knudson Cove,United States of America,55.28,-131.48
+11229,Loring,United States of America,55.36,-131.38
+11230,Yes Bay,United States of America,55.55,-131.48
+11231,Union Bay,United States of America,55.46,-132.13
+11232,Burnett Inlet,United States of America,56.40,-132.28
+11233,Wrangell,United States of America,56.28,-132.23
+11234,Kasaan,United States of America,55.32,-132.24
+11235,Rose Inlet,United States of America,54.57,-132.58
+11236,Hydaburg,United States of America,55.12,-132.50
+11237,Waterfall,United States of America,55.18,-133.14
+11238,Craig,United States of America,55.28,-133.90
+11239,Klawock,United States of America,55.33,-133.60
+11240,Steamboat Bay,United States of America,55.32,-133.38
+11241,Fishermans Harbor,United States of America,55.58,-133.48
+11242,Petersburg,United States of America,56.49,-132.57
+11243,Kake,United States of America,56.58,-133.56
+11244,Washington Bay,United States of America,56.44,-134.21
+11245,Bay Of Pillars,United States of America,56.36,-134.14
+11246,Big Port Walter,United States of America,56.23,-134.44
+11247,Little Port Walter,United States of America,56.23,-134.38
+11248,Port Armstrong,United States of America,56.18,-134.40
+11249,Port Conclusion,United States of America,56.15,-134.41
+11250,Port Alexander,United States of America,56.15,-134.39
+11251,Sitka,United States of America,57.30,-135.20
+11252,Kimshan Cove,United States of America,57.41,-136.70
+11253,Pelican,United States of America,57.58,-136.14
+11254,Elfin Cove,United States of America,58.12,-136.21
+11255,Hoonah,United States of America,58.70,-135.27
+11256,Tenakee Springs,United States of America,57.47,-135.12
+11257,Chatham,United States of America,57.31,-134.56
+11258,Todd,United States of America,57.28,-135.30
+11259,Hood Bay,United States of America,57.24,-134.30
+11260,Hawk Inlet,United States of America,58.70,-134.45
+11261,Funter,United States of America,58.15,-134.54
+11262,Dupont,United States of America,58.14,-134.16
+11263,Juneau,United States of America,58.18,-134.25
+11264,Port Chilkoot,United States of America,59.14,-135.26
+11265,Haines,United States of America,59.14,-135.26
+11266,Tanani Point,United States of America,59.17,-135.27
+11267,Skagway,United States of America,59.27,-135.20
+11268,Letnikof Cove,United States of America,59.11,-135.24
+11269,Excursion Inlet,United States of America,58.25,-135.27
+11270,Yakutat,United States of America,59.33,-139.44
+11271,Katalla,United States of America,60.12,-144.32
+11272,Orca,United States of America,60.35,-145.43
+11273,Cordova,United States of America,60.33,-145.46
+11274,Shepard Point,United States of America,60.38,-145.40
+11275,Swanport,United States of America,61.50,-146.24
+11276,Valdez,United States of America,61.70,-146.15
+11277,Whittier,United States of America,60.50,-148.40
+11278,Crab Bay,United States of America,60.40,-148.00
+11279,Port Ashton,United States of America,60.40,-148.30
+11280,San Juan Cannery,United States of America,60.30,-148.40
+11281,Latouche,United States of America,60.30,-148.40
+11282,Seward,United States of America,60.60,-149.26
+11283,Port Graham,United States of America,59.21,-151.49
+11284,Seldovia,United States of America,59.26,-151.44
+11285,Homer,United States of America,59.36,-151.25
+11286,Coal Point,United States of America,59.36,-151.25
+11287,Ninilchik,United States of America,60.30,-151.41
+11288,Kenai,United States of America,60.33,-151.16
+11289,Nikiski,United States of America,60.41,-151.24
+11290,Anchorage,United States of America,61.13,-149.54
+11291,Drift River,United States of America,60.33,-152.80
+11292,Snug Harbor,United States of America,60.60,-152.35
+11293,Ouzinkie,United States of America,57.55,-152.30
+11294,Kodiak,United States of America,57.47,-152.24
+11295,Womens Bay,United States of America,57.43,-152.31
+11296,Port Hobron,United States of America,57.10,-153.10
+11297,Mccord,United States of America,57.90,-153.12
+11298,Three Saints Bay,United States of America,57.70,-153.30
+11299,Trap Point,United States of America,57.00,-154.90
+11300,Lazy Bay,United States of America,56.54,-154.15
+11301,Karluk,United States of America,57.34,-154.27
+11302,Uyak,United States of America,57.38,-154.00
+11303,Larsen Bay,United States of America,57.32,-153.59
+11304,Port Obrien,United States of America,57.44,-153.19
+11305,Dry Spruce Bay,United States of America,57.56,-153.20
+11306,Port Vita,United States of America,58.40,-153.40
+11307,Bear Island,United States of America,58.27,-152.41
+11308,Hogg Island,United States of America,58.28,-152.41
+11309,Port William,United States of America,58.29,-152.35
+11310,Kanatak,United States of America,57.34,-156.20
+11311,Chignik,United States of America,56.18,-158.24
+11312,Ivanof Bay,United States of America,55.48,-159.28
+11313,Sand Point,United States of America,55.20,-160.32
+11314,Baralof Bay,United States of America,55.14,-160.32
+11315,Unga,United States of America,55.11,-160.30
+11316,Belkofski,United States of America,55.50,-162.20
+11317,King Cove,United States of America,55.30,-162.19
+11318,Cold Bay,United States of America,55.12,-162.42
+11319,Sanak,United States of America,54.29,-162.49
+11320,Akutan Harbor,United States of America,54.80,-165.48
+11321,Cannery Bay,United States of America,53.42,-166.45
+11322,Makushin,United States of America,53.46,-166.59
+11323,Dutch Harbor,United States of America,53.54,-166.32
+11324,Unalaska,United States of America,53.52,-166.32
+11325,Palisades Point,United States of America,52.14,-174.10
+11326,Adak Naval Air Station,United States of America,51.52,-176.38
+11327,Constantine Harbor,United States of America,51.24,179.18
+11328,Kiska,United States of America,51.58,177.33
+11329,Alcan Harbor,United States of America,52.44,174.40
+11330,Skoot Cove,United States of America,52.43,174.40
+11331,Massacre Bay,United States of America,52.50,173.14
+11332,Village Cove,United States of America,57.80,-170.16
+11333,Port Moller,United States of America,55.59,-160.34
+11334,Port Heiden,United States of America,56.53,-158.42
+11335,Pilot Point,United States of America,57.34,-157.36
+11336,Ugashik,United States of America,57.32,-157.25
+11337,Egegik,United States of America,58.12,-157.22
+11338,Naknek,United States of America,58.43,-157.10
+11339,Koggiung,United States of America,58.58,-156.55
+11340,Ekuk,United States of America,58.49,-158.34
+11341,Clarks Point,United States of America,58.51,-158.33
+11342,Dillingham,United States of America,59.20,-158.29
+11343,Platinum,United States of America,59.10,-161.50
+11344,Bethel,United States of America,60.49,-161.43
+11345,Nash Harbor,United States of America,60.12,-166.59
+11346,Kwiguk,United States of America,62.44,-164.28
+11347,Kotlik,United States of America,63.20,-163.33
+11348,Hamilton,United States of America,62.54,-163.55
+11349,St Michael,United States of America,63.29,-162.20
+11350,Unalakleet,United States of America,63.53,-160.47
+11351,Solomon,United States of America,64.33,-164.24
+11352,Nome,United States of America,64.30,-165.25
+11353,Grantley Harbor,United States of America,65.16,-166.20
+11354,Savoonga,United States of America,63.41,-170.24
+11355,Shishmaref,United States of America,66.15,-166.50
+11356,Deering,United States of America,66.50,-162.44
+11357,Kotzebue,United States of America,66.55,-162.35
+11358,Wainwright,United States of America,70.39,-160.00
+11359,Barrow,United States of America,71.17,-156.47
+11360,Prudhoe Bay,United States of America,70.20,-148.25
+11361,Bernard Harbor,United States of America,70.80,-143.38
+11362,Tuktoyaktuk,Canada,69.27,-133.00
+11363,Police Point,Canada,70.11,-124.45
+11364,Paulatuk,Canada,69.21,-124.50
+11365,Pearce Point,Canada,69.49,-122.45
+11366,Tysoe Point,Canada,69.36,-120.45
+11367,Sachs Harbor,Canada,71.58,-125.15
+11368,Cape Young,Canada,68.56,-116.56
+11369,Bernard Harbor,Canada,68.47,-114.46
+11370,Lady Franklin Point,Canada,68.29,-113.16
+11371,Coppermine,Canada,67.48,-115.30
+11372,Cambridge Bay,Canada,69.70,-105.40
+11373,Resolute Bay,Canada,74.41,-95.54
+11374,Barentsburg,XR,78.40,14.14
+11375,Longyearbyen,XR,78.12,15.42
+11376,Ny Alesund,XR,78.55,11.57
+11377,Kirkenes,Norway,69.44,30.30
+11378,Vadso,Norway,70.40,29.45
+11379,Batsfjorden,Norway,70.38,29.44
+11380,Vardo,Norway,70.22,31.70
+11381,Berlevag,Norway,70.52,29.60
+11382,Kjollefjorden,Norway,70.57,27.20
+11383,Honningsvag,Norway,70.59,26.00
+11384,Kvalsund,Norway,70.30,23.59
+11385,Hammerfest,Norway,70.40,23.40
+11386,Sorvaer,Norway,70.38,21.59
+11387,Bredvik,Norway,70.35,22.80
+11388,Oksfjord,Norway,70.14,22.21
+11389,Alta,Norway,69.58,23.15
+11390,Talvik,Norway,70.30,22.58
+11391,Tromso,Norway,69.39,18.58
+11392,Gibostad,Norway,69.21,18.50
+11393,Finnsnes,Norway,69.14,17.58
+11394,Medby,Norway,68.55,17.44
+11395,Sjovegan,Norway,68.53,17.50
+11396,Harstad,Norway,68.48,16.33
+11397,Andenes,Norway,69.20,16.80
+11398,Sortland,Norway,68.42,15.25
+11399,Stokkmarknes,Norway,68.34,14.55
+11400,Reine,Norway,67.56,13.60
+11401,Ballstad,Norway,68.40,13.42
+11402,Stamsund,Norway,68.70,13.51
+11403,Henningsvaer,Norway,68.90,14.13
+11404,Svolvaer,Norway,68.14,14.35
+11405,Skrova Havn,Norway,68.10,14.40
+11406,Brettesnes,Norway,68.14,14.51
+11407,Lodingen,Norway,68.25,16.00
+11408,Ulvik,Norway,68.34,16.16
+11409,Lilandsgrunnen,Norway,68.29,16.53
+11410,Narvik,Norway,68.26,17.25
+11411,Litle Ballangen,Norway,68.20,16.51
+11412,Drag,Norway,68.30,16.50
+11413,Korsnes,Norway,68.15,16.40
+11414,Tranoy,Norway,68.11,15.40
+11415,Kjerringoy,Norway,67.31,14.46
+11416,Bodo,Norway,67.17,14.23
+11417,Lakselv,Norway,67.22,15.36
+11418,Fauske,Norway,67.15,15.22
+11419,Rognan,Norway,67.60,15.25
+11420,Ornes,Norway,66.52,13.43
+11421,Glomfjord,Norway,66.49,13.59
+11422,Sandnessjoen,Norway,66.10,12.38
+11423,Mo Inlet,Norway,66.19,14.80
+11424,Hemnesberget,Norway,66.14,13.37
+11425,Mosjoen,Norway,65.50,13.12
+11426,Tjotta,Norway,65.50,12.26
+11427,Bronnoysund,Norway,65.28,12.12
+11428,Berg,Norway,65.22,12.12
+11429,Rorvik,Norway,64.52,11.15
+11430,Salsbruket,Norway,64.48,11.52
+11431,Namsos,Norway,64.28,11.30
+11432,Malm,Norway,64.40,11.14
+11433,Steinkjer,Norway,64.10,11.30
+11434,Djupviken,Norway,63.47,11.27
+11435,Levanger,Norway,63.45,11.18
+11436,Langstein,Norway,63.32,10.54
+11437,Muruvik,Norway,63.26,10.51
+11438,Hommelvik,Norway,63.25,10.48
+11439,Trondheim,Norway,63.26,10.24
+11440,Thamshamm,Norway,63.19,9.53
+11441,Kristiansund,Norway,63.70,7.44
+11442,Sunndalsora,Norway,62.41,8.33
+11443,Bud,Norway,62.54,6.55
+11444,Haroysund,Norway,62.54,6.58
+11445,Molde,Norway,62.44,7.10
+11446,Andalsnes,Norway,62.34,7.41
+11447,Hareid,Norway,62.22,6.20
+11448,Moldtustranda,Norway,62.18,5.39
+11449,Orstav,Norway,62.12,6.80
+11450,Alesund,Norway,62.28,6.10
+11451,Maloy,Norway,61.56,5.70
+11452,Floro,Norway,61.36,5.20
+11453,Ardalstangen,Norway,61.14,7.43
+11454,Mongstad,Norway,60.49,5.20
+11455,Stura,Norway,60.37,4.51
+11456,Vaksdal,Norway,60.29,5.44
+11457,Bergen,Norway,60.24,5.19
+11458,Brattholmen,Norway,60.21,5.10
+11459,Tranneset,Norway,60.25,5.10
+11460,Strandvik,Norway,60.10,5.40
+11461,Norheimsund,Norway,60.22,6.90
+11462,Odda,Norway,60.50,6.33
+11463,Meling,Norway,59.47,5.70
+11464,Mosterhamn,Norway,59.42,5.24
+11465,Sagvag,Norway,59.46,5.23
+11466,Leirvik,Norway,59.47,5.30
+11467,Husnes,Norway,59.52,5.46
+11468,Haugesund,Norway,59.25,5.16
+11469,Kopervik,Norway,59.17,5.19
+11470,Karsto,Norway,59.16,5.31
+11471,Espevaer,Norway,59.35,5.90
+11472,Sauda,Norway,59.39,6.21
+11473,Akrahamn,Norway,59.16,5.11
+11474,Sandnes,Norway,58.51,5.45
+11475,Stavanger,Norway,58.58,5.45
+11476,Skudeneshavn,Norway,59.90,5.16
+11477,Tananger,Norway,58.56,5.35
+11478,Egersund,Norway,58.27,6.00
+11479,Rekefjord,Norway,58.20,6.16
+11480,Kirkehamn,Norway,58.14,6.32
+11481,Flekkefjorden,Norway,58.18,6.40
+11482,Farsund,Norway,58.50,6.49
+11483,Stusvik,Norway,58.00,7.20
+11484,Mandal,Norway,58.10,7.28
+11485,Kristiansand,Norway,58.90,8.00
+11486,Arendal,Norway,58.28,8.46
+11487,Tvedestrand,Norway,58.37,8.56
+11488,Risor,Norway,58.43,9.14
+11489,Kragero,Norway,58.52,9.25
+11490,Brevik,Norway,59.40,9.42
+11491,Porsgrunn,Norway,59.90,9.40
+11492,Skien,Norway,59.12,9.36
+11493,Larvik,Norway,59.30,10.20
+11494,Sandefjorden,Norway,59.70,10.14
+11495,Tonsberg,Norway,59.17,10.25
+11496,Valloy,Norway,59.16,10.30
+11497,Slagenstangen,Norway,59.19,10.31
+11498,Horten,Norway,59.25,10.30
+11499,Holmestrand,Norway,59.29,10.18
+11500,Svelvik,Norway,59.37,10.24
+11501,Drammen,Norway,59.44,10.15
+11502,Storsteilene,Norway,59.49,10.36
+11503,Oslo,Norway,59.55,10.45
+11504,Fagerstrand,Norway,59.44,10.36
+11505,Drobak,Norway,59.40,10.39
+11506,Tofte,Norway,59.33,10.34
+11507,Kambo,Norway,59.28,10.41
+11508,Moss,Norway,59.27,10.40
+11509,Sarpsborg,Norway,59.16,11.60
+11510,Fredrikstad,Norway,59.12,10.57
+11511,Halden,Norway,59.70,11.23
+11512,Stromstad,Sweden,58.56,11.10
+11513,Grebbestad,Sweden,58.41,11.16
+11514,Fjallbacka,Sweden,58.36,11.17
+11515,Bovallstrand,Sweden,58.29,11.20
+11516,Hunnebostrand,Sweden,58.26,11.18
+11517,Brofjorden,Sweden,58.23,11.25
+11518,Lysekil,Sweden,58.16,11.26
+11519,Uddevalla,Sweden,58.21,11.55
+11520,Stenungsund,Sweden,58.40,11.50
+11521,Marstrand,Sweden,57.53,11.35
+11522,Goteborg,Sweden,57.42,11.58
+11523,Varberg,Sweden,57.70,12.15
+11524,Falkenberg,Sweden,56.54,12.30
+11525,Halmstad,Sweden,56.40,12.52
+11526,Hoganas,Sweden,56.12,12.33
+11527,Helsingborg,Sweden,56.30,12.42
+11528,Landskrona,Sweden,55.52,12.50
+11529,Malmo,Sweden,55.37,13.00
+11530,Limhamn,Sweden,55.35,12.56
+11531,Trelleborg,Sweden,55.22,13.90
+11532,Ystad,Sweden,55.26,13.50
+11533,Simrishamn,Sweden,55.33,14.22
+11534,Ahus,Sweden,55.56,14.19
+11535,Solvesborg,Sweden,56.30,14.35
+11536,Karlshamn,Sweden,56.10,14.52
+11537,Ronneby,Sweden,56.11,15.18
+11538,Karlskrona,Sweden,56.10,15.36
+11539,Bergkvara,Sweden,56.23,16.60
+11540,Kalmar,Sweden,56.40,16.22
+11541,Stora Jatterson,Sweden,57.60,16.34
+11542,Oskarshamn,Sweden,57.16,16.27
+11543,Figeholm,Sweden,57.22,16.30
+11544,Degerhamn,Sweden,56.21,16.25
+11545,Ronehamn,Sweden,57.70,18.30
+11546,Slite,Sweden,57.42,18.49
+11547,Farosund,Sweden,57.55,19.30
+11548,Storugns,Sweden,57.50,18.48
+11549,Visby,Sweden,57.38,18.17
+11550,Klintehamn,Sweden,57.23,18.12
+11551,Verkeback,Sweden,57.44,16.32
+11552,Vastervik,Sweden,57.46,16.39
+11553,Norrkoping,Sweden,58.35,16.12
+11554,Oxelosund,Sweden,58.40,17.70
+11555,Nykoping,Sweden,58.45,17.10
+11556,Sodertalje,Sweden,59.11,17.39
+11557,Nynashamn,Sweden,58.54,17.58
+11558,Gustavsberg,Sweden,59.19,18.23
+11559,Sandhamn,Sweden,59.17,18.55
+11560,Stockholm,Sweden,59.20,18.30
+11561,Vasteras,Sweden,59.37,16.33
+11562,Grisslehamn,Sweden,60.60,18.49
+11563,Hallstavik,Sweden,60.30,18.35
+11564,Hargshamn,Sweden,60.11,18.27
+11565,Skutskar,Sweden,60.39,17.24
+11566,Karskar,Sweden,60.41,17.16
+11567,Gavle,Sweden,60.41,17.10
+11568,Norrsundet,Sweden,60.56,17.10
+11569,Vallvik,Sweden,61.11,17.10
+11570,Sandarne,Sweden,61.16,17.11
+11571,Soderhamn,Sweden,61.18,17.50
+11572,Iggesund,Sweden,61.39,17.50
+11573,Hudiksvall,Sweden,61.44,17.70
+11574,Stocka,Sweden,61.54,17.21
+11575,Stockvik,Sweden,62.20,17.23
+11576,Sundsvall,Sweden,62.23,17.21
+11577,Vivstavarv,Sweden,62.29,17.21
+11578,Soraker,Sweden,62.30,17.30
+11579,Harnosand,Sweden,62.38,17.56
+11580,Ulvvik,Sweden,62.40,17.52
+11581,Utansjo,Sweden,62.46,17.56
+11582,Gustavsvik,Sweden,62.50,17.53
+11583,Lunde,Sweden,62.53,17.53
+11584,Kramfors,Sweden,62.56,17.48
+11585,Vaja,Sweden,62.59,17.43
+11586,Bollstabruk,Sweden,63.00,17.42
+11587,Kopmanholmen,Sweden,63.10,18.35
+11588,Domsjo,Sweden,63.16,18.44
+11589,Ornskoldsvik,Sweden,63.17,18.43
+11590,Husum,Sweden,63.20,19.90
+11591,Rundvik,Sweden,63.32,19.27
+11592,Nordmaling,Sweden,63.34,19.29
+11593,Obbola,Sweden,63.42,20.20
+11594,Umea Hamn,Sweden,63.42,20.21
+11595,Gumbodahamn,Sweden,64.14,21.60
+11596,Skelleftehamn,Sweden,64.41,21.14
+11597,Kagehamn,Sweden,64.50,21.20
+11598,Brannfors,Sweden,65.10,21.23
+11599,Pitea,Sweden,65.19,21.29
+11600,Lulea,Sweden,65.35,22.10
+11601,Torehamn,Sweden,65.54,22.39
+11602,Karlsborg,Sweden,65.48,23.17
+11603,Sandvik,Sweden,65.44,23.46
+11604,Torina,Finland,65.46,24.10
+11605,Kemi,Finland,65.44,24.34
+11606,Oulu,Finland,65.10,25.24
+11607,Raahe,Finland,64.41,24.25
+11608,Veitsiluoto,Finland,65.42,24.37
+11609,Rahja,Finland,64.12,23.44
+11610,Himanka,Finland,64.00,23.39
+11611,Kokkola,Finland,63.51,23.10
+11612,Jakobstad,Finland,63.41,22.40
+11613,Nykarleby,Finland,63.31,22.32
+11614,Kantlax,Finland,63.25,22.17
+11615,Hellnas,Finland,63.17,22.14
+11616,Vaasa,Finland,63.60,21.35
+11617,Kaskinen,Finland,62.23,21.14
+11618,Kristinestad,Finland,62.17,21.24
+11619,Pori,Finland,61.29,21.48
+11620,Mantyluoto,Finland,61.36,21.29
+11621,Tahkoluoto,Finland,61.38,21.24
+11622,Rauma,Finland,61.80,21.30
+11623,Uusikaupunki,Finland,60.48,21.24
+11624,Naantali,Finland,60.28,22.10
+11625,Turku,Finland,60.27,22.14
+11626,Tolkkinen,Finland,60.20,25.35
+11627,Signilskar,Finland,60.12,19.20
+11628,Mariehamn,Finland,60.60,19.55
+11629,Pargas,Finland,60.17,22.40
+11630,Hanko,Finland,59.49,22.57
+11631,Ekenas,Finland,59.59,23.26
+11632,Jussaro,Finland,59.50,23.34
+11633,Porkkala,Finland,60.50,24.23
+11634,Inkoo,Finland,60.10,23.55
+11635,Helsinki,Finland,60.10,24.58
+11636,Porvoo,Finland,60.18,25.38
+11637,Loviisa,Finland,60.27,26.14
+11638,Kotka,Finland,60.28,26.58
+11639,Hamina,Finland,60.34,27.12
+11640,Vyborg,Russian Federation,60.43,28.45
+11641,Gavan Vysotsk,Russian Federation,60.37,28.34
+11642,Primorsk,Russian Federation,60.22,28.38
+11643,Sankt-Peterburg,Russian Federation,59.56,30.18
+11644,Lomonosov,Russian Federation,59.55,29.46
+11645,Kronshtadt,Russian Federation,59.59,29.47
+11646,Reka Luga,Russian Federation,59.40,28.19
+11647,Kunda,Estonia,59.32,26.32
+11648,Tallinn,Estonia,59.27,24.46
+11649,Muuga-Port Of Tallin,Estonia,59.30,24.57
+11650,Paldiski,Estonia,59.21,24.20
+11651,Osmussaar,Estonia,59.18,23.22
+11652,Parnu,Estonia,58.23,24.30
+11653,Salacgriva,Latvia,57.42,24.22
+11654,Riga,Latvia,56.57,24.60
+11655,Lielupe,Latvia,57.00,23.26
+11656,Ventspils,Latvia,57.24,21.32
+11657,Liepaja,Latvia,56.31,21.10
+11658,Butinge Oil Terminal,Lithuania,56.20,20.57
+11659,Klaipeda,Lithuania,55.43,21.70
+11660,Baltiysk,Russian Federation,54.38,19.54
+11661,Kaliningrad,Russian Federation,54.42,20.29
+11662,Gdansk,Poland,54.21,18.40
+11663,Port Polnochny,Poland,54.24,18.43
+11664,Nowy Port,Poland,54.25,18.40
+11665,Gdynia,Poland,54.32,18.33
+11666,Police,Poland,53.34,14.34
+11667,Ustka,Poland,54.35,16.51
+11668,Darlowo,Poland,54.26,16.25
+11669,Kolobrzeg,Poland,54.13,15.33
+11670,Swinoujscie,Poland,53.55,14.16
+11671,Szczecin,Poland,53.25,14.33
+11672,Wolgast,Germany,54.30,13.47
+11673,Sassnitz,Germany,54.31,13.39
+11674,Stralsund,Germany,54.19,13.60
+11675,Rostock,Germany,54.60,12.80
+11676,Wismar,Germany,53.54,11.28
+11677,Lubeck-Travemunde,Germany,53.58,10.53
+11678,Lubeck,Germany,53.53,10.42
+11679,Neustadt,Germany,54.60,10.49
+11680,Orth,Germany,54.27,11.30
+11681,Heiligenhafen,Germany,54.22,10.59
+11682,Kiel,Germany,54.19,10.80
+11683,Eckernforde,Germany,54.29,9.50
+11684,Kappeln,Germany,54.40,9.56
+11685,Flensburg,Germany,54.48,9.26
+11686,Nekso,Denmark,55.40,15.80
+11687,Ronne,Denmark,55.60,14.42
+11688,Hasle,Denmark,55.11,14.42
+11689,Christianso Harbor,Denmark,55.19,15.11
+11690,Fakse Ladeplads Havn,Denmark,55.13,12.10
+11691,Koge,Denmark,55.27,12.12
+11692,Kobenhavn,Denmark,55.42,12.37
+11693,Tuborg,Denmark,55.43,12.35
+11694,Helsingor,Denmark,56.20,12.37
+11695,Hundested,Denmark,55.58,11.51
+11696,Frederiksvaerk,Denmark,55.58,12.10
+11697,Frederikssund,Denmark,55.50,12.30
+11698,Kyndbyvaerkets Havn,Denmark,55.49,11.53
+11699,Holbaek,Denmark,55.43,11.43
+11700,Nykobing (Mor),Denmark,56.46,11.52
+11701,Kalundborg,Denmark,55.41,11.60
+11702,Korsor,Denmark,55.20,11.80
+11703,Skaelskor,Denmark,55.15,11.18
+11704,Stigsnaesvaerket,Denmark,55.12,11.15
+11705,Gulfhaven,Denmark,55.12,11.16
+11706,Naestved,Denmark,55.14,11.45
+11707,Vordingborg,Denmark,55.00,11.54
+11708,Stubbekobing,Denmark,54.53,12.30
+11709,Stege,Denmark,54.59,12.17
+11710,Nykobing (Falster),Denmark,54.46,11.52
+11711,Sakskobing,Denmark,54.48,11.38
+11712,Bandholm,Denmark,54.50,11.30
+11713,Nakskov,Denmark,54.50,11.80
+11714,Rodby Havn,Denmark,54.39,11.21
+11715,Nysted,Denmark,54.40,11.44
+11716,Rudkobing,Denmark,54.57,10.43
+11717,Marstal,Denmark,54.55,10.20
+11718,Aeroskobing,Denmark,54.53,10.25
+11719,Svendborg,Denmark,55.40,10.37
+11720,Nyborg,Denmark,55.19,10.48
+11721,Kerteminde,Denmark,55.27,10.40
+11722,Odense,Denmark,55.25,10.23
+11723,Skaerbaek,Denmark,55.31,9.37
+11724,Middelfart,Denmark,55.30,9.44
+11725,Assens,Denmark,55.16,9.53
+11726,Faborg,Denmark,55.60,10.15
+11727,Sonderborg,Denmark,54.55,9.47
+11728,Augustenborg,Denmark,54.57,9.52
+11729,Abenra,Denmark,55.30,9.26
+11730,Ensted,Denmark,55.10,9.26
+11731,Haderslev,Denmark,55.15,9.30
+11732,Kolding,Denmark,55.29,9.30
+11733,Fredericia,Denmark,55.34,9.46
+11734,Vejle,Denmark,55.43,9.33
+11735,Horsens,Denmark,55.52,9.51
+11736,Arhus,Denmark,56.90,10.13
+11737,Studstrup,Denmark,56.15,10.21
+11738,Grenaa Havn,Denmark,56.25,10.56
+11739,Randers,Denmark,56.28,10.30
+11740,Hadsund,Denmark,56.43,10.70
+11741,Mariager,Denmark,56.39,9.59
+11742,Hobro,Denmark,56.38,9.48
+11743,Hals,Denmark,56.59,10.19
+11744,Alborg,Denmark,57.30,9.56
+11745,Frederikshavn,Denmark,57.26,10.33
+11746,Skagen Havn,Denmark,57.43,10.36
+11747,Hirtshals,Denmark,57.36,9.58
+11748,Hanstholm,Denmark,57.80,8.36
+11749,Thisted,Denmark,56.57,8.42
+11750,Thyboron,Denmark,56.42,8.13
+11751,Lemvig,Denmark,56.35,8.17
+11752,Holstebro-Stuer,Denmark,56.30,8.35
+11753,Ringkobing,Denmark,56.50,8.15
+11754,Esbjerg,Denmark,55.28,8.27
+11755,Husum,Germany,54.29,9.30
+11756,Busum,Germany,54.80,8.52
+11757,Brunsbuttel Elbahafen,Germany,53.53,9.10
+11758,Brunsbuttel Canal Terminals,Germany,53.54,9.90
+11759,Itzehoe,Germany,53.55,9.31
+11760,Rendsburg,Germany,54.18,9.41
+11761,Neuhaus,Germany,53.48,9.20
+11762,Gluckstadt,Germany,53.47,9.25
+11763,Hamburg,Germany,53.33,9.56
+11764,Butzfleth,Germany,53.39,9.31
+11765,Cuxhaven,Germany,53.52,8.43
+11766,Bremerhaven,Germany,53.32,8.35
+11767,Nordenham,Germany,53.29,8.29
+11768,Brake,Germany,53.20,8.29
+11769,Elsfleth,Germany,53.14,8.28
+11770,Oldenburg,Germany,53.70,8.13
+11771,Bremen,Germany,53.80,8.46
+11772,Wilhelmshaven,Germany,53.32,8.10
+11773,Emden,Germany,53.20,7.11
+11774,Leer,Germany,53.14,7.27
+11775,Papenburg,Germany,53.60,7.23
+11776,Eemshaven,Netherlands,53.27,6.50
+11777,Delfzijl,Netherlands,53.20,6.56
+11778,Harlingen,Netherlands,53.11,5.25
+11779,Den Helder,Netherlands,52.58,4.47
+11780,Ijmuiden,Netherlands,52.28,4.35
+11781,Zaandam,Netherlands,52.26,4.50
+11782,Amsterdam,Netherlands,52.22,4.54
+11783,Scheveningen,Netherlands,52.60,4.16
+11784,Hoek Van Holland,Netherlands,51.57,4.80
+11785,Europoort,Netherlands,51.57,4.70
+11786,Maassluis,Netherlands,51.55,4.15
+11787,Vlaardingen,Netherlands,51.54,4.21
+11788,Schiedam,Netherlands,51.54,4.24
+11789,Rotterdam,Netherlands,51.54,4.29
+11790,Dordrecht,Netherlands,51.49,4.39
+11791,Vlissingen,Netherlands,51.27,3.36
+11792,Hansweert,Netherlands,51.27,4.00
+11793,Terneuzen,Netherlands,51.21,3.49
+11794,Antwerpen,Belgium,51.13,4.24
+11795,Bruxelles,Belgium,50.52,4.21
+11796,Ghent,Belgium,51.40,3.44
+11797,Zeebrugge,Belgium,51.20,3.12
+11798,Bruges,Belgium,51.14,3.13
+11799,Oostende,Belgium,51.14,2.55
+11800,Nieuwpoort,Belgium,51.80,2.45
+11801,Whitstable,United Kingdom,51.22,1.20
+11802,Sheerness,United Kingdom,51.27,0.45
+11803,Isle Of Grain,United Kingdom,51.26,0.42
+11804,Thamesport,United Kingdom,51.26,0.42
+11805,Chatham Docks,United Kingdom,51.24,0.33
+11806,Gravesend,United Kingdom,51.27,0.22
+11807,Tilbury,United Kingdom,51.28,0.20
+11808,London,United Kingdom,51.30,-0.50
+11809,Colchester,United Kingdom,51.53,0.55
+11810,Harwich,United Kingdom,51.57,1.17
+11811,Ipswich,United Kingdom,52.30,1.10
+11812,Felixstowe,United Kingdom,51.57,1.19
+11813,Lowestoft,United Kingdom,52.29,1.45
+11814,Great Yarmouth,United Kingdom,52.37,1.44
+11815,Wisbech,United Kingdom,52.40,0.90
+11816,King'S Lynn,United Kingdom,52.45,0.24
+11817,Boston,United Kingdom,52.58,-0.10
+11818,Grimsby,United Kingdom,53.35,-0.40
+11819,Immingham,United Kingdom,53.38,-0.12
+11820,Kingston Upon Hull,United Kingdom,53.45,-0.17
+11821,Howdendyke,United Kingdom,53.44,-0.53
+11822,New Holland,United Kingdom,53.42,-0.22
+11823,Goole,United Kingdom,53.42,-0.50
+11824,Bridlington,United Kingdom,54.50,-0.11
+11825,Scarborough,United Kingdom,54.17,-0.24
+11826,Whitby,United Kingdom,54.29,-0.37
+11827,Teesport,United Kingdom,54.39,-1.80
+11828,Hartlepool,United Kingdom,54.42,-1.11
+11829,Seaham,United Kingdom,54.50,-1.19
+11830,Sunderland,United Kingdom,54.55,-1.22
+11831,Tynemouth,United Kingdom,55.00,-1.24
+11832,Blyth,United Kingdom,55.70,-1.30
+11833,Warkworth Harbour,United Kingdom,55.20,-1.35
+11834,Berwick-Upon-Tweed,United Kingdom,55.46,-2.00
+11835,Eyemouth,United Kingdom,55.52,-2.50
+11836,Dunbar,United Kingdom,56.00,-2.31
+11837,Bird Port,United Kingdom,51.34,-2.58
+11838,Leith,United Kingdom,55.59,-3.11
+11839,Granton,United Kingdom,55.59,-3.13
+11840,Braefoot Bay Terminal,United Kingdom,56.20,-3.19
+11841,Hound Point Terminal,United Kingdom,56.00,-3.22
+11842,Rosyth,United Kingdom,56.10,-3.26
+11843,Grangemouth,United Kingdom,56.10,-3.43
+11844,Burntisland,United Kingdom,56.30,-3.14
+11845,Methil,United Kingdom,56.11,-3.00
+11846,Dundee,United Kingdom,56.28,-2.57
+11847,Perth,United Kingdom,56.24,-3.27
+11848,Montrose,United Kingdom,56.42,-2.28
+11849,Aberdeen,United Kingdom,57.90,-2.50
+11850,Peterhead,United Kingdom,57.30,-1.47
+11851,Fraserburgh Harbor,United Kingdom,57.41,-2.00
+11852,Macduff,United Kingdom,57.40,-2.30
+11853,Buckie Harbor,United Kingdom,57.41,-2.58
+11854,Lossiemouth,United Kingdom,57.43,-3.17
+11855,Burghead,United Kingdom,57.42,-3.30
+11856,Inverness,United Kingdom,57.29,-4.14
+11857,Cromarty,United Kingdom,57.41,-4.20
+11858,Invergordon,United Kingdom,57.41,-4.10
+11859,Portmahomack Harbor,United Kingdom,57.50,-3.50
+11860,Helmsdale Harbor,United Kingdom,58.70,-3.39
+11861,Wick,United Kingdom,58.26,-3.50
+11862,Pierowall,United Kingdom,59.18,-2.59
+11863,Kettletoft,United Kingdom,59.14,-2.36
+11864,Whitehall,United Kingdom,59.80,-2.36
+11865,Kirkwall,United Kingdom,58.59,-2.58
+11866,Stromness,United Kingdom,58.58,-3.18
+11867,South Ness,United Kingdom,58.48,-3.12
+11868,St Margarets Hope,United Kingdom,58.50,-2.57
+11869,Lyness,United Kingdom,58.50,-3.12
+11870,Scapa Bay,United Kingdom,58.57,-2.59
+11871,Scalloway,United Kingdom,60.80,-1.17
+11872,Lerwick,United Kingdom,60.90,-1.90
+11873,Sullom Voe,United Kingdom,60.28,-1.18
+11874,Vagur,Faroe Islands,61.29,-6.48
+11875,Tvoroyri,Faroe Islands,61.33,-6.48
+11876,Torshavn,Faroe Islands,62.00,-6.45
+11877,Kongshavn,Faroe Islands,62.70,-6.44
+11878,Runavik,Faroe Islands,62.70,-6.43
+11879,Vestmanna,Faroe Islands,62.90,-7.10
+11880,Sorvagur,Faroe Islands,62.50,-7.15
+11881,Fuglafjordur,Faroe Islands,62.15,-6.48
+11882,Klaksvik,Faroe Islands,62.14,-6.35
+11883,Scrabster Harbor,United Kingdom,58.37,-3.33
+11884,Ullapool,United Kingdom,57.54,-5.90
+11885,Aultbea,United Kingdom,57.50,-5.35
+11886,Gairloch,United Kingdom,57.43,-5.41
+11887,Plockton,United Kingdom,57.20,-5.39
+11888,Kyle Of Lochalsh,United Kingdom,57.17,-5.43
+11889,Kyleakin,United Kingdom,57.16,-5.44
+11890,Broadford Bay,United Kingdom,57.15,-5.53
+11891,Portree Harbor,United Kingdom,57.25,-6.12
+11892,Uig,United Kingdom,57.35,-6.21
+11893,Lochmaddy,United Kingdom,57.36,-7.10
+11894,Castle Bay,United Kingdom,56.57,-7.29
+11895,Lochboisdale,United Kingdom,57.90,-7.18
+11896,Stornoway Harbor,United Kingdom,58.11,-6.22
+11897,Tarbert,United Kingdom,57.54,-6.49
+11898,Ornsay,United Kingdom,57.90,-5.48
+11899,Mallaig,United Kingdom,57.00,-5.49
+11900,Tobermory,United Kingdom,56.37,-6.40
+11901,Kilkeel,United Kingdom,54.30,-5.59
+11902,Lochaline,United Kingdom,56.33,-5.46
+11903,Craignure,United Kingdom,56.28,-5.42
+11904,Corpach,United Kingdom,56.51,-5.70
+11905,Fort William,United Kingdom,56.49,-5.70
+11906,Glensanda,United Kingdom,56.34,-5.32
+11907,Oban,United Kingdom,56.25,-5.28
+11908,Port Ellen,United Kingdom,55.38,-6.12
+11909,Crinan (Canal),United Kingdom,56.50,-5.34
+11910,Campbeltown,United Kingdom,55.26,-5.36
+11911,Lamlash Harbor,United Kingdom,55.32,-5.70
+11912,Ardrishaig,United Kingdom,56.10,-5.27
+11913,Rothesay Harbor,United Kingdom,55.50,-5.30
+11914,Greenock,United Kingdom,55.57,-4.45
+11915,Finnart Oil Terminal,United Kingdom,56.70,-4.50
+11916,Bowling,United Kingdom,55.56,-4.29
+11917,Old Kilpatrick,United Kingdom,55.55,-4.28
+11918,Rothesay Dock,United Kingdom,55.54,-4.24
+11919,Renfrew,United Kingdom,55.53,-4.23
+11920,Glasgow,United Kingdom,55.52,-4.17
+11921,Largs,United Kingdom,55.48,-4.52
+11922,Hunterston,United Kingdom,55.45,-4.53
+11923,Millport,United Kingdom,55.45,-4.55
+11924,Ardrossan,United Kingdom,55.39,-4.49
+11925,Troon,United Kingdom,55.33,-4.41
+11926,Ayr,United Kingdom,55.28,-4.38
+11927,Stranraer,United Kingdom,54.54,-5.20
+11928,Bangor,United Kingdom,54.39,-5.40
+11929,Douglas,United Kingdom,54.90,-4.28
+11930,Ramsey,United Kingdom,54.19,-4.22
+11931,Warren Point,United Kingdom,54.60,-6.15
+11932,Ardglass,United Kingdom,54.16,-5.37
+11933,Belfast,United Kingdom,54.37,-5.54
+11934,Kilroot,United Kingdom,54.44,-5.43
+11935,Larne,United Kingdom,54.51,-5.48
+11936,Coleraine,United Kingdom,55.80,-6.40
+11937,Londonderry,United Kingdom,55.00,-7.19
+11938,Rathmullan,Ireland,55.60,-7.32
+11939,Killybegs,Ireland,54.38,-8.27
+11940,Sligo,Ireland,54.16,-8.28
+11941,Lancaster,United Kingdom,54.30,-2.47
+11942,Westport,Ireland,53.48,-9.32
+11943,Drogheda,Ireland,53.43,-6.18
+11944,Galway,Ireland,53.16,-9.30
+11945,Limerick,Ireland,52.38,-8.37
+11946,Foynes,Ireland,52.37,-9.70
+11947,Tarbert,Ireland,52.35,-9.22
+11948,Fenit,Ireland,52.16,-9.52
+11949,Castletown Bearhaven,Ireland,51.39,-9.55
+11950,Valentia,Ireland,51.56,-10.18
+11951,Kilrush,Ireland,52.38,-9.30
+11952,Bantry,Ireland,51.41,-9.27
+11953,Cobh,Ireland,51.51,-8.18
+11954,Cork,Ireland,51.51,-8.16
+11955,New Ross,Ireland,52.23,-6.57
+11956,Waterford,Ireland,52.16,-7.70
+11957,Rosslare,Ireland,52.15,-6.20
+11958,Dublin,Ireland,53.21,-6.15
+11959,Greenore,Ireland,54.20,-6.80
+11960,Silloth,United Kingdom,54.52,-3.24
+11961,Workington,United Kingdom,54.34,-3.38
+11962,Barrow In Furness,United Kingdom,54.70,-3.14
+11963,Heysham,United Kingdom,54.20,-2.55
+11964,Garlston,United Kingdom,53.21,-2.54
+11965,Liverpool Bay Terminal,United Kingdom,53.32,-3.33
+11966,Fleetwood,United Kingdom,53.55,-3.10
+11967,Mostyn,United Kingdom,53.19,-3.16
+11968,Liverpool,United Kingdom,53.25,-3.00
+11969,Manchester,United Kingdom,53.29,-2.16
+11970,Holyhead,United Kingdom,53.19,-4.38
+11971,Caernarvon,United Kingdom,53.90,-4.16
+11972,Fishguard,United Kingdom,52.10,-4.59
+11973,Milford Haven,United Kingdom,51.43,-5.20
+11974,Swansea,United Kingdom,51.37,-3.57
+11975,Neath,United Kingdom,51.38,-3.50
+11976,Port Talbot,United Kingdom,51.35,-3.49
+11977,Barry,United Kingdom,51.24,-3.16
+11978,Cardiff,United Kingdom,51.27,-3.10
+11979,Newport,United Kingdom,51.33,-2.59
+11980,Sharpness,United Kingdom,51.43,-2.29
+11981,Avonmouth,United Kingdom,51.30,-2.43
+11982,Bristol,United Kingdom,51.28,-2.38
+11983,Bridgwater,United Kingdom,51.80,-3.00
+11984,Watchet Harbor,United Kingdom,51.11,-3.20
+11985,Bideford,United Kingdom,51.20,-4.12
+11986,Padstow,United Kingdom,50.33,-4.56
+11987,Hayle,United Kingdom,50.11,-5.25
+11988,St. Mary'S (Scilly Isl.),United Kingdom,49.55,-6.19
+11989,Newlyn,United Kingdom,50.60,-5.33
+11990,Penzance,United Kingdom,50.70,-5.32
+11991,Falmouth Harbour,United Kingdom,50.90,-5.40
+11992,Mevagissey,United Kingdom,50.16,-4.47
+11993,Charlestown,United Kingdom,50.20,-4.45
+11994,Par,United Kingdom,50.21,-4.42
+11995,Fowey Harbour,United Kingdom,50.20,-4.38
+11996,Plymouth,United Kingdom,50.22,-4.90
+11997,Dartmouth Harbour,United Kingdom,50.21,-3.37
+11998,Brixham Harbour,United Kingdom,50.24,-3.31
+11999,Torquay Harbour,United Kingdom,50.28,-3.32
+12000,Teignmouth Harbour,United Kingdom,50.33,-3.30
+12001,Bridport Harbour,United Kingdom,50.43,-2.46
+12002,Portland Harbour,United Kingdom,50.35,-2.26
+12003,Weymouth Harbour,United Kingdom,50.37,-2.27
+12004,Poole Harbour,United Kingdom,50.41,-1.57
+12005,Cowes Harbour,United Kingdom,50.46,-1.18
+12006,Yarmouth Harbour,United Kingdom,50.42,-1.30
+12007,Southampton,United Kingdom,50.54,-1.24
+12008,Fawley Marine Terminal,United Kingdom,50.49,-1.20
+12009,Portsmouth Harbour,United Kingdom,50.48,-1.60
+12010,Littlehampton Harbour,United Kingdom,50.47,-0.32
+12011,Shoreham Harbour,United Kingdom,50.49,-0.15
+12012,Newhaven Harbour,United Kingdom,50.47,0.30
+12013,Rye Harbour,United Kingdom,50.56,0.46
+12014,Folkestone Harbour,United Kingdom,51.50,1.12
+12015,Dover Harbor,United Kingdom,51.70,1.20
+12016,Ramsgate,United Kingdom,51.20,1.25
+12017,Dunkerque Port Est,France,51.30,2.23
+12018,Dunkerque Port Ouest,France,51.40,2.21
+12019,Gravelines,France,51.00,2.70
+12020,Calais,France,50.58,1.51
+12021,Boulogne-Sur-Mer,France,50.44,1.36
+12022,Saint-Valery-Sur-Somme,France,50.11,1.37
+12023,Le Treport,France,50.40,1.22
+12024,Dieppe,France,49.56,1.50
+12025,Fecamp,France,49.46,0.22
+12026,Port Du Havre-Antifer,France,49.39,0.90
+12027,Port Of Le Havre,France,49.29,0.70
+12028,Port Of Rouen,France,49.27,1.40
+12029,Honfleur,France,49.25,0.13
+12030,Deauville,France,49.22,0.50
+12031,Port De Caen,France,49.11,-0.21
+12032,Ouistreham,France,49.17,-0.15
+12033,Rade De Cherbourg,France,49.39,-1.38
+12034,Alderney Harbour,United Kingdom,49.44,-2.12
+12035,Saint Sampson,United Kingdom,49.29,-2.31
+12036,Saint Peter Port,United Kingdom,49.27,-2.32
+12037,Saint Helier Harbour,United Kingdom,49.11,-2.70
+12038,Granville,France,48.50,-1.36
+12039,Saint-Malo,France,48.39,-2.10
+12040,Le Legue,France,48.32,-2.45
+12041,Paimpol,France,48.47,-3.30
+12042,Pontrieux,France,48.42,-3.90
+12043,Treguier,France,48.47,-3.14
+12044,Morlaix,France,48.35,-3.50
+12045,Port De Roscoff-Bloscon,France,48.44,-3.59
+12046,Rade De Brest,France,48.23,-4.30
+12047,Concarneau,France,47.52,-3.55
+12048,Lorient,France,47.45,-3.21
+12049,St Nazaire,France,47.17,-2.12
+12050,Montoir,France,47.18,-2.80
+12051,Donges,France,47.18,-2.40
+12052,Nantes,France,47.12,-1.34
+12053,Les Sables D' Olonne,France,46.30,-1.48
+12054,La Pallice,France,46.10,-1.13
+12055,La Rochelle,France,46.90,-1.90
+12056,Rochefort,France,45.56,-0.57
+12057,Tonnay Charente,France,45.56,-0.54
+12058,Le Verdon,France,45.33,-1.30
+12059,Pauillac,France,45.12,-0.45
+12060,Blaye,France,45.80,-0.40
+12061,Ambes,France,45.10,-0.32
+12062,Bordeaux,France,44.52,-0.34
+12063,Bayonne,France,43.30,-1.28
+12064,Puerto De Pasajes,Spain,43.20,-1.56
+12065,Bermeo,Spain,43.25,-2.43
+12066,Puerto De Bilbao,Spain,43.21,-3.30
+12067,Santander,Spain,43.28,-3.47
+12068,Gijon,Spain,43.33,-5.40
+12069,Aviles,Spain,43.36,-5.56
+12070,Ribadeo,Spain,43.32,-7.20
+12071,San Ciprian,Spain,43.42,-7.26
+12072,Ferrol,Spain,43.29,-8.14
+12073,La Coruna,Spain,43.22,-8.24
+12074,Villagarcia De Arosa,Spain,42.36,-8.46
+12075,Marin,Spain,42.24,-8.42
+12076,Vigo,Spain,42.14,-8.43
+12077,Viana Do Castelo,Portugal,41.42,-8.50
+12078,Porto De Leixoes,Portugal,41.11,-8.42
+12079,Douro,Portugal,41.90,-8.40
+12080,Aveiro,Portugal,40.39,-8.39
+12081,Figueira Da Foz,Portugal,40.90,-8.51
+12082,Lisboa,Portugal,38.42,-9.10
+12083,Setubal,Portugal,38.31,-8.54
+12084,Sines,Portugal,37.57,-8.52
+12085,Lagos,Portugal,37.60,-8.37
+12086,Faro,Portugal,37.20,-7.56
+12087,Vila Real De S Antonio,Portugal,37.11,-7.24
+12088,Horta,Portugal,38.32,-28.38
+12089,Lajes,Portugal,38.24,-28.16
+12090,Angra Do Heroismo,Portugal,38.39,-27.13
+12091,Praia De Vitoria,Portugal,38.43,-27.30
+12092,Ponta Delgada,Portugal,37.44,-25.40
+12093,Vila Do Porto,Portugal,36.56,-25.90
+12094,Funchal,Portugal,32.38,-16.55
+12095,Santa Cruz De La Palma,Spain,28.41,-17.45
+12096,Santa Cruz De Tenerife,Spain,28.28,-16.14
+12097,Las Palmas,Spain,28.90,-15.25
+12098,Puerto Del Rosario,Spain,28.30,-13.51
+12099,Arrecife,Spain,28.57,-13.32
+12100,Huelva,Spain,37.15,-6.57
+12101,Sevilla,Spain,37.22,-6.00
+12102,Rota,Spain,36.37,-6.20
+12103,Cadiz,Spain,36.32,-6.18
+12104,Algeciras,Spain,36.80,-5.26
+12105,Europa Point,Gibraltar,36.80,-5.21
+12106,Malaga,Spain,36.43,-4.25
+12107,Motril,Spain,36.45,-3.31
+12108,Adra,Spain,36.44,-3.20
+12109,Almeria,Spain,36.50,-2.28
+12110,Puerto De Carboneras,Spain,37.00,-1.53
+12111,Puerto De Garrucha,Spain,37.11,-1.49
+12112,Aguilas,Spain,37.24,-1.34
+12113,Hornillo,Spain,37.24,-1.33
+12114,Cartagena,Spain,37.35,-0.59
+12115,Islas Hormigas,Spain,37.39,-0.39
+12116,Torrevieja,Spain,37.58,-0.41
+12117,Alicante,Spain,38.20,-0.29
+12118,Puerto De Gandia,Spain,39.00,-0.90
+12119,Valencia,Spain,39.27,-0.19
+12120,Sagunto,Spain,39.39,-0.13
+12121,Burriana,Spain,39.53,-0.30
+12122,El Grao,Spain,39.58,0.10
+12123,Tarragona,Spain,41.60,1.14
+12124,Villanueva Y Geltru,Spain,41.14,1.44
+12125,Barcelona,Spain,41.21,2.10
+12126,San Feliu De Guixols,Spain,41.47,3.20
+12127,Palamos,Spain,41.50,3.70
+12128,Las Hormigas,Spain,41.52,3.11
+12129,Rosas,Spain,42.16,3.11
+12130,Ibiza,Spain,38.54,1.27
+12131,Palma De Mallorca,Spain,39.34,2.38
+12132,Puerto De Alcudia,Spain,39.50,3.80
+12133,Mahon,Spain,39.53,4.16
+12134,Port-Vendres,France,42.31,3.70
+12135,Port-La-Nouvelle,France,43.10,3.40
+12136,Sete,France,43.24,3.42
+12137,Port Saint Louis Du Rhone,France,43.23,4.49
+12138,Fos,France,43.25,4.53
+12139,Port-De-Bouc,France,43.24,4.59
+12140,Marseille,France,43.19,5.22
+12141,Toulon,France,43.60,5.55
+12142,Saint-Tropez,France,43.16,6.38
+12143,Saint-Raphael,France,43.25,6.46
+12144,Cannes,France,43.33,7.10
+12145,Antibes,France,43.35,7.80
+12146,Nice,France,43.42,7.17
+12147,Villefranche,France,43.42,7.19
+12148,Monaco,Monaco,43.44,7.25
+12149,Bastia,France,42.42,9.27
+12150,Porto Vecchio,France,41.35,9.17
+12151,Bonifacio,France,41.23,9.10
+12152,Port De Propriano,France,41.41,8.54
+12153,Port D' Ajaccio,France,41.55,8.45
+12154,Calvi,France,42.34,8.45
+12155,L'Ile Rousse,France,42.38,8.56
+12156,La Maddalena,Italy,41.12,9.25
+12157,Olbia,Italy,40.55,9.30
+12158,Arbatax,Italy,39.56,9.42
+12159,Cagliari,Italy,39.13,9.70
+12160,Sarroch Oil Terminal,Italy,39.50,9.20
+12161,Porto Ponte Romano,Italy,39.30,8.28
+12162,Carloforte,Italy,39.90,8.19
+12163,Porto Vesme,Italy,39.12,8.24
+12164,Porto Di Oristano,Italy,39.52,8.33
+12165,Porto Torres,Italy,40.50,8.24
+12166,San Remo,Italy,43.49,7.47
+12167,Imperia,Italy,43.53,8.20
+12168,Rada Di Vado,Italy,44.16,8.26
+12169,Savona,Italy,44.19,8.30
+12170,Oristano,Italy,39.52,8.33
+12171,Genova,Italy,44.24,8.56
+12172,La Spezia,Italy,44.60,9.50
+12173,Marina Di Carrara,Italy,44.20,10.20
+12174,Livorno,Italy,43.33,10.19
+12175,Vada,Italy,43.21,10.27
+12176,Portoferraio,Italy,42.49,10.20
+12177,Portovecchio Di Piombino,Italy,42.56,10.33
+12178,Porto Santo Stefano,Italy,42.26,11.70
+12179,Civitavecchia,Italy,42.60,11.47
+12180,Fiumicino,Italy,41.46,12.14
+12181,Anzio,Italy,41.27,12.38
+12182,Gaeta,Italy,41.12,13.35
+12183,Pozzuoli,Italy,40.49,14.70
+12184,Bagnoli,Italy,40.49,14.10
+12185,Napoli,Italy,40.51,14.16
+12186,Torre Annunziata,Italy,40.45,14.27
+12187,Castellammare Di Stabia,Italy,40.42,14.29
+12188,Salerno,Italy,40.40,14.45
+12189,Vibo Valentia Marina,Italy,38.43,16.80
+12190,Reggio Di Calabria,Italy,38.70,15.39
+12191,Messina,Italy,38.12,15.34
+12192,Milazzo,Italy,38.13,15.15
+12193,Gioia Tauro,Italy,38.25,15.54
+12194,Termini Imerese,Italy,37.59,13.42
+12195,Porto Di Palermo,Italy,38.80,13.22
+12196,Trapani,Italy,38.10,12.30
+12197,Marsala,Italy,37.47,12.26
+12198,Mazara Del Vallo,Italy,37.39,12.35
+12199,Porto Empedocle,Italy,37.17,13.32
+12200,Licata,Italy,37.60,13.56
+12201,Gela,Italy,37.40,14.15
+12202,Pozzallo,Italy,36.43,14.51
+12203,Siracusa,Italy,37.30,15.17
+12204,Melilli Oil Terminal,Italy,37.70,15.15
+12205,Augusta,Italy,37.13,15.14
+12206,Catania,Italy,37.30,15.60
+12207,Lipari,Italy,38.29,14.58
+12208,Valletta Harbors,Malta,35.54,14.31
+12209,Marsaxlokk,Malta,35.49,14.33
+12210,Crotone,Italy,39.50,17.80
+12211,Taranto,Italy,40.28,17.12
+12212,Gallipoli,Italy,40.30,17.59
+12213,Otranto,Italy,40.90,18.30
+12214,Brindisi,Italy,40.39,17.59
+12215,Torre Del Greco,Italy,40.47,14.22
+12216,Monopoli,Italy,40.57,17.18
+12217,Bari,Italy,41.80,16.52
+12218,Molfetta,Italy,41.13,16.36
+12219,Porto Di Barletta,Italy,41.19,16.17
+12220,Manfredonia,Italy,41.37,15.55
+12221,Vasto,Italy,42.70,14.43
+12222,Ortona,Italy,42.21,14.25
+12223,Pescara,Italy,42.28,14.13
+12224,Ancona,Italy,43.37,13.30
+12225,Porto Di Corsini,Italy,44.30,12.17
+12226,Porto Di Chioggia,Italy,45.14,12.18
+12227,Porto Di Malamocco,Italy,45.20,12.19
+12228,Porto Di Lido-Venezia,Italy,45.25,12.26
+12229,Monfalcone,Italy,45.47,13.33
+12230,Trieste,Italy,45.39,13.46
+12231,Muggia,Italy,45.36,13.46
+12232,Koper,Slovenia,45.33,13.44
+12233,Piran,Slovenia,45.32,13.34
+12234,Umag,Croatia,45.26,13.31
+12235,Rovinj,Croatia,45.50,13.38
+12236,Pula,Croatia,44.53,13.48
+12237,Zaliv Rasa,Croatia,45.30,14.40
+12238,Brsica,Croatia,45.20,14.30
+12239,Rijeka Luka,Croatia,45.20,14.26
+12240,Bakar,Croatia,45.18,14.32
+12241,Omisalj,Croatia,45.13,14.33
+12242,Senj,Croatia,44.59,14.54
+12243,Zadar,Croatia,44.70,15.13
+12244,Sibenik,Croatia,43.44,15.53
+12245,Split,Croatia,43.30,16.26
+12246,Dugi Rat,Croatia,43.27,16.39
+12247,Ploce,Croatia,43.30,17.26
+12248,Neum,Bosnia and Herzegovina,42.55,17.36
+12249,Korcula,Croatia,42.56,17.80
+12250,Dubrovnik,Croatia,42.40,18.50
+12251,Risan,Montenegro,42.31,18.42
+12252,Kotor,Montenegro,42.25,18.46
+12253,Tivat,Montenegro,42.26,18.42
+12254,Bar,Montenegro,42.50,19.50
+12255,Shengjin,Albania,41.49,19.36
+12256,Durres,Albania,41.19,19.27
+12257,Vlores,Albania,40.28,19.30
+12258,Kerkira,Greece,39.37,19.56
+12259,Preveza,Greece,38.57,20.45
+12260,Argostolion,Greece,38.11,20.31
+12261,Mesolongion,Greece,38.22,21.25
+12262,Itea,Greece,38.26,22.25
+12263,Aiyion,Greece,38.15,22.50
+12264,Patrai,Greece,38.15,21.44
+12265,Katakolon,Greece,37.39,21.19
+12266,Pilos,Greece,36.54,21.40
+12267,Kalamata,Greece,37.10,22.70
+12268,Yithion,Greece,36.45,22.34
+12269,Navplio,Greece,37.34,22.48
+12270,Spetses,Greece,37.16,23.10
+12271,Lavrio,Greece,37.42,24.40
+12272,Megara Oil Terminal,Greece,37.58,23.24
+12273,Ayios Nikolaos,Greece,37.59,23.32
+12274,Elevsis,Greece,38.20,23.33
+12275,Pakhi Oil Terminal,Greece,37.58,23.23
+12276,Perama,Greece,37.58,23.34
+12277,Piraievs,Greece,37.56,23.39
+12278,Ormos Mikro Vathi,Greece,38.26,23.36
+12279,Dhiavlos Steno,Greece,38.27,23.36
+12280,Chalkis,Greece,38.28,23.36
+12281,Ormos Aliveriou,Greece,38.23,24.30
+12282,Astakos,Greece,38.29,21.60
+12283,Aspropirgos,Greece,38.20,23.36
+12284,Porthmos Evripou,Greece,38.28,23.35
+12285,Larimna,Greece,38.34,23.17
+12286,Kymassi,Greece,38.50,23.28
+12287,Achladi,Greece,38.54,22.49
+12288,Stilis,Greece,38.55,22.37
+12289,Tsingeli,Greece,39.10,22.51
+12290,Volos,Greece,39.22,22.57
+12291,Miliana,Greece,39.10,23.13
+12292,Thessaloniki,Greece,40.38,22.56
+12293,Yerakini,Greece,40.16,23.28
+12294,Stratoni,Greece,40.31,23.50
+12295,Kavala,Greece,40.56,24.24
+12296,Lagos,Greece,41.00,25.80
+12297,Alexandroupoli,Greece,40.50,25.53
+12298,Mitilini,Greece,39.60,26.34
+12299,Plomarion,Greece,38.59,26.22
+12300,Vrakhonisis Kallonis,Greece,39.50,26.50
+12301,Khios,Greece,38.22,26.80
+12302,Neon Karlovas,Greece,37.48,26.41
+12303,Samos,Greece,37.45,26.58
+12304,Pithagorion,Greece,37.41,26.57
+12305,Gavrio,Greece,37.53,24.44
+12306,Andros,Greece,37.50,24.57
+12307,Mikonos,Greece,37.27,25.20
+12308,Limin Sirou,Greece,37.26,24.57
+12309,Nisos Naxos,Greece,37.60,25.22
+12310,Milos,Greece,36.43,24.27
+12311,Akra Kavonisi,Greece,35.31,23.38
+12312,Soudha,Greece,35.29,24.11
+12313,Rethimnon,Greece,35.22,24.28
+12314,Iraklion,Greece,35.21,25.90
+12315,Sitia,Greece,35.13,26.80
+12316,Ayios Nikolaos,Greece,35.12,25.43
+12317,Kali Limenes,Greece,34.56,24.50
+12318,Rodhos,Greece,36.27,28.14
+12319,Limin Kos,Greece,36.54,27.17
+12320,Kalimnos,Greece,36.57,26.59
+12321,Lakki,Greece,37.80,26.51
+12322,Aliaga,Turkey,38.50,26.56
+12323,Gemlik,Turkey,40.25,29.70
+12324,Eceabat,Turkey,40.11,26.22
+12325,Gelibolu,Turkey,40.24,26.40
+12326,Borusan Fertilizer Jetty,Turkey,40.25,29.60
+12327,Ambarli,Turkey,40.58,28.42
+12328,Tekirdag,Turkey,40.59,27.31
+12329,Istanbul,Turkey,41.10,28.58
+12330,Defterdar Burnu,Turkey,41.30,29.20
+12331,Istinye,Turkey,41.70,29.30
+12332,Burgas,Bulgaria,42.29,27.29
+12333,Varna,Bulgaria,43.11,27.58
+12334,Mangalia,Romania,43.49,28.35
+12335,Basarabi,Romania,44.10,28.26
+12336,Constanta,Romania,44.10,28.39
+12337,Medgidia,Romania,44.15,28.16
+12338,Danube-Black Sea Canal,Romania,44.16,28.11
+12339,Cernavoda,Romania,44.20,28.30
+12340,Midia,Romania,44.21,28.40
+12341,Sulina,Romania,45.10,29.40
+12342,Tulcea,Romania,45.10,28.49
+12343,Braila,Romania,45.15,27.59
+12344,Galati,Romania,45.25,28.50
+12345,Izmayil,Ukraine,45.20,28.51
+12346,Illichivsk,Ukraine,46.18,30.39
+12347,Odesa,Ukraine,46.29,30.44
+12348,Yuzhnyy,Ukraine,46.36,31.10
+12349,Mykolayiv,Ukraine,46.57,31.59
+12350,Port Oktyabrsk,Ukraine,46.50,31.56
+12351,Dnipro-Buzkyy,Ukraine,46.44,31.53
+12352,Kherson,Ukraine,46.37,32.36
+12353,Belgorod-Dnestrovsky,Ukraine,46.11,30.22
+12354,Skadovs'K,Ukraine,46.60,32.55
+12355,Khorly,Ukraine,46.50,33.17
+12356,Chornomors Ke,Ukraine,45.31,32.42
+12357,Ust-Dunaisk,Ukraine,45.28,29.42
+12358,Yevpatoriya,Ukraine,45.12,33.23
+12359,Sevastopol,Ukraine,44.37,33.32
+12360,Balaklava,Ukraine,44.30,33.36
+12361,Yalta,Ukraine,44.29,34.10
+12362,Alushta,Ukraine,44.41,34.25
+12363,Sudak,Ukraine,44.51,34.59
+12364,Feodosiya,Ukraine,45.10,35.26
+12365,Kerch,Ukraine,45.21,36.29
+12366,Reni,Ukraine,45.26,28.18
+12367,Henichesk,Ukraine,46.10,34.49
+12368,Kyrylivka,Ukraine,46.21,35.22
+12369,Berdyansk,Ukraine,46.45,36.47
+12370,Mariupol,Ukraine,47.50,37.34
+12371,Taganrog,Russian Federation,47.12,38.57
+12372,Rostov-Na-Donu,Russian Federation,47.10,39.43
+12373,Azov,Russian Federation,47.60,39.26
+12374,Yeysk,Russian Federation,46.44,38.16
+12375,Temryuk,Russian Federation,45.21,37.21
+12376,Kavkaz Oil Terminal,Russian Federation,45.20,36.39
+12377,Anapa,Russian Federation,44.53,37.19
+12378,Novorossiysk,Russian Federation,44.43,37.47
+12379,Gelendzhik,Russian Federation,44.33,38.40
+12380,Tuapse,Russian Federation,44.60,39.40
+12381,Sochi,Russian Federation,43.35,39.44
+12382,Adler,Russian Federation,43.26,39.56
+12383,Sokhumi,Georgia,42.59,40.59
+12384,Poti,Georgia,42.90,41.35
+12385,Supsa Marine Terminal,Georgia,42.60,41.43
+12386,Batumi,Georgia,41.39,41.39
+12387,Hopa,Turkey,41.25,41.24
+12388,Rize,Turkey,41.40,40.31
+12389,Trabzon,Turkey,41.10,39.46
+12390,Giresun,Turkey,40.56,38.24
+12391,Ordu,Turkey,41.00,37.53
+12392,Samsun,Turkey,41.18,36.21
+12393,Sinop,Turkey,42.30,35.10
+12394,Inebolu,Turkey,41.59,33.46
+12395,Zonguldak,Turkey,41.28,31.49
+12396,Eregli,Turkey,41.18,31.27
+12397,Haydarpasa,Turkey,41.00,29.10
+12398,Botas Natural Gas Terminal,Turkey,41.00,27.59
+12399,Yarimca,Turkey,40.48,29.42
+12400,Kaba Burnu,Turkey,40.46,29.32
+12401,Derince Burnu,Turkey,40.45,29.49
+12402,Izmit,Turkey,40.46,29.55
+12403,Gebze,Turkey,40.46,29.33
+12404,Golcuk Burnu,Turkey,40.44,29.49
+12405,Mudanya,Turkey,40.23,28.53
+12406,Bandirma,Turkey,40.21,27.58
+12407,Erdek,Turkey,40.23,27.48
+12408,Karabiga,Turkey,40.24,27.19
+12409,Canakkale,Turkey,40.90,26.24
+12410,Ayvalik,Turkey,39.19,26.42
+12411,Dikili,Turkey,39.10,26.49
+12412,Izmir,Turkey,38.26,27.80
+12413,Gulluk,Turkey,37.15,27.37
+12414,Nemrut Limani Bay,Turkey,38.46,26.55
+12415,Kusadasi,Turkey,37.52,27.15
+12416,Bodrum,Turkey,37.20,27.26
+12417,Toros Gubre,Turkey,36.55,35.58
+12418,Botas Dortyol Oil Terminal,Turkey,36.52,36.80
+12419,Yakacik,Turkey,36.43,36.11
+12420,Delta Terminal,Turkey,36.51,36.10
+12421,Marmaris,Turkey,36.51,28.17
+12422,Aksaz Limani,Turkey,36.50,28.23
+12423,Antalya Offshore Terminal,Turkey,36.49,30.36
+12424,Fethiye,Turkey,36.38,29.60
+12425,Antalya,Turkey,36.50,30.37
+12426,Alanya,Turkey,36.32,32.00
+12427,Tasucu,Turkey,36.19,33.53
+12428,Mersin,Turkey,36.48,34.38
+12429,Botas,Turkey,36.53,35.56
+12430,Iskenderun,Turkey,36.36,36.10
+12431,Kyrenia,Cyprus,35.21,33.20
+12432,Xeros,Cyprus,35.80,32.50
+12433,Limassol,Cyprus,34.40,33.30
+12434,Larnaca,Cyprus,34.55,33.39
+12435,Dhekelia,Cyprus,34.58,33.43
+12436,Famagusta,Cyprus,35.70,33.56
+12437,Tartus,Syrian Arab Republic,34.54,35.52
+12438,Baniyas,Syrian Arab Republic,35.11,35.57
+12439,Al Ladhiqiyah,Syrian Arab Republic,35.32,35.46
+12440,Tarabulus,Lebanon,34.27,35.50
+12441,Bayrut,Lebanon,33.54,35.30
+12442,Sidon/Zahrani Terminal,Lebanon,33.32,35.19
+12443,Sayda,Lebanon,33.30,35.21
+12444,Haifa,Israel,32.49,35.00
+12445,Hadera,Israel,32.28,34.54
+12446,Ashdod,Israel,31.49,34.39
+12447,Ashqelon,Israel,31.40,34.30
+12448,Bur Said (Port Said),Egypt,31.16,32.18
+12449,Damietta,Egypt,31.29,31.45
+12450,El Maadiya,Egypt,31.16,30.90
+12451,Al Iskandariyh (Alexandria),Egypt,31.10,29.50
+12452,Sidi Kerir (Kurayr),Egypt,31.60,29.37
+12453,El Hamra Oil Terminal,Egypt,30.59,28.52
+12454,Mersa Matruh,Egypt,31.21,27.14
+12455,Mersa Tobruq,Libyan Arab Jamahiriya,32.50,23.59
+12456,Darnah,Libyan Arab Jamahiriya,32.46,22.39
+12457,Banghazi,Libyan Arab Jamahiriya,32.70,20.30
+12458,Ez Zueitina,Libyan Arab Jamahiriya,30.51,20.30
+12459,Al Burayqah,Libyan Arab Jamahiriya,30.25,19.36
+12460,Ras   Lanuf,Libyan Arab Jamahiriya,30.31,18.34
+12461,As Sidr,Libyan Arab Jamahiriya,30.38,18.22
+12462,Misratah,Libyan Arab Jamahiriya,32.22,15.13
+12463,Khoms,Libyan Arab Jamahiriya,32.40,14.15
+12464,Mina Tarabulus (Tripoli),Libyan Arab Jamahiriya,32.54,13.11
+12465,Az Zawiya,Libyan Arab Jamahiriya,32.48,12.43
+12466,Bouri Oil Field,Libyan Arab Jamahiriya,33.54,12.39
+12467,Marsa Sabratah,Libyan Arab Jamahiriya,32.49,12.30
+12468,Abu Khammash,Libyan Arab Jamahiriya,33.40,11.49
+12469,Zarzis,Tunisia,33.30,11.70
+12470,Didon Terminal,Tunisia,33.47,11.54
+12471,Houmt Souk,Tunisia,33.53,10.51
+12472,Gabes,Tunisia,33.54,10.70
+12473,Ashtart Oil Terminal,Tunisia,34.17,11.23
+12474,Skhira,Tunisia,34.17,10.60
+12475,Mersa Sfax,Tunisia,34.44,10.46
+12476,Mahdia,Tunisia,35.30,11.40
+12477,Sousse,Tunisia,35.50,10.39
+12478,La Goulette,Tunisia,36.48,10.18
+12479,Tunis,Tunisia,36.48,10.15
+12480,Rades,Tunisia,36.49,10.18
+12481,Tazerka Oil Terminal,Tunisia,36.36,11.41
+12482,Banzart,Tunisia,37.17,9.53
+12483,Menzel Bourguiba,Tunisia,37.90,9.48
+12484,Tabarka,Tunisia,36.58,8.46
+12485,Annaba,Algeria,36.55,7.46
+12486,Skikda,Algeria,36.53,6.55
+12487,Port Methanier,Algeria,36.53,6.57
+12488,Collo,Algeria,37.00,6.35
+12489,Djen-Djen,Algeria,36.49,5.53
+12490,Jijel,Algeria,36.50,5.47
+12491,Bejaia,Algeria,36.45,5.50
+12492,Dellys,Algeria,36.55,3.55
+12493,Alger,Algeria,36.46,3.40
+12494,Tenes,Algeria,36.32,1.19
+12495,Mostaganem,Algeria,35.56,0.50
+12496,Arzew,Algeria,35.51,-0.18
+12497,Arzew El Djedid,Algeria,35.49,-0.15
+12498,Oran,Algeria,35.42,-0.38
+12499,Mers El Kebir,Algeria,35.44,-0.42
+12500,Beni Saf,Algeria,35.18,-1.23
+12501,Ghazaouet,Algeria,35.60,-1.52
+12502,Port D Al Hoceima,Morocco,35.15,-3.55
+12503,Cueta,Spain,35.54,-5.19
+12504,Tangier-Mediterranean,Morocco,35.54,-5.31
+12505,Tanger,Morocco,35.47,-5.49
+12506,Port Nador,Morocco,35.17,-2.56
+12507,Kenitra,Morocco,34.18,-6.36
+12508,Mohammedia,Morocco,33.43,-7.24
+12509,Casablanca,Morocco,33.36,-7.37
+12510,El Jadida,Morocco,33.15,-8.30
+12511,El Jorf Lasfar,Morocco,33.70,-8.37
+12512,Safi,Morocco,32.18,-9.15
+12513,Essaouira,Morocco,31.30,-9.47
+12514,Agadir,Morocco,30.26,-9.38
+12515,Ad Dakhla,EH,23.42,-15.55
+12516,Laayoune,EH,27.50,-13.26
+12517,Nouadhibou,Mauritania,20.55,-17.30
+12518,Nouakchott,Mauritania,18.20,-16.20
+12519,St Louis,Senegal,16.10,-16.31
+12520,M Bao Oil Terminal,Senegal,14.43,-17.24
+12521,Dakar,Senegal,14.41,-17.26
+12522,Rufisque,Senegal,14.42,-17.17
+12523,Karabane,Senegal,12.34,-16.40
+12524,Lyndiane,Senegal,14.10,-16.10
+12525,Banjul,Gambia,13.27,-16.34
+12526,Rio Cacheu,Guinea-Bissau,12.17,-16.14
+12527,Bissau,Guinea-Bissau,11.52,-15.38
+12528,Victoria,Guinea,10.49,-14.34
+12529,Kamsar,Guinea,10.38,-14.37
+12530,Conakry,Guinea,9.31,-13.43
+12531,Benti,Guinea,9.10,-13.12
+12532,Freetown,Sierra Leone,8.30,-13.14
+12533,Pepel,Sierra Leone,8.35,-13.30
+12534,Bonthe,Sierra Leone,7.32,-12.30
+12535,Porto Grande,Cape Verde,16.53,-25.00
+12536,Porto Da Praia,Cape Verde,14.55,-23.31
+12537,Monrovia,Liberia,6.19,-10.49
+12538,Buchanan,Liberia,5.52,-10.40
+12539,Greenville,Liberia,4.59,-9.30
+12540,Cape Palmas,Liberia,4.22,-7.43
+12541,San Pedro,Cote D'Ivoire,4.44,-6.37
+12542,Baobab Marine Terminal,Cote D'Ivoire,4.58,-4.33
+12543,Port Bouet,Cote D'Ivoire,5.14,-3.58
+12544,Abidjan,Cote D'Ivoire,5.15,-4.10
+12545,Espoir Marine Terminal,Cote D'Ivoire,5.30,-4.27
+12546,Takoradi,Ghana,4.53,-1.44
+12547,Sekondi,Ghana,4.57,-1.42
+12548,Saltpond,Ghana,5.12,-1.30
+12549,Tema,Ghana,5.37,0.10
+12550,Lome,Togo,6.80,1.17
+12551,Kpeme,Togo,6.12,1.31
+12552,Cotonou,Benin,6.21,2.26
+12553,Lagos,Nigeria,6.24,3.24
+12554,Tin Can Island,Nigeria,6.21,3.21
+12555,Escravos Oil Terminal,Nigeria,5.30,5.00
+12556,Koko,Nigeria,6.00,5.28
+12557,Sapele,Nigeria,5.54,5.41
+12558,Forcados,Nigeria,5.22,5.26
+12559,Forcados Oil Terminal,Nigeria,5.10,5.11
+12560,Burutu,Nigeria,5.21,5.30
+12561,Warri,Nigeria,5.31,5.44
+12562,Ukpokiti Marine Terminal,Nigeria,5.43,4.50
+12563,Yoho Terminal,Nigeria,4.10,7.28
+12564,Sea Eagle Terminal,Nigeria,4.48,5.19
+12565,Brass Oil Terminal,Nigeria,4.40,6.17
+12566,Qua Iboe Oil Terminal,Nigeria,4.14,8.20
+12567,Pennington Oil Terminal,Nigeria,4.15,5.37
+12568,Bonny,Nigeria,4.27,7.10
+12569,Bonny Offshore Terminal,Nigeria,4.11,7.14
+12570,Okrika,Nigeria,4.43,7.50
+12571,Onne,Nigeria,4.41,7.90
+12572,Port Harcourt,Nigeria,4.46,7.00
+12573,Antan Oil Terminal,Nigeria,4.13,8.20
+12574,Calabar,Nigeria,4.58,8.19
+12575,Odudu Terminal,Nigeria,4.00,7.46
+12576,Okono Terminal,Nigeria,3.59,7.18
+12577,Okwori Terminal,Nigeria,3.51,6.59
+12578,Limboh Terminal,Cameroon,3.59,9.90
+12579,Douala,Cameroon,4.30,9.41
+12580,Kole Oil Terminal,Cameroon,4.15,8.33
+12581,Moudi Marine Terminal,Cameroon,4.70,8.29
+12582,Ebome Marine Terminal,Cameroon,2.48,9.49
+12583,Kome Kribi 1 Marine Terminal,Cameroon,2.55,9.48
+12584,Bata,Equatorial Guinea,1.52,9.46
+12585,Punta Europa Terminal,Equatorial Guinea,3.47,8.43
+12586,Serpentina Terminal,Equatorial Guinea,3.48,8.50
+12587,Malabo,Equatorial Guinea,3.45,8.47
+12588,Luba,Equatorial Guinea,3.30,8.34
+12589,Ceiba Terminal,Equatorial Guinea,1.25,9.14
+12590,Cogo,Equatorial Guinea,1.50,9.42
+12591,Santo Antonio,Sao Tome and Principe,1.39,7.27
+12592,Sao Tome,Sao Tome and Principe,0.21,6.44
+12593,Libreville,Gabon,0.23,9.27
+12594,Port Owendo,Gabon,0.17,9.30
+12595,Port Gentil,Gabon,-0.42,8.48
+12596,Cap Lopez,Gabon,-0.38,8.43
+12597,Oguendjo Terminal,Gabon,-1.28,8.55
+12598,Gamba Oil Terminal,Gabon,-2.50,10.00
+12599,M'Bya Oil Terminal,Gabon,-3.53,10.56
+12600,Yombo Terminal,Congo,-4.27,11.60
+12601,Pointe Noire,Congo,-4.47,11.50
+12602,Djeno Terminal,Congo,-4.56,11.54
+12603,N'Kossa Terminal,Congo,-5.16,11.34
+12604,Takula Terminal,Angola,-5.13,11.47
+12605,Malongo Oil Terminal,Angola,-5.26,12.50
+12606,Kuito Oil Field,Angola,-5.28,11.30
+12607,Cabinda,Angola,-5.32,12.12
+12608,Futila Terminal,Angola,-5.27,12.11
+12609,Banana,The Democratic Republic of The Congo,-5.59,12.23
+12610,Boma,The Democratic Republic of The Congo,-5.51,13.30
+12611,Matadi,The Democratic Republic of The Congo,-5.49,13.27
+12612,Soyo Angola Lng Terminal,Angola,-6.70,12.20
+12613,Palanca Terminal,Angola,-6.57,12.24
+12614,Girassol Terminal,Angola,-7.39,11.41
+12615,Porto Do Ambriz,Angola,-7.50,13.60
+12616,Estrela Oil Field,Angola,-6.27,12.24
+12617,Luanda,Angola,-8.48,13.15
+12618,Porto Amboim,Angola,-10.44,13.45
+12619,Sumbe,Angola,-11.12,13.50
+12620,Lobito,Angola,-12.20,13.34
+12621,Namibe,Angola,-15.12,12.90
+12622,Walvis Bay,Namibia,-22.57,14.30
+12623,Luderitz Bay,Namibia,-26.39,15.90
+12624,Georgetown,SH,-7.56,-14.25
+12625,Jamestown,SH,-15.55,-5.43
+12626,North Point,SH,-7.53,-14.22
+12627,Edinburgh Of The Seven Seas,SH,-37.30,-12.18
+12628,Saldanha Bay,South Africa,-33.20,17.58
+12629,Cape Town,South Africa,-33.55,18.25
+12630,Simonstown,South Africa,-34.11,18.26
+12631,Mossel Bay,South Africa,-34.11,22.90
+12632,Port Elizabeth,South Africa,-33.58,25.37
+12633,East London,South Africa,-33.20,27.55
+12634,Durban,South Africa,-29.52,31.40
+12635,Richards Bay,South Africa,-28.49,32.50
+12636,Maputo,Mozambique,-25.58,32.35
+12637,Inhambane,Mozambique,-23.55,35.24
+12638,Beira,Mozambique,-19.50,34.50
+12639,Chinde,Mozambique,-18.34,36.30
+12640,Quelimane,Mozambique,-17.53,36.53
+12641,Porto Belo,Mozambique,-17.42,37.11
+12642,Pebane,Mozambique,-17.16,38.90
+12643,Mocambique,Mozambique,-15.20,40.44
+12644,Nacala,Mozambique,-14.32,40.40
+12645,Pemba,Mozambique,-12.58,40.30
+12646,Ibo,Mozambique,-12.20,40.37
+12647,Mikindani,United Republic of Tanzania,-10.16,40.80
+12648,Mtwara,United Republic of Tanzania,-10.16,40.12
+12649,Kilwa Kivinje,United Republic of Tanzania,-8.44,39.25
+12650,Mjimwema Terminal,United Republic of Tanzania,-6.49,39.22
+12651,Dar Es Salaam,United Republic of Tanzania,-6.49,39.18
+12652,Chake Chake,United Republic of Tanzania,-5.15,39.46
+12653,Tanga,United Republic of Tanzania,-5.50,39.70
+12654,Zanzibar,United Republic of Tanzania,-6.10,39.11
+12655,Mombasa,Kenya,-4.40,39.40
+12656,Kilifi,Kenya,-3.38,39.52
+12657,Malindi,Kenya,-3.13,40.80
+12658,Lamu,Kenya,-2.16,40.54
+12659,Kismaayo,Somalia,-0.22,42.33
+12660,Baraawe,Somalia,1.60,44.30
+12661,Marka,Somalia,1.43,44.47
+12662,Muqdisho,Somalia,2.20,45.21
+12663,Victoria,Seychelles,-4.37,55.27
+12664,Moroni,Comoros,-11.42,43.15
+12665,Fomboni,Comoros,-12.16,43.45
+12666,Moutsamoudu,Comoros,-12.90,44.24
+12667,Dzaoudzi,Comoros,-12.47,45.15
+12668,Andoany,Madagascar,-13.24,48.18
+12669,Mahajanga,Madagascar,-15.43,46.18
+12670,Maintirano,Madagascar,-18.40,44.10
+12671,Morondava,Madagascar,-20.17,44.18
+12672,Toliara,Madagascar,-23.22,43.40
+12673,Faradofay,Madagascar,-25.20,47.00
+12674,Manakara,Madagascar,-22.70,48.30
+12675,Mananjary,Madagascar,-21.15,48.20
+12676,Toamasina,Madagascar,-18.10,49.25
+12677,Maroantsetra,Madagascar,-15.27,49.49
+12678,Iharana,Madagascar,-13.21,50.00
+12679,Antsohim Bondrona,Madagascar,-13.50,48.50
+12680,Antisranana,Madagascar,-12.16,49.17
+12681,Saint-Denis,Reunion,-20.52,55.27
+12682,Port Est,Reunion,-20.56,55.19
+12683,Port Ouest,Reunion,-20.56,55.17
+12684,Saint-Pierre,Reunion,-21.21,55.28
+12685,Port Louis,Mauritius,-20.90,57.30
+12686,Port Mathurin,Mauritius,-19.41,63.25
+12687,Diego Garcia,British Indian Ocean Territory,-7.21,72.28
+12688,Berbera,Somalia,10.27,45.10
+12689,Boosaaso,Somalia,11.17,49.11
+12690,Djibouti,Djibouti,11.36,43.80
+12691,Doraleh,Djibouti,11.36,43.50
+12692,Assab,Eritrea,13.00,42.45
+12693,Mitsiwa Harbor,Eritrea,15.37,39.28
+12694,Port Sudan,Sudan,19.36,37.14
+12695,Al Khair Oil Terminal,Sudan,19.35,37.15
+12696,Beshayer Oil Terminal,Sudan,19.24,37.19
+12697,Sawakin Harbor,Sudan,19.80,37.21
+12698,Nuweiba El Muzeima,Egypt,28.58,34.39
+12699,Al Qusayr,Egypt,26.60,34.17
+12700,Hamrawein,Egypt,26.15,34.12
+12701,Bur Safaga,Egypt,26.44,33.57
+12702,El Tur Harbor,Egypt,28.14,33.37
+12703,Zeit Bay Terminal,Egypt,27.50,33.36
+12704,East Zeit Terminal,Egypt,27.51,33.36
+12705,Sharm El Sheikh,Egypt,27.51,34.17
+12706,Zeit Bay Lpg Terminal,Egypt,27.48,33.34
+12707,El Ghardaqa,Egypt,27.13,33.51
+12708,Ras Shukhier,Egypt,28.80,33.17
+12709,Ras Gharib,Egypt,28.21,33.60
+12710,Ras Badran Oil Terminal,Egypt,28.57,33.10
+12711,North Ain Sukhna Port,Egypt,29.39,32.22
+12712,Sokhna Port Gas Tanker Term,Egypt,29.41,32.22
+12713,As Suways,Egypt,29.58,32.33
+12714,El-Adabiya,Egypt,29.52,32.28
+12715,El Ismailiya,Egypt,30.35,32.17
+12716,Ras Sudr,Egypt,29.35,32.42
+12717,Ain Sukhna Terminal,Egypt,29.35,32.22
+12718,Zafarana Terminal,Egypt,29.10,32.41
+12719,Ras Abu Zanimah,Egypt,29.20,33.70
+12720,Wadi Feiran,Egypt,28.45,33.12
+12721,Elat,Israel,29.33,34.57
+12722,Al Aqabah,Jordan,29.31,35.00
+12723,Sharmah,Saudi Arabia,27.56,35.15
+12724,Duba,Saudi Arabia,27.34,35.32
+12725,Duba Bulk Plant Tanker Termi,Saudi Arabia,27.19,35.54
+12726,Yanbu,Saudi Arabia,24.50,38.30
+12727,King Fahd Port,Saudi Arabia,23.57,38.13
+12728,Rabigh,Saudi Arabia,22.44,38.59
+12729,Jiddah,Saudi Arabia,21.29,39.11
+12730,Jizan,Saudi Arabia,16.54,42.29
+12731,Salif,Yemen,15.18,42.40
+12732,Ras Isa Marine Terminal,Yemen,15.80,42.36
+12733,Al Ahmadi,Yemen,14.50,42.58
+12734,Al Mukha,Yemen,13.19,43.15
+12735,Aden,Yemen,12.47,44.57
+12736,Nishtun,Yemen,15.49,52.12
+12737,Ash Shihr Oil Terminal,Yemen,14.44,49.30
+12738,Al Mukalla,Yemen,14.31,49.70
+12739,Rudum Terminal,Yemen,13.59,47.55
+12740,Balhaf,Yemen,13.58,48.11
+12741,Mina Raysut,Oman,16.56,54.10
+12742,Qalhat Lng Terminal,Oman,22.41,59.24
+12743,Mina Qabus,Oman,23.38,58.35
+12744,Mina Al Fahl,Oman,23.38,58.31
+12745,Port Of Sohar,Oman,24.31,56.38
+12746,Khawr Khasab,Oman,26.13,56.14
+12747,Fujayrah Harbor,United Arab Emirates,25.10,56.20
+12748,Khawr Fakkan,United Arab Emirates,25.21,56.23
+12749,Mina Saqr,United Arab Emirates,25.59,56.30
+12750,Fateh Oil Terminal,United Arab Emirates,25.35,54.25
+12751,Zirkuh Petroleum Port,United Arab Emirates,25.10,53.00
+12752,Zirkuh Oil Field,United Arab Emirates,24.52,53.30
+12753,Mubarraz Oil Terminal,United Arab Emirates,24.26,53.31
+12754,Al Jazeera Port,United Arab Emirates,25.43,55.47
+12755,Ajman,United Arab Emirates,25.25,55.26
+12756,Ash Shariqah,United Arab Emirates,25.25,55.22
+12757,Sharjah Offshore Terminal,United Arab Emirates,25.35,55.24
+12758,Umm Al Qaywayn,United Arab Emirates,25.35,55.35
+12759,Al Hamriyah Lpg Terminal,United Arab Emirates,25.28,55.29
+12760,Dubayy,United Arab Emirates,25.16,55.18
+12761,Mina Jabal Ali,United Arab Emirates,25.10,55.30
+12762,Jazirat Das,United Arab Emirates,25.90,52.52
+12763,Abu Zaby,United Arab Emirates,24.30,54.20
+12764,Umm An Nar,United Arab Emirates,24.27,54.29
+12765,Hulaylah Oil Terminal,United Arab Emirates,25.59,55.56
+12766,Jabal Az Zannah/Ruways,United Arab Emirates,24.12,52.42
+12767,Umm Said,Qatar,24.55,51.34
+12768,Doha,Qatar,25.17,51.32
+12769,Jazirat Halul,Qatar,25.41,52.25
+12770,Ras Laffan,Qatar,25.55,51.35
+12771,Al Shaheen Terminal,Qatar,26.35,52.00
+12772,Al Rayyan Terminal,Qatar,26.39,51.33
+12773,Al Manamah,Bahrain,26.14,50.35
+12774,Sitrah,Bahrain,26.10,50.40
+12775,Mina Salman,Bahrain,26.12,50.38
+12776,Khalifa Bin Salman,Bahrain,26.15,50.45
+12777,Dammam,Saudi Arabia,26.30,50.12
+12778,Al Jubayl,Saudi Arabia,27.50,49.40
+12779,Ras  Tannurah,Saudi Arabia,26.38,50.10
+12780,Ras Al Ghar,Saudi Arabia,26.54,49.52
+12781,Ju Aymah Lpg Terminal,Saudi Arabia,26.52,50.30
+12782,Ju Aymah Oil Terminal,Saudi Arabia,26.56,50.20
+12783,Ras Al Mishab,Saudi Arabia,28.70,48.38
+12784,Ras Al Khafji,Saudi Arabia,28.26,48.35
+12785,Mina Az Zawr,Kuwait,28.44,48.24
+12786,Mina Ash Shuaybah,Kuwait,29.20,48.10
+12787,Mina Abd Allah,Kuwait,29.10,48.10
+12788,Mina Al Ahmadi,Kuwait,29.40,48.10
+12789,Al Kuwayt,Kuwait,29.21,47.56
+12790,Doha Harbor,Kuwait,29.23,47.48
+12791,Khawr Al Amaya,Iraq,29.47,48.48
+12792,Al-Basra Oil Terminal,Iraq,29.41,48.49
+12793,Umm Qasr,Iraq,30.10,47.57
+12794,Al Basrah,Iraq,30.31,47.50
+12795,Khawr Al Zubair,Iraq,30.11,47.54
+12796,Khawr Al Zubair Lng Terminal,Iraq,30.80,47.55
+12797,Khorramshahr,Islamic Republic of Iran,30.26,48.11
+12798,Abadan,Islamic Republic of Iran,30.20,48.17
+12799,Khosrowabad,Islamic Republic of Iran,30.10,48.25
+12800,Bandar-E Mahshahr,Islamic Republic of Iran,30.28,49.11
+12801,Bandar Khomeyni,Islamic Republic of Iran,30.26,49.50
+12802,Barkan Oil-Loading Terminal,Islamic Republic of Iran,29.44,50.10
+12803,Kharg Island Oil Terminal,Islamic Republic of Iran,29.14,50.20
+12804,Sirus Oil Terminal,Islamic Republic of Iran,29.10,49.29
+12805,Bushehr,Islamic Republic of Iran,28.59,50.50
+12806,Bandar-E Pars Terminal,Islamic Republic of Iran,27.32,52.32
+12807,Jazireh-Ye Lavan Oil Terminal,Islamic Republic of Iran,26.47,53.20
+12808,Bandar-E Shahid Reajie,Islamic Republic of Iran,27.60,56.40
+12809,Bandar Abbas,Islamic Republic of Iran,27.90,56.12
+12810,Jazireh-Ye Hormoz,Islamic Republic of Iran,27.60,56.27
+12811,Bandar Taheri Offshore Termi ,Islamic Republic of Iran,27.39,52.21
+12812,Jazireh-Ye Sirri,Islamic Republic of Iran,25.54,54.33
+12813,Jask,Islamic Republic of Iran,25.38,57.46
+12814,Chah Bahar,Islamic Republic of Iran,25.16,60.37
+12815,Gwadar,Pakistan,25.80,62.18
+12816,Karachi,Pakistan,24.47,66.59
+12817,Muhamamad Bin Qasim,Pakistan,24.46,67.21
+12818,Sikka,India,22.26,69.50
+12819,Vadinar Terminal,India,22.31,69.42
+12820,Mundra,India,22.44,69.42
+12821,Mandvi,India,22.50,69.21
+12822,Kandla,India,23.20,70.13
+12823,Navlakhi,India,22.57,70.27
+12824,Bedi,India,22.31,70.20
+12825,Okha,India,22.28,69.50
+12826,Dahej,India,21.42,72.32
+12827,Porbandar,India,21.38,69.36
+12828,Veraval,India,20.54,70.22
+12829,Pipavav Bandar,India,20.55,71.31
+12830,Bhavnagar,India,21.46,72.14
+12831,Magdalla,India,21.90,72.45
+12832,Hazira,India,21.50,72.38
+12833,Mumbai (Bombay),India,18.58,72.52
+12834,Jawaharlal Nehru Port (Nhav,India,18.57,72.57
+12835,Ratnagiri,India,16.59,73.17
+12836,Panaji,India,15.30,73.49
+12837,Marmagao,India,15.26,73.48
+12838,Karwar,India,14.49,74.70
+12839,Belekeri,India,14.42,74.16
+12840,New Mangalore,India,12.55,74.49
+12841,Azhikal (Azhikkal),India,11.55,75.18
+12842,Calicut (Kozhikode),India,11.15,75.46
+12843,Beypore,India,11.10,75.48
+12844,Kochi (Cochin),India,9.58,76.14
+12845,Quilon (Kollam),India,8.53,76.35
+12846,Trivandrum,India,8.29,76.57
+12847,Kolachel,India,8.10,77.15
+12848,Male,Maldives,4.10,73.30
+12849,Colombo,Sri Lanka,6.57,79.51
+12850,Galle Harbor,Sri Lanka,6.10,80.13
+12851,Trincomalee Harbor,Sri Lanka,8.33,81.13
+12852,Kankesanturai,Sri Lanka,9.49,80.30
+12853,Tuticorin,India,8.48,78.10
+12854,Nagappattinam,India,10.46,79.51
+12855,Karaikal Port,India,10.50,79.52
+12856,Cuddalore,India,11.43,79.46
+12857,Pondicherry,India,11.56,79.50
+12858,Chennai (Madras),India,13.60,80.18
+12859,Kamarajar Port,India,13.16,80.19
+12860,Machilipatnam,India,16.90,81.10
+12861,Kakinada Bay,India,17.00,82.19
+12862,Vishakhapatnam,India,17.41,83.18
+12863,Paradip,India,20.16,86.41
+12864,Haldia Port,India,22.10,88.50
+12865,Calcutta,India,22.54,88.29
+12866,Mongla,Bangladesh,22.28,89.36
+12867,Chittagong,Bangladesh,22.19,91.49
+12868,Sittwe,Myanmar,20.80,92.54
+12869,Bassein,Myanmar,16.47,94.44
+12870,Rangoon,Myanmar,16.46,96.10
+12871,Moulmein Harbor,Myanmar,16.29,97.37
+12872,Yetagun Marine Terminal,Myanmar,13.30,96.51
+12873,Mergui,Myanmar,12.26,98.36
+12874,Port Blair,India,11.41,92.45
+12875,Phuket,Thailand,7.50,98.24
+12876,Krabi,Thailand,8.40,98.55
+12877,Kantang Harbor,Thailand,7.24,99.31
+12878,Bang Saphan,Thailand,11.11,99.36
+12879,Khanom,Thailand,9.12,99.54
+12880,Pelabuhan Bass,Malaysia,6.19,99.50
+12881,Sapangar Bay,Malaysia,6.50,116.70
+12882,Pulau Pinang,Malaysia,5.25,100.21
+12883,Malong Marine Terminal,Malaysia,4.38,104.49
+12884,Lumut,Malaysia,4.14,100.38
+12885,Teluk Anson,Malaysia,4.10,101.10
+12886,Port Klang,Malaysia,3.00,101.24
+12887,Port Dickson,Malaysia,2.32,101.47
+12888,Pelabuhan Sungai Udang,Malaysia,2.15,102.80
+12889,Melaka,Malaysia,2.12,102.15
+12890,Muar,Malaysia,2.30,102.34
+12891,Johor,Malaysia,1.26,103.54
+12892,Serangoon Harbor,Singapore,1.24,103.57
+12893,Keppel,Singapore,1.17,103.51
+12894,Pulau Bukom,Singapore,1.14,103.46
+12895,Pulau Sebarok,Singapore,1.12,103.48
+12896,Jurong Island,Singapore,1.17,103.44
+12897,Tanjunguban,Indonesia,1.40,104.13
+12898,Tanjungpinang,Indonesia,0.55,104.27
+12899,Kijang,Indonesia,0.51,104.36
+12900,Sekupang,Indonesia,1.80,103.55
+12901,Pulau Sambu,Indonesia,1.10,103.54
+12902,Lalang Marine Terminal,Indonesia,1.11,102.13
+12903,Dabo,Indonesia,-0.30,104.34
+12904,Toboali,Indonesia,-3.10,106.27
+12905,Muntok,Indonesia,-2.40,105.10
+12906,Blinyu,Indonesia,-1.38,105.47
+12907,Pangkalpinang,Indonesia,-2.70,106.80
+12908,Ramba,Indonesia,-2.37,104.80
+12909,Tanjungpandan,Indonesia,-2.45,107.38
+12910,Sungaigerong,Indonesia,-2.59,104.50
+12911,Palembang,Indonesia,-2.59,104.46
+12912,Ardjuna Oil Field,Indonesia,-5.53,107.43
+12913,Cinta Oil Terminal,Indonesia,-5.30,106.14
+12914,Panjang,Indonesia,-5.28,105.19
+12915,Bengkulu,Indonesia,-3.47,102.15
+12916,Pulau Baai,Indonesia,-3.55,102.17
+12917,Teluk Bayur,Indonesia,-1.00,100.22
+12918,Sibolga,Indonesia,1.44,98.46
+12919,Tanjung Balai Karimun,Indonesia,0.59,103.26
+12920,Jabung Batanghari Marine Ter ,Indonesia,-0.55,104.40
+12921,Kuala Tanjung,Indonesia,3.22,99.29
+12922,Uleelheue,Indonesia,5.34,95.17
+12923,Sabang,Indonesia,5.53,95.19
+12924,Blanglancang,Indonesia,5.15,97.70
+12925,Blanglancang,Indonesia,5.14,97.60
+12926,Pangkalansusu,Indonesia,4.70,98.13
+12927,Belawan,Indonesia,3.47,98.41
+12928,Kuala Kapus,Indonesia,3.00,114.22
+12929,Dumai,Indonesia,1.41,101.27
+12930,Bengkalis,Indonesia,1.28,102.60
+12931,Sungaipakning,Indonesia,1.21,102.10
+12932,Flying Fish Cove,CX,-10.25,105.42
+12933,Merak Mas Terminal,Indonesia,-5.55,105.59
+12934,Banten,Indonesia,-6.10,105.58
+12935,Anyer Lor,Indonesia,-6.30,105.55
+12936,Tanjung Gerem,Indonesia,-5.58,105.59
+12937,Tanjung Sekong,Indonesia,-5.55,106.00
+12938,Jakarta,Indonesia,-6.60,106.53
+12939,Poleng Oil Field,Indonesia,-6.39,112.55
+12940,Cirebon,Indonesia,-6.43,108.34
+12941,Tegal,Indonesia,-6.51,109.80
+12942,Pekalongan,Indonesia,-6.51,109.42
+12943,Semarang,Indonesia,-6.57,110.25
+12944,Rembang,Indonesia,-6.42,111.21
+12945,Tuban,Indonesia,-6.44,112.90
+12946,Gresik,Indonesia,-7.90,112.39
+12947,Surabaya,Indonesia,-7.12,112.44
+12948,Probolinggo,Indonesia,-7.43,113.13
+12949,Panarukan,Indonesia,-7.42,113.56
+12950,Celukan Bawang,Indonesia,-8.11,114.50
+12951,Cilacap,Indonesia,-7.44,109.00
+12952,Tanjung Benete,Indonesia,-8.54,116.45
+12953,Benoa,Indonesia,-8.45,115.13
+12954,Ampenan,Indonesia,-8.34,116.40
+12955,Labuhanhaji,Indonesia,-8.42,116.34
+12956,Maumere,Indonesia,-8.37,122.13
+12957,Larantuka,Indonesia,-8.21,122.59
+12958,Ende,Indonesia,-8.50,121.39
+12959,Waingapu,Indonesia,-9.38,120.13
+12960,Kupang,Indonesia,-10.10,123.35
+12961,Dili,Timor-Leste,-8.32,125.35
+12962,Belida Marine Terminal,Indonesia,4.80,105.80
+12963,Tarempah,Indonesia,3.13,106.13
+12964,Belanak Field Terminal,Indonesia,4.90,106.15
+12965,Udang Oilfield,Indonesia,4.20,106.29
+12966,Widuri Marine Terminal,Indonesia,-4.40,106.39
+12967,Kuching,Malaysia,1.34,110.21
+12968,Bintangor,Malaysia,2.10,111.38
+12969,Sibu,Malaysia,2.17,111.49
+12970,Sarikei,Malaysia,2.80,111.32
+12971,Tg. Mani,Malaysia,2.90,111.21
+12972,Bintulu Port,Malaysia,3.16,113.40
+12973,Tawa,Malaysia,4.15,117.53
+12974,Tanjung Pelepas,Malaysia,1.21,103.33
+12975,Miri,Malaysia,4.23,113.58
+12976,Lutong,Malaysia,4.28,114.00
+12977,Muara Harbor,Brunei Darussalam,5.20,115.40
+12978,Bandar Seri Begawan,Brunei Darussalam,4.53,114.53
+12979,Lumut,Brunei Darussalam,4.43,114.27
+12980,Seria Oil Loading Terminal,Brunei Darussalam,4.37,114.19
+12981,Kuala Belait,Brunei Darussalam,4.38,114.12
+12982,Victoria,Malaysia,5.17,115.14
+12983,Kota Kinabalu,Malaysia,5.59,116.40
+12984,Kudat,Malaysia,6.53,116.51
+12985,Pelabuhan Sandakan,Malaysia,5.50,118.70
+12986,Lahad Datu,Malaysia,5.10,118.19
+12987,Bakapit,Malaysia,4.57,118.35
+12988,Mostyn,Malaysia,4.41,118.15
+12989,Tanjung Arang  (Bunyu),Indonesia,3.28,117.50
+12990,Lingkas,Indonesia,3.17,117.36
+12991,Tanjungredeb,Indonesia,2.90,117.29
+12992,Tanjung Sangata,Indonesia,0.22,117.34
+12993,Benoa,Indonesia,0.59,117.58
+12994,Bontang Lng Terminal,Indonesia,0.60,117.29
+12995,Tanjung Santan,Indonesia,-0.60,117.32
+12996,Samarinda,Indonesia,-0.31,117.70
+12997,Senipah Oil Terminal,Indonesia,-0.57,117.10
+12998,Balikpapan,Indonesia,-1.15,116.49
+12999,Lawi Lawi Oil Terminal,Indonesia,-1.27,116.46
+13000,Gunung Batu Besar,Indonesia,-2.37,116.18
+13001,North Pulau Laut Coal Termin,Indonesia,-3.12,116.17
+13002,Kota Baru,Indonesia,-3.14,116.13
+13003,Tanah Merah,Indonesia,-1.49,116.10
+13004,Stagen,Indonesia,-3.18,116.90
+13005,Banjarmasin,Indonesia,-3.20,114.35
+13006,Sampit,Indonesia,-2.31,113.00
+13007,Kumai,Indonesia,-2.45,111.43
+13008,Pontianak,Indonesia,-0.10,109.20
+13009,Manado,Indonesia,1.30,124.50
+13010,Bitung,Indonesia,1.26,125.11
+13011,Gorontalo,Indonesia,0.30,123.30
+13012,Poso,Indonesia,-1.22,120.45
+13013,Luwuk,Indonesia,-0.57,122.48
+13014,Kolonodale,Indonesia,-1.59,121.20
+13015,Mangkasa Oil Terminal,Indonesia,-2.44,121.40
+13016,Kendari,Indonesia,-3.58,122.35
+13017,Baubau,Indonesia,-5.28,122.37
+13018,Raha Roadstead,Indonesia,-4.51,122.44
+13019,Pomalaa,Indonesia,-4.10,121.36
+13020,Parepare,Indonesia,-4.00,119.37
+13021,Ujung Pandang,Indonesia,-5.80,119.24
+13022,Donggala,Indonesia,-0.39,119.44
+13023,Tahuna,Indonesia,3.37,125.29
+13024,Teluk Beo,Indonesia,4.14,126.47
+13025,Ternate,Indonesia,0.47,127.23
+13026,Labuha,Indonesia,-0.38,127.28
+13027,Patani,Indonesia,0.22,128.45
+13028,Wahai,Indonesia,-2.47,129.30
+13029,Bula,Indonesia,-3.60,130.30
+13030,Salawati,Indonesia,-1.21,130.59
+13031,Ambon,Indonesia,-3.41,128.10
+13032,Namlea,Indonesia,-3.17,127.50
+13033,Saumlaki,Indonesia,-7.59,131.18
+13034,Serui,Indonesia,-1.54,136.15
+13035,Miei,Indonesia,-2.44,134.30
+13036,Manokwari Road,Indonesia,-0.52,134.50
+13037,Tg. Sorong,Indonesia,-0.53,131.14
+13038,Kasim Terminal,Indonesia,-1.18,131.10
+13039,Sailolof,Indonesia,-1.15,130.45
+13040,Fakfak,Indonesia,-2.56,132.17
+13041,Amamapare,Indonesia,-4.49,136.58
+13042,Merauke,Indonesia,-8.29,140.23
+13043,Jayapura,Indonesia,-2.32,140.43
+13044,Kumul,Papua New Guinea,-8.60,144.34
+13045,Daru,Papua New Guinea,-9.40,143.12
+13046,Port Moresby,Papua New Guinea,-9.28,147.80
+13047,Alotoa,Papua New Guinea,-10.19,150.27
+13048,Samarai,Papua New Guinea,-10.37,150.40
+13049,Suloga Harbor,Papua New Guinea,-9.13,152.46
+13050,Discovery Bay,Papua New Guinea,-10.25,150.25
+13051,Oro Bay,Papua New Guinea,-8.53,148.29
+13052,Lae,Papua New Guinea,-6.44,147.00
+13053,Madang,Papua New Guinea,-5.13,145.49
+13054,Vanimo,Papua New Guinea,-2.41,141.80
+13055,Thursday Island,Australia,-10.35,142.13
+13056,Cape Flattery Harbor,Australia,-14.57,145.21
+13057,Cairns,Australia,-16.55,145.47
+13058,Mourilyan Harbour,Australia,-17.36,146.80
+13059,Lucinda,Australia,-18.31,146.20
+13060,Townsville,Australia,-19.16,146.49
+13061,Mackay,Australia,-21.70,149.13
+13062,Hay Point,Australia,-21.17,149.18
+13063,Port Alma,Australia,-23.35,150.51
+13064,Gladstone,Australia,-23.51,151.15
+13065,Bundaberg,Australia,-24.52,152.21
+13066,Brisbane,Australia,-27.28,153.20
+13067,Ballina,Australia,-28.52,153.34
+13068,Newcastle,Australia,-32.55,151.47
+13069,Sydney,Australia,-33.52,151.12
+13070,Botany Bay,Australia,-34.00,151.14
+13071,Port Kembla,Australia,-34.29,150.55
+13072,Jervis Bay,Australia,-35.70,150.48
+13073,Batemans Bay,Australia,-35.42,150.10
+13074,Eden,Australia,-37.40,149.55
+13075,Welshpool,Australia,-38.42,146.28
+13076,Western Port,Australia,-38.21,145.14
+13077,Melbourne,Australia,-37.50,144.58
+13078,Geelong,Australia,-38.90,144.22
+13079,Warrnambool,Australia,-38.24,142.29
+13080,Portland,Australia,-38.20,141.36
+13081,Kingscote,Australia,-35.38,137.38
+13082,Klein Point,Australia,-34.58,137.46
+13083,Port Adelaide,Australia,-34.51,138.30
+13084,Ardrossan,Australia,-34.26,137.55
+13085,Port Giles,Australia,-35.20,137.46
+13086,Wallaroo,Australia,-33.56,137.37
+13087,Port Pirie,Australia,-33.11,138.10
+13088,Whyalla,Australia,-33.20,137.35
+13089,Port Bonython,Australia,-33.10,137.46
+13090,Port Lincoln,Australia,-34.43,135.51
+13091,Thevenard,Australia,-32.10,133.39
+13092,Esperance,Australia,-33.52,121.54
+13093,Albany,Australia,-35.20,117.53
+13094,Bunbury,Australia,-33.19,115.38
+13095,Fremantle,Australia,-32.30,115.45
+13096,Geraldton,Australia,-28.47,114.36
+13097,Useless Loop,Australia,-26.50,113.24
+13098,Cape Cuvier,Australia,-24.13,113.23
+13099,Point Murat,Australia,-21.49,114.11
+13100,Onslow,Australia,-21.39,115.60
+13101,Port Walcott,Australia,-20.39,117.11
+13102,Dampier,Australia,-20.38,116.43
+13103,Port Hedland,Australia,-20.19,118.35
+13104,Broome,Australia,-17.58,122.14
+13105,Wyndham,Australia,-15.28,128.60
+13106,Darwin,Australia,-12.28,130.51
+13107,Milner Bay,Australia,-13.52,136.25
+13108,Weipa,Australia,-12.40,141.52
+13109,Gove,Australia,-12.12,136.42
+13110,Karumba,Australia,-17.29,140.50
+13111,Hobart,Australia,-42.53,147.20
+13112,Port Huon,Australia,-43.10,146.59
+13113,Dover,Australia,-43.19,147.20
+13114,Stanley,Australia,-40.46,145.17
+13115,Port Latta,Australia,-40.50,145.23
+13116,Burnie,Australia,-41.30,145.57
+13117,Devonport,Australia,-41.11,146.22
+13118,Port Dalrymple,Australia,-41.80,146.50
+13119,Beauty Point,Australia,-41.90,146.49
+13120,Launceston,Australia,-41.27,147.70
+13121,Whangaroa,New Zealand,-35.30,173.46
+13122,Opua,New Zealand,-35.19,174.70
+13123,Whangarei,New Zealand,-35.48,174.26
+13124,Auckland,New Zealand,-36.51,174.46
+13125,Tauranga,New Zealand,-37.38,176.10
+13126,Gisborne,New Zealand,-38.40,178.20
+13127,Napier,New Zealand,-39.29,176.55
+13128,Wellington,New Zealand,-41.17,174.47
+13129,Wanganui,New Zealand,-39.57,175.20
+13130,New Plymouth,New Zealand,-39.40,174.20
+13131,Manukau Harbor,New Zealand,-36.56,174.47
+13132,Collingwood,New Zealand,-40.41,172.40
+13133,Tarakohe,New Zealand,-40.51,172.54
+13134,Nelson,New Zealand,-41.16,173.16
+13135,Picton,New Zealand,-41.17,174.10
+13136,Port Lyttelton,New Zealand,-43.36,172.43
+13137,Akaroa,New Zealand,-43.48,172.58
+13138,Timaru,New Zealand,-44.24,171.15
+13139,Otago Harbor,New Zealand,-45.49,170.38
+13140,Bluff Harbor,New Zealand,-46.36,168.20
+13141,Greymouth,New Zealand,-42.26,171.13
+13142,Westport,New Zealand,-41.45,171.36
+13143,Kingston,Norfolk Island,-29.40,167.57
+13144,Lautoka Harbor,Fiji,-17.36,177.27
+13145,Suva Harbor,Fiji,-18.80,178.25
+13146,Levuka,Fiji,-17.41,178.50
+13147,Malai,Fiji,-16.21,179.22
+13148,Savusavu Bay,Fiji,-16.46,179.20
+13149,Nuku Alofa,Tonga,-21.80,-175.12
+13150,Pangai,Tonga,-19.48,-174.21
+13151,Neiafu,Tonga,-18.39,-173.59
+13152,Funafuti Atoll,Tuvalu,-8.31,179.80
+13153,Mata-Utu,Wallis and Futuna,-13.17,-176.80
+13154,Apia,Samoa,-13.49,-171.46
+13155,Pago Pago Harbor,American Samoa,-14.17,-170.40
+13156,Alofi,Niue,-19.20,-169.56
+13157,Avatiu,Cook Islands,-21.12,-159.47
+13158,Vaitape,French Polynesia,-16.30,-151.45
+13159,Uturoa,French Polynesia,-16.44,-151.27
+13160,Papeete,French Polynesia,-17.32,-149.35
+13161,Port Rikitea,French Polynesia,-23.70,-134.58
+13162,Atuona,French Polynesia,-9.49,-139.20
+13163,Baie Taiohae,French Polynesia,-8.56,-140.50
+13164,Canton Island,Kiribati,-2.50,-171.43
+13165,English Harbor,Kiribati,3.51,-159.22
+13166,Honokaa,United States of America,20.60,-155.28
+13167,Hilo,United States of America,19.44,-155.40
+13168,Honuapo,United States of America,19.50,-155.33
+13169,Milolii,United States of America,19.11,-155.54
+13170,Kauhako Bay,United States of America,19.23,-155.54
+13171,Napoopoo,United States of America,19.29,-155.56
+13172,Kailua,United States of America,19.38,-156.00
+13173,Kiholo,United States of America,19.52,-155.57
+13174,Kawaihae,United States of America,20.20,-155.50
+13175,Mahukona,United States of America,20.11,-155.54
+13176,Kahului,United States of America,20.54,-156.28
+13177,Hana,United States of America,20.45,-155.59
+13178,Lahaina,United States of America,20.52,-156.40
+13179,Kaumalapau Harbor,United States of America,20.47,-157.00
+13180,Pukoo,United States of America,21.40,-156.48
+13181,Kamalo,United States of America,21.30,-156.53
+13182,Kaunakakai,United States of America,21.50,-157.20
+13183,Barbers Point Terminal,United States of America,21.16,-158.60
+13184,Barber'S Point,United States of America,21.19,-158.70
+13185,Honolulu,United States of America,21.18,-157.52
+13186,Port Allen,United States of America,21.54,-159.35
+13187,Nawiliwili Bay,United States of America,21.57,-159.21
+13188,Ahukini Landing,United States of America,22.00,-159.20
+13189,Nonopapa,United States of America,21.52,-160.14
+13190,Tern Island,United States of America,23.52,-166.17
+13191,Johnston Atoll,XU,16.45,-169.31
+13192,Midway Island,QM,28.11,-177.22
+13193,Wake Island,QW,19.17,166.37
+13194,Enitwetak Island,Marshall Islands,11.20,162.20
+13195,Kwajalein,Marshall Islands,8.43,167.44
+13196,Majuro Atoll,Marshall Islands,7.50,171.23
+13197,Tarawa Atoll,Kiribati,1.20,172.56
+13198,Nauru,Nauru,-0.32,166.55
+13199,Saipan,Northern Mariana Islands,15.12,145.41
+13200,Tinian,Northern Mariana Islands,14.58,145.37
+13201,Rota,Northern Mariana Islands,14.80,145.90
+13202,Apra Harbor,Guam,13.27,144.37
+13203,Lele Harbor,Federated States of Micronesia,5.20,163.20
+13204,Pohnpei Harbor,Federated States of Micronesia,6.59,158.12
+13205,Moen,Federated States of Micronesia,7.26,151.50
+13206,Colonia,Federated States of Micronesia,9.31,138.80
+13207,Malakal Harbor,Palau,7.20,134.27
+13208,Longan Island,Papua New Guinea,-1.13,144.18
+13209,Lorengau,Papua New Guinea,-2.10,147.16
+13210,Wewak Harbor,Papua New Guinea,-3.34,143.38
+13211,Hamburg Harbor,Papua New Guinea,-1.38,149.58
+13212,Kavieng Harbor,Papua New Guinea,-2.35,150.48
+13213,Rabaul,Papua New Guinea,-4.12,152.11
+13214,Kokopo,Papua New Guinea,-4.20,152.16
+13215,Kimbe,Papua New Guinea,-5.80,150.32
+13216,Bialla,Papua New Guinea,-5.18,150.59
+13217,Kieta,Papua New Guinea,-6.13,155.38
+13218,Queen Carola Harbor,Papua New Guinea,-5.10,154.33
+13219,Gizo Harbor,Solomon Islands,-8.60,156.51
+13220,Port Noro,Solomon Islands,-8.13,157.11
+13221,Ringgi Cove,Solomon Islands,-8.70,157.60
+13222,Yandina,Solomon Islands,-9.50,159.13
+13223,Tulaghi,Solomon Islands,-9.60,160.90
+13224,Honiara,Solomon Islands,-9.25,159.57
+13225,Luganville,Vanuatu,-15.31,167.10
+13226,Port Vila,Vanuatu,-17.44,168.19
+13227,Forari Bay,Vanuatu,-17.41,168.33
+13228,Baie De Kouaoua,New Caledonia,-21.23,165.49
+13229,Noumea,New Caledonia,-22.17,166.26
+13230,Baie Ugue,New Caledonia,-21.90,165.33
+13231,Kuantan New Port,Malaysia,3.58,103.26
+13232,Kemaman Harbor,Malaysia,4.15,103.28
+13233,Kirteh Oil Terminal,Malaysia,4.34,103.28
+13234,Kuala Trengganu,Malaysia,5.21,103.80
+13235,Tapis Marine Terminal A,Malaysia,5.31,105.10
+13236,Port Langkawi,Malaysia,6.26,99.46
+13237,Bongkot Terminal,Thailand,8.30,102.20
+13238,Tantawan Marine Terminal,Thailand,10.50,101.25
+13239,Pattani,Thailand,6.57,101.18
+13240,Benchamas Terminal,Thailand,10.31,101.15
+13241,Map Ta Phut,Thailand,12.40,101.10
+13242,Songkhla Harbor,Thailand,7.13,100.35
+13243,Erawan Terminal,Thailand,9.60,101.21
+13244,Rayong Tpi Terminal,Thailand,12.38,101.18
+13245,Sattahip,Thailand,12.37,100.55
+13246,Bangkok,Thailand,13.45,100.30
+13247,Si Racha,Thailand,13.10,100.55
+13248,Si Racha Terminal,Thailand,13.70,100.53
+13249,Siam Seaport,Thailand,13.80,100.53
+13250,Laem Chabang,Thailand,13.50,100.53
+13251,Ko Si Chang Terminal,Thailand,13.10,100.49
+13252,Petchburi Terminal,Thailand,13.10,100.90
+13253,Kampong Saom,Cambodia,10.38,103.30
+13254,Phsar Ream,Cambodia,10.30,103.36
+13255,Duong Dong,Vietnam,10.13,103.58
+13256,Vung Tau,Vietnam,10.21,107.40
+13257,Phu My,Vietnam,10.35,107.20
+13258,Cat Lai,Vietnam,10.45,106.47
+13259,Thanh Ho Chi Minh,Vietnam,10.46,106.43
+13260,Vinh Cam Ranh,Vietnam,11.53,109.10
+13261,Nha Trang,Vietnam,12.15,109.14
+13262,Qui Nhon,Vietnam,13.46,109.14
+13263,Dai Hang,Vietnam,8.29,108.41
+13264,Da Nang,Vietnam,16.60,108.13
+13265,Mui Vung Tau,Vietnam,10.19,107.40
+13266,Thanh Hoa,Vietnam,10.49,106.46
+13267,Nghe Tinh,Vietnam,18.46,105.46
+13268,Hai Phong,Vietnam,20.55,106.41
+13269,Hon Gai,Vietnam,20.57,107.40
+13270,Cam Pha,Vietnam,21.20,107.22
+13271,Fang-Cheng,China,21.45,108.21
+13272,Beihai,China,21.29,109.40
+13273,Haikou,China,20.30,110.17
+13274,Basuo,China,19.60,108.37
+13275,Zhanjiang,China,21.12,110.24
+13276,Lon Shui Terminal,China,20.50,115.41
+13277,Shekou,China,22.28,113.52
+13278,Macau,Macao,22.11,113.34
+13279,Sanya,China,18.19,109.27
+13280,Yangpu,China,19.44,109.11
+13281,Chiwan,China,19.58,110.20
+13282,Shui Dong,China,21.29,111.50
+13283,Qinzhou,China,21.44,108.35
+13284,Zhuhai,China,22.14,113.35
+13285,Huangpu,China,23.50,113.25
+13286,Huangpuxingang,China,23.30,113.30
+13287,Guangzhou,China,23.70,113.14
+13288,Hong Kong,Hong Kong,22.16,114.12
+13289,Yantian,China,22.35,114.16
+13290,Huizhou,China,22.43,114.31
+13291,Shan T Ou,China,23.22,116.41
+13292,Chaozhou,China,23.37,117.50
+13293,Dongshan,China,23.45,117.31
+13294,Xiamen,China,24.27,118.40
+13295,Zhangzhou,China,24.41,118.90
+13296,Quanzhou,China,24.53,118.36
+13297,Xiuyu,China,25.14,118.59
+13298,Chi-Lung,Taiwan,25.80,121.46
+13299,Su-Ao,Taiwan,24.36,121.52
+13300,Hua-Lien Kang,Taiwan,23.59,121.36
+13301,Kao-Hsiung,Taiwan,22.37,120.15
+13302,Tan-Shui,Taiwan,25.11,121.24
+13303,Peng-Hu Kang,Taiwan,23.35,119.32
+13304,Mailiao,Taiwan,23.47,120.10
+13305,Tai-Chung Kang,Taiwan,24.18,120.30
+13306,Basco,Philippines,20.27,121.58
+13307,Claveria,Philippines,18.37,121.50
+13308,Port San Vicente,Philippines,18.31,122.80
+13309,Aparri,Philippines,18.22,121.38
+13310,Hondagua,Philippines,13.57,122.14
+13311,Jose Panganiban,Philippines,14.17,122.41
+13312,Virac,Philippines,13.35,124.15
+13313,Tabaco,Philippines,13.22,123.44
+13314,Legazpi Port,Philippines,13.90,123.45
+13315,Sorsogon,Philippines,12.58,124.00
+13316,Santa Cruz (Marinduque Isl),Philippines,13.30,122.40
+13317,Batangas City,Philippines,13.45,121.30
+13318,Nasugbu,Philippines,14.50,120.37
+13319,Manila,Philippines,14.35,120.58
+13320,Mariveles,Philippines,14.26,120.29
+13321,Subic Bay,Philippines,14.48,120.16
+13322,Masinloc,Philippines,15.33,119.57
+13323,San Fernando Harbor,Philippines,16.37,120.19
+13324,Calapan,Philippines,13.25,121.11
+13325,Port Romblon,Philippines,12.35,122.16
+13326,Masbate,Philippines,12.22,123.37
+13327,Laoang,Philippines,12.34,125.10
+13328,Port Borongan,Philippines,11.36,125.26
+13329,Guiuan,Philippines,11.20,125.43
+13330,Catbalogan,Philippines,11.46,124.53
+13331,Tacloban,Philippines,11.15,125.00
+13332,Tanauan,Philippines,11.60,125.10
+13333,Maasin,Philippines,10.80,124.50
+13334,Baybay,Philippines,10.41,124.48
+13335,Ormoc,Philippines,11.00,124.36
+13336,Isabel,Philippines,10.55,124.26
+13337,Palompon,Philippines,11.30,124.23
+13338,Tagbilaran,Philippines,9.39,123.51
+13339,Tubigan,Philippines,9.57,123.58
+13340,Cebu,Philippines,10.18,123.54
+13341,Toledo,Philippines,10.22,123.38
+13342,San Carlos,Philippines,10.29,123.25
+13343,Bais,Philippines,9.36,123.70
+13344,Dumaguete,Philippines,9.19,123.18
+13345,Lazi,Philippines,9.80,123.38
+13346,Pulupandan,Philippines,10.31,122.48
+13347,Port Capiz,Philippines,11.36,122.43
+13348,Jordan,Philippines,10.40,122.35
+13349,Iloilo,Philippines,10.42,122.35
+13350,Puerto Princesa,Philippines,9.44,118.44
+13351,Surigao City,Philippines,9.47,125.30
+13352,Masao,Philippines,9.00,125.25
+13353,Nasipit Port,Philippines,8.59,125.20
+13354,Hinatuan,Philippines,8.22,126.20
+13355,Mangagoy,Philippines,8.14,126.19
+13356,Mati,Philippines,6.57,126.13
+13357,Davao,Philippines,7.40,125.37
+13358,Gingoog,Philippines,8.50,125.60
+13359,General Santos,Philippines,6.70,125.11
+13360,Polloc (Cotabato),Philippines,7.21,124.13
+13361,Pagadian,Philippines,7.50,123.26
+13362,Margosatubig,Philippines,7.35,123.10
+13363,Santa Clara,Philippines,7.47,122.41
+13364,Zamboanga,Philippines,6.54,122.40
+13365,Jimenez,Philippines,8.20,123.52
+13366,Port Ozamis,Philippines,8.80,123.51
+13367,Iligan,Philippines,8.14,124.14
+13368,Cagayan De Oro,Philippines,8.30,124.40
+13369,Bugo,Philippines,8.31,124.45
+13370,Villanueva,Philippines,8.35,124.46
+13371,Butuan City,Philippines,8.57,125.32
+13372,Basilian City (Isabela),Philippines,6.43,121.58
+13373,Port Holland,Philippines,6.33,121.52
+13374,Jolo,Philippines,6.30,121.00
+13375,Siasi,Philippines,5.33,120.49
+13376,Fuzhou,China,26.50,119.18
+13377,Wenzhou,China,28.10,120.39
+13378,Haimen,China,28.41,121.27
+13379,Ningbo,China,29.53,121.33
+13380,Zhen Hai,China,29.57,121.42
+13381,Zhoushan,China,30.00,122.60
+13382,Zhapu,China,30.35,121.50
+13383,Shanghai,China,31.13,121.30
+13384,Changshu,China,31.46,120.57
+13385,Taicang,China,31.39,121.12
+13386,Jiangyin,China,31.55,120.14
+13387,Changzhou,China,31.58,119.59
+13388,Gaogang,China,32.17,119.51
+13389,Yangzhou,China,32.16,119.26
+13390,Zhangjiangang,China,31.58,120.24
+13391,Nantong,China,32.00,120.48
+13392,Zhenjiang,China,32.13,119.26
+13393,Nanjing,China,32.50,118.45
+13394,Wu Hu,China,31.20,118.22
+13395,Ankingcheng,China,30.31,117.20
+13396,Hankow,China,30.35,114.17
+13397,Wanxian,China,30.49,108.26
+13398,Chung Ching,China,29.34,106.38
+13399,Lanshan,China,30.60,119.22
+13400,Lianyungang,China,34.44,119.27
+13401,Rizhao,China,35.23,119.34
+13402,Qingdao Gang,China,36.20,120.16
+13403,Weihai,China,37.30,122.60
+13404,Yantai,China,37.33,121.27
+13405,Penglai,China,37.49,120.50
+13406,Longkou Gang,China,37.38,120.17
+13407,Dagu Tanggu,China,38.58,117.40
+13408,Tianjin Xin Gang,China,38.58,117.50
+13409,Tangshan (Jingtang),China,39.12,119.10
+13410,Qinhuangdao,China,39.56,119.37
+13411,Suizhang Gang,China,40.40,121.30
+13412,Huludao Gang,China,40.42,120.59
+13413,Jinzhou Wan,China,40.45,121.60
+13414,Yingkou,China,40.41,122.14
+13415,Bayuquan,China,40.18,122.50
+13416,Dandong,China,39.49,124.90
+13417,Lushun,China,38.47,121.15
+13418,Dalian,China,38.55,121.40
+13419,Nampo,Democratic People's Republic of Korea,38.43,125.24
+13420,Kyomip'O,Democratic People's Republic of Korea,38.44,125.37
+13421,Haeju Hang,Democratic People's Republic of Korea,38.00,125.42
+13422,Inchon,Republic of Korea,37.28,126.37
+13423,Daesan Hang,Republic of Korea,37.10,126.24
+13424,Pyeongtaek Hang,Republic of Korea,37.00,126.48
+13425,Kunsan,Republic of Korea,35.59,126.37
+13426,Mokpo,Republic of Korea,34.47,126.23
+13427,Cheju Hang,Republic of Korea,33.31,126.32
+13428,Yosu,Republic of Korea,34.44,127.45
+13429,Gwangyang Hang,Republic of Korea,34.51,127.48
+13430,Masan,Republic of Korea,35.11,128.34
+13431,Chinae,Republic of Korea,35.80,128.39
+13432,Busan,Republic of Korea,35.60,129.20
+13433,Ulsan,Republic of Korea,35.27,129.24
+13434,Pohang,Republic of Korea,36.30,129.23
+13435,Mukho,Republic of Korea,37.34,129.70
+13436,Tonghae,Republic of Korea,37.32,129.90
+13437,Sokch'O Hang,Republic of Korea,38.12,128.36
+13438,Wonsan,Democratic People's Republic of Korea,39.10,127.27
+13439,Hungnam,Democratic People's Republic of Korea,39.50,127.37
+13440,Ch'Aho,Democratic People's Republic of Korea,40.12,128.39
+13441,Kimch'Aek,Democratic People's Republic of Korea,40.40,129.12
+13442,Ch'Ongjin,Democratic People's Republic of Korea,41.46,129.49
+13443,Najin,Democratic People's Republic of Korea,42.14,130.18
+13444,Senbong,Democratic People's Republic of Korea,42.20,130.24
+13445,Pos'Yet,Russian Federation,42.39,130.48
+13446,Zarubino,Russian Federation,42.38,131.50
+13447,Vladivostok,Russian Federation,43.70,131.54
+13448,Bukhta Gaydamak,Russian Federation,42.52,132.41
+13449,Vostochnyy,Russian Federation,42.45,133.50
+13450,Nakhodka,Russian Federation,42.48,132.53
+13451,Sovetskaya Gavan,Russian Federation,48.58,140.17
+13452,Bukhta Vanino,Russian Federation,49.50,140.17
+13453,De Kastri,Russian Federation,51.28,140.47
+13454,Nikolayevsk Na Amur,Russian Federation,53.80,140.44
+13455,Okha,Russian Federation,53.33,143.00
+13456,Vitaz Marine Terminal,Russian Federation,52.42,143.33
+13457,Poronaysk,Russian Federation,49.13,143.80
+13458,Korsakov,Russian Federation,46.37,142.46
+13459,Nevelsk,Russian Federation,46.40,141.52
+13460,Kholmsk,Russian Federation,47.30,142.30
+13461,Uglegorsk,Russian Federation,49.50,142.20
+13462,Shakhtersk,Russian Federation,49.10,142.40
+13463,Lesogorsk,Russian Federation,49.27,142.80
+13464,Mys Rogatyy Oktyabrskiy,Russian Federation,50.44,142.60
+13465,Aleksandrovsk -Sakhalinskiy,Russian Federation,50.54,142.80
+13466,Lazarev,Russian Federation,52.13,141.31
+13467,Moskal Vo,Russian Federation,53.35,142.30
+13468,Shakotan,Russian Federation,43.52,146.50
+13469,Mombetsu Ko,Japan,44.21,143.21
+13470,Abashiri Ko,Japan,44.10,144.17
+13471,Nemuro Ko,Japan,43.20,145.35
+13472,Hanasaki Ko,Japan,43.17,145.35
+13473,Kushiro Ko,Japan,42.59,144.22
+13474,Tomakomai Ko,Japan,42.38,141.38
+13475,Muroran Ko,Japan,42.21,140.58
+13476,Tokachi,Japan,42.15,143.18
+13477,Mori,Japan,42.70,140.35
+13478,Hakodate Ko,Japan,41.47,140.43
+13479,Esasi Ko,Japan,41.52,140.70
+13480,Otaru Ko,Japan,43.12,141.10
+13481,Isikari Wan,Japan,43.14,141.22
+13482,Ishikari Bay New Port,Japan,43.13,141.17
+13483,Rumoi Ko,Japan,43.57,141.38
+13484,Wakkanai,Japan,43.25,141.41
+13485,Aomori Ko,Japan,40.50,140.45
+13486,Noshiro Ko,Japan,40.13,140.00
+13487,Hachinohe Ko,Japan,40.32,141.33
+13488,Miyako,Japan,39.38,141.59
+13489,Kamaishi Ko,Japan,39.16,141.54
+13490,Ofunato,Japan,39.30,141.44
+13491,Kesennuma Ko,Japan,38.52,141.36
+13492,Onagawa,Japan,38.27,141.27
+13493,Ishinomaki Ko,Japan,38.24,141.19
+13494,Sendai-Shiogama,Japan,38.19,141.20
+13495,Soma,Japan,37.50,140.57
+13496,Onahama Ko,Japan,36.56,140.54
+13497,Hitachi,Japan,36.30,140.38
+13498,Kashima Ko,Japan,35.56,140.42
+13499,Choshi,Japan,35.44,140.51
+13500,Tateyama Ko,Japan,35.00,139.48
+13501,Kisarazu Ko,Japan,35.22,139.53
+13502,Chiba Ko,Japan,35.35,140.40
+13503,Katsunan Ko,Japan,35.40,139.59
+13504,Funabashi,Japan,35.40,139.57
+13505,Tokyo Ko,Japan,35.40,139.45
+13506,Kawasaki Ko,Japan,35.30,139.46
+13507,Yokohama Ko,Japan,35.27,139.35
+13508,Yokosuka Ko,Japan,35.17,139.40
+13509,Uraga Ko,Japan,35.14,139.43
+13510,Tagonoura Ko,Japan,35.80,138.42
+13511,Atsumi,Japan,34.40,137.40
+13512,Shimoda Ko,Japan,34.40,138.57
+13513,Omaezaki Ko,Japan,34.36,138.14
+13514,Shimizu Ko,Japan,35.10,138.30
+13515,Mikawa,Japan,34.43,137.18
+13516,Kinuura Ko,Japan,34.51,136.57
+13517,Gamagori Ko,Japan,34.49,137.13
+13518,Nagoya Ko,Japan,35.40,136.52
+13519,Yokkaichi,Japan,34.58,136.38
+13520,Matsusaka,Japan,34.36,136.34
+13521,Toba,Japan,34.29,136.51
+13522,Owase Ko,Japan,34.40,136.13
+13523,Tanabe Ko,Japan,33.43,135.22
+13524,Yura,Japan,33.57,135.60
+13525,Wakayama-Shimotsu Ko,Japan,34.12,135.80
+13526,Sakai-Senboku,Japan,34.33,135.26
+13527,Osaka,Japan,34.39,135.26
+13528,Amagasaki,Japan,34.42,135.23
+13529,Kobe,Japan,34.39,135.11
+13530,Hirohata,Japan,34.46,134.38
+13531,Shikama,Japan,34.46,134.39
+13532,Himeji,Japan,34.45,134.38
+13533,Higashi-Harima,Japan,34.42,134.50
+13534,Aioi,Japan,34.47,134.28
+13535,O0Kihama,Japan,34.45,134.34
+13536,Kakogawa,Japan,34.42,134.50
+13537,Uno Ko,Japan,34.29,133.57
+13538,Hibi Ko,Japan,34.27,133.56
+13539,Mizushima Ko,Japan,34.30,133.45
+13540,Fukuyama,Japan,34.26,133.26
+13541,Habu Ko,Japan,34.17,133.11
+13542,Onomichi-Itozaki,Japan,34.23,133.10
+13543,Kure,Japan,34.14,132.33
+13544,Mitsukojima,Japan,34.11,132.31
+13545,Hiroshima,Japan,34.21,132.28
+13546,Kanokawa Ko,Japan,34.11,132.26
+13547,Iwakuni Ko,Japan,34.11,132.15
+13548,Namikata,Japan,34.70,132.54
+13549,Kudamatsu,Japan,34.00,131.52
+13550,Tokuyama,Japan,34.20,131.49
+13551,Ube Ko,Japan,33.56,131.14
+13552,Hikari,Japan,33.57,131.56
+13553,Shimonoseki,Japan,33.56,130.56
+13554,Hagi Ko,Japan,34.25,131.24
+13555,Hamada Ko,Japan,34.54,132.50
+13556,Sakai Ko,Japan,35.33,133.15
+13557,Sakaiminato,Japan,35.32,133.14
+13558,Miyazu,Japan,35.32,135.12
+13559,Maizuru Ko,Japan,35.31,135.20
+13560,Uchiura,Japan,35.31,135.30
+13561,Fukui,Japan,36.40,136.12
+13562,Tsuruga Ko,Japan,35.39,136.40
+13563,Fukui Ko,Japan,36.11,136.60
+13564,Kanazawa,Japan,36.37,136.36
+13565,Nanao Ko,Japan,37.30,136.59
+13566,Fushiki-Toyama,Japan,36.46,137.80
+13567,Shimminato,Japan,36.46,137.70
+13568,Himekawa,Japan,37.20,137.51
+13569,Naoetsu Ko,Japan,37.11,138.15
+13570,Kashiwazaki,Japan,37.22,138.33
+13571,Niigata Ko,Japan,37.55,139.30
+13572,Eastern Part Of Niigata-Ko,Japan,38.10,139.14
+13573,Ryotu Ko,Japan,38.50,138.34
+13574,Sakata Ko,Japan,38.56,139.49
+13575,Akita-Funakawa Ko,Japan,39.50,140.00
+13576,Mega,Japan,34.47,134.42
+13577,Hannan Ko,Japan,34.28,135.21
+13578,Takamatsu,Japan,34.21,134.30
+13579,Komatsushima,Japan,34.10,134.36
+13580,Tachibana,Japan,33.52,134.40
+13581,Shingu,Japan,33.40,135.59
+13582,Kochi Ko,Japan,33.30,133.34
+13583,Susaki Ko,Japan,33.23,133.18
+13584,Uwajima Ko,Japan,33.13,132.34
+13585,Yawatahama,Japan,33.27,132.25
+13586,Matsuyama,Japan,33.51,132.42
+13587,Kikuma Ko,Japan,34.20,132.50
+13588,Muturezima Ko,Japan,33.58,130.52
+13589,Imabari Ko,Japan,34.40,133.10
+13590,Takuma,Japan,34.13,133.41
+13591,Tonda,Japan,34.20,131.45
+13592,Onoda,Japan,34.00,131.11
+13593,Niihama,Japan,33.59,133.17
+13594,Mishima-Kawanoe Ko,Japan,34.00,133.33
+13595,Marugame Ko,Japan,34.18,133.47
+13596,Sakaide Ko,Japan,34.20,133.51
+13597,Yanai,Japan,33.57,132.80
+13598,Tobata,Japan,33.55,130.49
+13599,Hibikinada,Japan,33.56,130.50
+13600,Wakamatsu Ko,Japan,33.54,130.49
+13601,Yahata,Japan,33.52,130.49
+13602,Kokura Ko,Japan,33.53,130.53
+13603,Moji Ko,Japan,33.57,130.58
+13604,Kanda,Japan,33.47,131.10
+13605,Beppu,Japan,33.19,131.31
+13606,Oita Ko,Japan,33.15,131.40
+13607,Saganoseki Ko,Japan,33.15,131.52
+13608,Tsukumi Ko,Japan,33.50,131.52
+13609,Saiki Ko,Japan,32.58,131.56
+13610,Hososhima Ko,Japan,32.26,131.40
+13611,Kagoshima Ko,Japan,31.35,130.34
+13612,Shibushi Wan,Japan,31.28,131.60
+13613,Kiire,Japan,31.23,130.33
+13614,Minamata Ko,Japan,32.12,130.23
+13615,Yatsushiro Ko,Japan,32.30,130.32
+13616,Misumi Ko,Japan,32.36,130.28
+13617,Miike Ko,Japan,33.00,130.25
+13618,Matsu-Shima,Japan,32.56,129.36
+13619,Aokata,Japan,32.59,129.40
+13620,Nagasaki,Japan,32.43,129.51
+13621,Sasebo,Japan,33.10,129.43
+13622,Imari,Japan,33.17,129.53
+13623,Karatsu,Japan,33.29,129.58
+13624,Hakata,Japan,33.36,130.24
+13625,Izuhara,Japan,34.12,129.18
+13626,Kin Wan,Japan,26.25,127.54
+13627,Nishihara,Japan,26.13,127.48
+13628,Naha Ko,Japan,26.13,127.41
+13629,Nakagusuku,Japan,26.16,127.55
+13630,Hirara Ko,Japan,24.48,125.17
+13631,Ishigaki,Japan,24.20,124.10
+13632,Slavyanka,Russian Federation,42.52,131.23
+13633,Okhotsk Iy Reyd,Russian Federation,59.22,143.12
+13634,Bukhta Nagayeva (Magadan),Russian Federation,59.34,150.43
+13635,Petropavlovsk,Russian Federation,53.30,158.39
+13636,Nikol Skoye,Russian Federation,55.12,165.59
+13637,Port Beringovsky,Russian Federation,63.40,179.22
+13638,Provideniya,Russian Federation,64.25,-173.14
+13639,Ambarchik,Russian Federation,69.38,162.19
+13640,Tiksi,Russian Federation,71.38,128.52
+13641,Pevek,Russian Federation,69.43,170.18
+13642,Port Dikson,Russian Federation,73.30,80.31
+13643,Ust-Port,Russian Federation,69.40,84.26
+13644,Dudinka,Russian Federation,69.24,86.10
+13645,Igarka,Russian Federation,67.29,86.36
+13646,Mys Novyy Port,Russian Federation,67.40,72.54
+13647,Nar Yan-Mar,Russian Federation,67.39,53.00
+13648,Mezen,Russian Federation,65.50,44.11
+13649,Arkhangels'K,Russian Federation,64.32,40.32
+13650,Severodvinsk,Russian Federation,64.34,39.47
+13651,Onega,Russian Federation,63.54,38.60
+13652,Belomorsk,Russian Federation,64.32,34.48
+13653,Rabocheostrovsk,Russian Federation,64.59,34.47
+13654,Keret,Russian Federation,66.17,33.34
+13655,Kovda,Russian Federation,66.41,32.52
+13656,Kandalaksha,Russian Federation,67.80,32.25
+13657,Vitino,Russian Federation,67.50,32.19
+13658,Bolshaya Piryu Guba,Russian Federation,66.40,34.22
+13659,Ostrovnoy Gremikha,Russian Federation,68.30,39.31
+13660,Murmansk,Russian Federation,68.59,33.30
+13661,Mys Abram,Russian Federation,68.59,33.20
+13662,Ellefsen Harbor,Antarctica,-60.44,-45.20
+13663,Scotia Bay,Antarctica,-60.45,-44.43
+13664,Admiralty Bay,Antarctica,-62.50,-58.25
+13665,Port Foster,Antarctica,-62.57,-60.38
+13666,Port Lockroy,Antarctica,-64.49,-63.30
+13667,Melchior Harbor,Antarctica,-64.19,-63.00
+13668,Andersen Harbor,Antarctica,-64.19,-62.56
+13669,Mcmurdo Station,Antarctica,-77.51,166.39
+13670,Bishop Rock,United Kingdom,49.86,-6.45
+13671,Cape Leeuwin,Australia,-34.37,115.13
+13672,Cape of Good Hope,South Africa,-34.36,18.47
+13673,Fastnet Rock,United Kingdom,51.39,-9.60
+13674,Grand Banks South,United States of America,46.09,-51.29
+13675,Honshu,Japan,36.08,138.08
+13676,Ile d’Ouessant,France,48.46,-5.09
+13677,Inishtrahull,United Kingdom,55.43,-7.23
+13678,Montreal,Canada,45.50,-73.57
+13679,Nord-Ostsee-Kanal,Germany,54.16,-9.65
+13680,Panama,Panama,9.38,-79.92
+13681,Pentland Firth,United Kingdom,56.71,-3.11
+13682,Port Said,Egypt,31.27,32.30
+13683,Punta Arenas,Chile,-53.16,-70.92
+13684,Selat Lombok,Indonesia,-8.65,116.32
+13685,Selat Sunda,Indonesia,-5.92,105.89
+13686,Selat Wetar,Indonesia,-8.17,126.17
+13687,Singapore,Singapore,1.26,103.83
+13688,Skagens Odde,Denmark,57.67,10.42
+13689,Strait of Gibraltar,Spain,36.00,-5.69
+13690,Straits of Florida,United States of America,23.39,-82.39
+13691,Torres Strait,Australia,-10.22,141.94
+13692,Tsugaru-Kaikyo,Japan,41.63,140.69
+13693,Wilson Promontory,Australia,-39.03,146.32
+13694,Yucatan Channel,Mexico,21.34,-85.54
+13695,Osumi-kaikyo,Japan,30.91,130.67

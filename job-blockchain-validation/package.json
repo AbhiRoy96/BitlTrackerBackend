@@ -1,0 +1,18 @@
+{
+  "name": "service-runner",
+  "version": "1.0.0",
+  "description": "This is the pseudo service which runs in the backend to provide all necessary connections for the current transactions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Abhishek-RIG",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "dotenv": "^6.2.0",
+    "mongoose": "^5.3.12",
+    "web3": "latest",
+    "ethereumjs-tx": "latest"
+  }
+}

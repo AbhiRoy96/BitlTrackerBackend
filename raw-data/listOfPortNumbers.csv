@@ -1,0 +1,3696 @@
+portNo,portName
+10001,Keflavik
+10002,Straumsvik
+10003,Hafnarfjordur
+10004,Skerjafjordur
+10005,Reykjavik
+10006,Grundartangi
+10007,Bildudalur
+10008,Thingeyri
+10009,Bolungavik
+10010,Isafjordur
+10011,Blonduos
+10012,Skagastrond
+10013,Saudarkrokur
+10014,Siglufjorhurd
+10015,Olafsfjordhur
+10016,Dalvik
+10017,Akureyri
+10018,Husavik
+10019,Kopasker
+10020,Raufarhofn
+10021,Vopnafjordhur
+10022,Seydhisfjordhur
+10023,Neskaupstadur
+10024,Eskifjordhur
+10025,Budir
+10026,Djupivogur
+10027,Hornabjordur
+10028,Vestmannaeyjar
+10029,Qutdleq
+10030,Kusanartoq
+10031,Nanortalik Havn
+10032,Qaqurtoq
+10033,Narsaq
+10034,Narsarssuaq
+10035,Gronnedal (Kangilinnguit)
+10036,Paamuit (Frederikshab)
+10037,Kangerluarsoruseq
+10038,Nuuk
+10039,Maniitsoq
+10040,Kangamiut
+10041,Sisimiut
+10042,Kangerlusuaq
+10043,Attu
+10044,Aasiaat
+10045,Qasigiannguit-Christianshab
+10046,Illulissat (Jakobshavn)
+10047,Qeqertarsuaq
+10048,Niaqornat
+10049,Uummannaq Harbor
+10050,Kajalleq Upernavik
+10051,Upernavik
+10052,Pituffik (Thule Air Base)
+10053,Pond Inlet
+10054,Padloping Island
+10055,Pangnirtung
+10056,Churchill
+10057,Goose Bay
+10058,Conche
+10059,Roddickton
+10060,Westport Cove
+10061,Seal Cove
+10062,Little Bay
+10063,Springdale
+10064,Fortune Harbor
+10065,Twillingate Harbor
+10066,Bonavista Harbor
+10067,Catalina Harbor
+10068,Port Union
+10069,Clarenville
+10070,Carbonear Bay
+10071,Harbor Grace
+10072,St John'S
+10073,Trepassey Harbor
+10074,Argentia
+10075,Come By Chance Harbor
+10076,Port De St Pierre
+10077,Grand Bank
+10078,Burgeo
+10079,Port Aux Basques
+10080,Stephenville
+10081,St George'S
+10082,Corner Brook
+10083,Blanc Sablon
+10084,Havre St Pierre
+10085,Mingan
+10086,Sept Iles
+10087,Pointe Noire
+10088,Port Cartier
+10089,Matane
+10090,Baie Comeau
+10091,Rimouski
+10092,Tadoussac
+10093,La Baie (Port Alfred)
+10094,Chicoutimi (Port Saguenay)
+10095,Riviere Du Loup
+10096,Quebec
+10097,Port De Becancour
+10098,Trois Rivieres
+10099,Sorel
+10100,Montreal
+10101,Vaudreuil
+10102,Oka Sur Le Lac
+10103,Hudson
+10104,St Placide
+10105,St Andrews East
+10106,Carillon
+10107,Chute A Blondeau
+10108,Grenville
+10109,Hawkesbury
+10110,Fassett
+10111,Montebello
+10112,Papineauville
+10113,Thurso
+10114,Rockland
+10115,Cumberland
+10116,Masson
+10117,Gatineau
+10118,Ottawa
+10119,Hull
+10120,Beauharnois
+10121,Coteau Landing
+10122,St Zotique
+10123,St Anicet
+10124,South Lancaster
+10125,Cornwall
+10126,Cardinal
+10127,Lower Lakes Terminal
+10128,Brockville
+10129,Rockport
+10130,Gananoque
+10131,Wolfe Island
+10132,Kingston
+10133,Ogdensburg
+10134,Alexandria Bay
+10135,Clayton
+10136,Millhaven
+10137,Picton
+10138,Belleville
+10139,Trenton
+10140,Cobourg
+10141,Port Hope
+10142,Contrecour
+10143,Oshawa
+10144,Port Whitby
+10145,Toronto
+10146,Port Credit
+10147,Clarkson
+10148,Oakville
+10149,Bronte
+10150,Hamilton
+10151,Port Dalhousie
+10152,Port Weller
+10153,Welland
+10154,Thorold
+10155,St Catherine
+10156,Niagara
+10157,Queenston
+10158,Chaumont
+10159,Sackets Harbor
+10160,Oswego
+10161,Sodus Bay
+10162,Rochester
+10163,Youngstown
+10164,Port Colborne
+10165,Port Maitland
+10166,Port Dover
+10167,Port Stanley
+10168,Rondeau
+10169,Pelee I North Wharf
+10170,Pelee I West Dock
+10171,Leamington
+10172,Kingsville
+10173,Amherstburg
+10174,Windsor
+10175,Tonawanda
+10176,Buffalo
+10177,Dunkirk
+10178,Erie
+10179,Conneaut
+10180,Ashtabula
+10181,Fairport
+10182,Cleveland
+10183,Lorain
+10184,Vermilion
+10185,Huron
+10186,Sandusky
+10187,Port Clinton
+10188,Put In Bay
+10189,Toledo
+10190,Monroe
+10191,Trenton
+10192,Wyandotte
+10193,Rouge River
+10194,Detroit
+10195,Walpole Island
+10196,Sombra
+10197,Courtright
+10198,Sarnia
+10199,Point Edward
+10200,Goderich
+10201,Port Elgin
+10202,Southampton
+10203,Tobermory
+10204,Lions Head
+10205,Wiarton
+10206,Owen Sound
+10207,Meaford
+10208,Thornbury
+10209,Collingwood
+10210,Penetanguishene
+10211,Midland
+10212,Tiffin
+10213,Port Mcnicoll
+10214,Victoria Harbour
+10215,Waubaushene
+10216,Port Severn
+10217,Depot Harbour
+10218,Parry Sound
+10219,Byng Inlet
+10220,Key Harbour
+10221,Killarney
+10222,Manitowaning
+10223,Sheguiandah
+10224,Little Current
+10225,Honora
+10226,Kagawong
+10227,Gore Bay
+10228,Meldrum Bay
+10229,Blind River
+10230,Cockburn
+10231,Thessalon
+10232,Bruce Mines
+10233,Hilton
+10234,Desbarats
+10235,Richards Landing
+10236,Sault Ste Marie
+10237,Algonac
+10238,Marine City
+10239,St Clair
+10240,Port Huron
+10241,Harbor Beach
+10242,Port Hope
+10243,Bay City
+10244,Saginaw
+10245,Alabaster
+10246,Tawas City
+10247,Au Sable
+10248,Oscoda
+10249,Alpena
+10250,Rockport
+10251,Calcite
+10252,Rogers City
+10253,Cheboygan
+10254,Mackinaw City
+10255,Mackinac Island
+10256,St Ignace
+10257,Sault Ste Marie
+10258,St. James Harbor
+10259,Harbor Springs
+10260,Petoskey
+10261,Charlevoix
+10262,Traverse City
+10263,Leland
+10264,Frankfort
+10265,Manistee
+10266,Ludington
+10267,White Lake
+10268,Muskegon
+10269,Grand Haven
+10270,Holland
+10271,Saugatuck
+10272,South Haven
+10273,St Joseph
+10274,Michigan City
+10275,Gary
+10276,Buffington
+10277,Indiana Harbor
+10278,Calumet Harbor
+10279,Chicago
+10280,Wilmette
+10281,Great Lakes
+10282,Waukegan
+10283,Kenosha
+10284,Racine
+10285,Milwaukee
+10286,Port Washington
+10287,Sheboygan
+10288,Manitowoc
+10289,Two Rivers
+10290,Kewaunee
+10291,Algoma
+10292,Sturgeon Bay
+10293,Green Bay
+10294,Depere
+10295,Kaukauna
+10296,Oconto
+10297,Marinette
+10298,Menominee
+10299,Escanaba
+10300,Gladstone
+10301,Nahma
+10302,Manistique
+10303,Port Inland
+10304,Goulais Bay
+10305,Batchawana Bay
+10306,Gargantua
+10307,Michipicoten
+10308,Quebec Harbour
+10309,Heron Bay
+10310,Thunder Bay
+10311,Grand Marais
+10312,Munising
+10313,Marquette
+10314,Presque Isle
+10315,L Anse
+10316,Baraga
+10317,Copper Harbor
+10318,Eagle Harbor
+10319,Houghton
+10320,Ontonagon
+10321,Ashland
+10322,Washburn
+10323,Bayfield
+10324,La Pointe
+10325,Cornucopia
+10326,Port Wing
+10327,Superior
+10328,Duluth
+10329,Two Harbors
+10330,Grand Marais
+10331,Washington Harbor
+10332,Gaspe
+10333,Douglastown
+10334,Chandler
+10335,Dalhousie
+10336,Caraquet
+10337,Shippegan
+10338,Shediac
+10339,Alberton
+10340,Souris Harbour
+10341,Georgetown
+10342,Charlottetown
+10343,Summerside
+10344,Pictou
+10345,Port Hawkesbury
+10346,Port Hastings
+10347,Cheticamp
+10348,Whycocomagh
+10349,Grand Narrows
+10350,Little Bras D Or
+10351,North Sydney
+10352,Sydney
+10353,Louisburg
+10354,Arichat
+10355,Guysborough
+10356,Canso
+10357,Whitehaven Harbor
+10358,Goldsboro
+10359,Stormont
+10360,Sonora
+10361,Musquodoboit Harbour
+10362,Halifax
+10363,Sambro
+10364,Lunenburg
+10365,Liverpool (Brooklyn)
+10366,Lockeport
+10367,Yarmouth
+10368,Digby
+10369,Annapolis Royal
+10370,Windsor
+10371,Canaport (St. John)
+10372,St John
+10373,Port Bayside Nb
+10374,Eastport
+10375,Lubec
+10376,Machiasport
+10377,Machias
+10378,Jonesport
+10379,Wyman
+10380,Milbridge
+10381,Corea
+10382,Winter Harbor
+10383,Sorrento
+10384,Bar Harbor
+10385,Northeast Harbor
+10386,Southwest Harbor
+10387,Mount Desert
+10388,Frenchboro
+10389,Minturn
+10390,Swans Island
+10391,Bass Harbor
+10392,Ellsworth
+10393,Brooklin
+10394,Bucks Harbor
+10395,Stonington
+10396,Criehaven
+10397,Matinicus
+10398,Vinalhaven
+10399,North Haven
+10400,Castine
+10401,Sandypoint
+10402,Bucksport
+10403,Winterport
+10404,Bangor
+10405,Searsport
+10406,Belfast
+10407,Camden
+10408,Rockport
+10409,Rockland
+10410,Monhegan
+10411,Port Clyde
+10412,Thomaston
+10413,Friendship
+10414,New Harbor
+10415,Pemaquid Beach
+10416,South Bristol
+10417,Boothbay Harbor
+10418,Robinhood
+10419,Bath
+10420,Gardiner
+10421,Augusta
+10422,Cundy Harbor
+10423,South Harpswell
+10424,Portland
+10425,Saco
+10426,Kennebunkport
+10427,Portsmouth
+10428,Newburyport
+10429,Rockport
+10430,Gloucester
+10431,Beverly
+10432,Salem
+10433,Marblehead
+10434,Lynn
+10435,Boston
+10436,Quincy
+10437,Scituate
+10438,Plymouth
+10439,Provincetown
+10440,Hyannis
+10441,Hyannis Port
+10442,Falmouth
+10443,Nantucket
+10444,Edgartown
+10445,Vineyard Haven
+10446,Woods Hole
+10447,New Bedford
+10448,Newport
+10449,Fall River
+10450,Tiverton
+10451,Bristol
+10452,Providence
+10453,Quonset Point
+10454,Davisville Depot
+10455,Montauk Harbor
+10456,Greenport
+10457,Stonington
+10458,Noank
+10459,Mystic
+10460,New London
+10461,Norwich
+10462,Essex
+10463,New Haven
+10464,Port Jefferson
+10465,Bridgeport
+10466,Southport
+10467,Norwalk
+10468,Stamford
+10469,Greenwich
+10470,Port Chester
+10471,City Island
+10472,Brooklyn
+10473,New York City
+10474,Patchogue
+10475,Yonkers
+10476,Newburgh
+10477,Poughkeepsie
+10478,Kingston
+10479,Catskill
+10480,Albany
+10481,Rensselaer
+10482,Troy
+10483,Edgewater
+10484,Weehawken
+10485,Hoboken
+10486,Jersey City
+10487,Bayonne
+10488,Newark
+10489,Elizabethport
+10490,Stapleton Si
+10491,Tompkinsville Si
+10492,Port Richmond Si
+10493,Mariners Harbor Si
+10494,Gulfport Si
+10495,Port Socony
+10496,Bayway
+10497,Grasselli
+10498,Carteret
+10499,Chrome
+10500,Port Reading
+10501,Sewaren
+10502,Maurer
+10503,Perth Amboy
+10504,Sayreville
+10505,South Amboy
+10506,Leonardo
+10507,Barnegat
+10508,Atlantic City
+10509,Salem Nj
+10510,New Castle
+10511,Deepwater Point
+10512,Wilmington
+10513,Marcus Hook
+10514,Chester
+10515,Philadelphia
+10516,Paulsboro
+10517,Gloucester
+10518,Camden
+10519,Burlington
+10520,Bristol
+10521,Trenton
+10522,Ocean City
+10523,Cape Charles
+10524,Salisbury
+10525,Havre De Grace
+10526,Baltimore
+10527,Annapolis
+10528,Solomons Island
+10529,Washington D.C.
+10530,Alexandria
+10531,Piney Point
+10532,Yorktown
+10533,West Point
+10534,Fredericksburg
+10535,Norfolk
+10536,Portsmouth
+10537,Newport News
+10538,Warwick
+10539,Richmond
+10540,Elizabeth City
+10541,Hertford
+10542,Edenton
+10543,Plymouth
+10544,Columbia
+10545,Belhaven
+10546,Washington
+10547,Bayboro
+10548,New Bern
+10549,Beaufort
+10550,Morehead City
+10551,Swansboro
+10552,Wrightsville
+10553,Wilmington
+10554,Southport
+10555,Georgetown
+10556,Charleston
+10557,Port Royal
+10558,Beaufort
+10559,Savannah
+10560,Darien
+10561,Brunswick
+10562,Fernandina Beach
+10563,Mayport
+10564,Jacksonville
+10565,St Augustine
+10566,Canaveral Harbor
+10567,Fort Pierce
+10568,Palm Beach
+10569,Port Everglades
+10570,Miami
+10571,Key West
+10572,Boca Grande
+10573,Port Manatee
+10574,Tampa
+10575,St Petersburg
+10576,Tarpon Springs
+10577,Carrabelle
+10578,Apalachicola
+10579,Port St Joe
+10580,Panama City
+10581,Pensacola
+10582,Mobile
+10583,Pascagoula
+10584,Biloxi
+10585,Gulfport
+10586,Slidell
+10587,Madisonville
+10588,Southwest Pass
+10589,Port Sulphur
+10590,Gretna
+10591,New Orleans
+10592,Port Of Memphis
+10593,Tri-City Port
+10594,St. James
+10595,Convent
+10596,St Rose
+10597,Reserve
+10598,Destrehan
+10599,Baton Rouge
+10600,Loop Terminal
+10601,Grand Isle
+10602,Morgan City
+10603,Haymark Terminal
+10604,Lake Charles
+10605,Sabine
+10606,Sabine Pass
+10607,Orange
+10608,Port Arthur
+10609,Port Neches
+10610,Beaumont
+10611,Galveston
+10612,Texas City
+10613,Baytown
+10614,Norsworthy
+10615,Pasadena
+10616,Sinco
+10617,Deer Park
+10618,Houston
+10619,Freeport
+10620,Palacios
+10621,Port Lavaca
+10622,Port Oconnor
+10623,Rockport
+10624,Corpus Christi
+10625,Port Aransas
+10626,Port Ingleside
+10627,Port Isabel
+10628,Brownsville
+10629,Altamira
+10630,Tampico
+10631,Tuxpan
+10632,Veracruz
+10633,Cayo Arcas Terminal
+10634,Coatzacoalcos
+10635,Nanchital
+10636,Minatitlan
+10637,Dos Bocas Terminal
+10638,Frontera
+10639,Ciudad Del Carmen
+10640,Campeche
+10641,Progreso
+10642,San Miguel De Cozumel
+10643,Belize City
+10644,Puerto Barrios
+10645,Santo Thomas De Castilla
+10646,Puerto Cortes
+10647,Tela
+10648,Puerto Este
+10649,La Ceiba
+10650,Coxen Hole
+10651,Trujillo
+10652,Puerto Castilla
+10653,Puerto Cabezas
+10654,El Bluff
+10655,Bluefields
+10656,Puerto Moin
+10657,Puerto Limon
+10658,Chiriqui Grande
+10659,Almirante
+10660,Bocas Del Toro
+10661,Puerto Cristobal
+10662,Puerto Colon
+10663,Bahia De Las Minas
+10664,St George'S
+10665,Ireland Island
+10666,Hamilton
+10667,Freeport
+10668,South Riding Point
+10669,Nassau
+10670,Clifton Pier
+10671,Cockburn Town
+10672,Matthew Town
+10673,Grand Turk
+10674,Cockburn Harbor
+10675,Cabanas
+10676,Mariel
+10677,Bahai De La Habana
+10678,Matanzas
+10679,Cardenas
+10680,Isabela De Sagua
+10681,Nuevitas Bay
+10682,Manati
+10683,Puerto Padre
+10684,Antilla
+10685,Felton
+10686,Nicaro
+10687,Bahia De Sagua De Tanamo
+10688,Cayo Moa Grande
+10689,Puerto Guantanamo
+10690,Santiago De Cuba
+10691,Media Luna
+10692,Ceiba Hueca
+10693,Manzanillo
+10694,Guayabal
+10695,Jucaro
+10696,Tunas De Zaza
+10697,Casilda
+10698,Cienfuegos
+10699,Nueva Gerona
+10700,Georgetown
+10701,Cayman Brac
+10702,Lucea
+10703,Montego Bay
+10704,Falmouth
+10705,Rio Bueno
+10706,Ocho Rios
+10707,Port Antonio
+10708,Kingston
+10709,Port Esquivel
+10710,Rocky Point
+10711,Port Kaiser
+10712,Savannah La Mar
+10713,Jacmel
+10714,Miragoane
+10715,Petit Goave
+10716,Port Au Prince
+10717,Cap Haitien
+10718,Pepillo Salcedo
+10719,Puerto Plata
+10720,Santa Barbara De Samana
+10721,Puerto Botado
+10722,Sanchez
+10723,La Romana
+10724,San Pedro De Macoris
+10725,Andres (Andres Lgn Terminal)
+10726,Santo Domingo
+10727,Puerto De Haina
+10728,Punta Nizao Oil Terminal
+10729,Las Calderas
+10730,Puerto Viejo De Azua
+10731,Santa Cruz De Barahona
+10732,Cabo Rojo
+10733,Aguadilla
+10734,Arecibo
+10735,San Juan
+10736,Bahia De Fajardo
+10737,Ensenada Honda
+10738,Playa De Humacao
+10739,Puerto Yabucoa
+10740,Arroyo
+10741,Bahia De Jobos
+10742,Las Mareas
+10743,Playa De Ponce
+10744,Playa De Guayanilla
+10745,Playa De Guanica
+10746,Mayaguez
+10747,Charlotte Amalie
+10748,Cruz Bay
+10749,Frederiksted
+10750,Limetree Bay
+10751,Port Alucroix
+10752,Christiansted
+10753,Road Harbor
+10754,Baie Du Marigot
+10755,Phillipsburg
+10756,Coles Bay Oil Terminal
+10757,Gustavia
+10758,Oranjestad
+10759,Basseterre
+10760,Charlestown
+10761,St Johns
+10762,Pointe A Pitre
+10763,Basse Terre
+10764,Port Louis
+10765,Roseau
+10766,Portsmouth
+10767,Fort De France
+10768,Vieux Fort
+10769,Grand Cul De Sac Bay
+10770,Castries
+10771,Kingstown
+10772,St George'S
+10773,Bridgetown
+10774,Scarborough
+10775,Chaguaramas
+10776,Anse Tembladora
+10777,Port Of Spain
+10778,Point Lisas Port
+10779,Pointe A Pierre
+10780,Point Lisas Industrial Port
+10781,Brighton
+10782,Point Fortin
+10783,Galeota Point Terminal
+10784,Kralendijk
+10785,Goto Oil Terminal
+10786,Salina
+10787,Caracasbaai
+10788,Willemstad
+10789,Bullen Baai
+10790,Sint Michelsbaai
+10791,Sint Nicolaas Baai
+10792,Paarden Baai - (Oranjestad)
+10793,Turbo
+10794,Covenas
+10795,Covenas Offshore Term.
+10796,Mamonal
+10797,El Bosque
+10798,Cartagena
+10799,Barranquilla
+10800,Puerto Prodeco
+10801,Pozos Colorados
+10802,Santa Marta
+10803,Puerto Bolivar
+10804,Maracaibo
+10805,San Lorenzo
+10806,La Salina
+10807,Punta De Palmas
+10808,Bajo Grande
+10809,Puerto Miranda
+10810,El Tabiazo
+10811,Punta Cardon
+10812,Las Piedras
+10813,Amuay (Bahia De Amuay)
+10814,Puerto Cumarebo
+10815,Puerto Chichiriviche
+10816,El Palito
+10817,Venterminals
+10818,Puerto Cabello
+10819,Puerto Borburata
+10820,Catia La Mar
+10821,La Guaira
+10822,Jose Terminal
+10823,Puerto La Cruz
+10824,Guanta
+10825,Bahia De Pertigalete
+10826,Cumana (Puerto Sucre)
+10827,El Guamache
+10828,Carupano
+10829,Guiria
+10830,Puerto De Hierro
+10831,Caripito
+10832,Palua
+10833,Puerto Ordaz
+10834,Ciudad Bolivar
+10835,Georgetown
+10836,Linden
+10837,New Amsterdam
+10838,Nieuw Nickerie
+10839,Paramaribo
+10840,Paranam
+10841,Moengo
+10842,Degrad Des Cannes
+10843,Porto Santana
+10844,Belem
+10845,Vila Do Conde
+10846,Cameta
+10847,Santarem
+10848,Itacoatiara
+10849,Manaus
+10850,Iquitos
+10851,Itaqui
+10852,Tutoia
+10853,Camocim
+10854,Porto De Mucuripe
+10855,Guamare Oil Terminal
+10856,Natal
+10857,Cabedelo
+10858,Recife
+10859,Porto De Suape
+10860,Porto De Maceio
+10861,Port De Aracaju
+10862,Port De Salvador
+10863,Aratu
+10864,Madre De Deus
+10865,Port Of Ilheus
+10866,Portocel
+10867,Vitoria
+10868,Tubarao
+10869,Santa Clara
+10870,Macae
+10871,Dtse / Gegua Oil Terminal
+10872,Porto Do Forno
+10873,Rio De Janeiro
+10874,Niteroi
+10875,Guaiba Island Terminal
+10876,Angra Dos Reis
+10877,Gebig
+10878,Sao Sebastiao
+10879,Santos
+10880,Paranagua
+10881,Sao Francisco
+10882,Itajai
+10883,Imbituba
+10884,Laguna
+10885,Tramandai
+10886,Rio Grande
+10887,Pelotas
+10888,Porto Alegre
+10889,La Paloma
+10890,Jose Ignacio
+10891,Montevideo
+10892,Puerto Sauce
+10893,Colonia
+10894,Nueva Palmira
+10895,Fray Bentos
+10896,Paysandu
+10897,Puerto De Asuncion
+10898,Santa Fe
+10899,Parana
+10900,Diamante
+10901,Puerto San Martin
+10902,San Lorenzo
+10903,Rosario
+10904,Villa Constitucion
+10905,San Nicolas
+10906,Ramallo
+10907,San Pedro
+10908,Puerto Ibicuy
+10909,Zarate
+10910,Campana
+10911,Concordia
+10912,Colon
+10913,Concepcion Del Uruguay
+10914,Buenos Aires
+10915,La Plata
+10916,Mar Del Plata
+10917,Quequen
+10918,Puerto Rosales
+10919,Puerto Belgrano
+10920,Bahia Blanca
+10921,Puerto Ingeniero White
+10922,Puerto Nacional
+10923,Puerto Galvan
+10924,San Blas
+10925,Puerto Madryn
+10926,Comodoro Rivadavia
+10927,Puerto Deseado
+10928,Puerto San Julian
+10929,Puerto Santa Cruz
+10930,Puerto Gallegos
+10931,San Sebastian Bay
+10932,Rio Grande
+10933,Ushuaia
+10934,Villa Constitucion
+10935,Stanley
+10936,Prince Olav Harbor
+10937,Stromness Harbor
+10938,Grytviken
+10939,Puerto Williams
+10940,Punta Delgada
+10941,Puerto Sara
+10942,Caleta Clarencia
+10943,Rada Punta Arenas
+10944,Bahia Agua Fresca
+10945,Port San Juan De La Juan
+10946,Bahia Harris
+10947,Puerto Yartou
+10948,Caleta Mina Elena
+10949,Puerto Natales
+10950,Puerto Chacabuco
+10951,Puerto Castro
+10952,Puerto Quemchi
+10953,Puerto Montt
+10954,Puerto De Corral
+10955,Bahia De Valdivia
+10956,Lota
+10957,Coronel
+10958,Bahia San Vicente
+10959,Talcahuano
+10960,Lirquen
+10961,Penco
+10962,Puerto San Antonio
+10963,Bahia De Valparaiso
+10964,Bahia Quintero (Ventanas)
+10965,Bahia Herradura Guayacan
+10966,Coquimbo
+10967,Huasco
+10968,Puerto Caldera
+10969,Puerto Calderilla
+10970,Puerto Chanaral
+10971,Taltal
+10972,Antofagasta
+10973,Mejillones
+10974,Caleta Patillos
+10975,Tocopilla
+10976,Iquique
+10977,Rada De Arica
+10978,Puerto Ilo
+10979,Bahia De Matarani
+10980,Bahia San Nicolas
+10981,Conchan Oil Terminal
+10982,Puerto Del Callao
+10983,La Pampilla Oil Terminal
+10984,Bahia De Ancon
+10985,Chancay
+10986,Puerto De Huacho
+10987,Puerto Supe
+10988,Punta Lobitos (Bahia De Huarm
+10989,Puerto De Chimbote
+10990,Salaverry
+10991,Pimental
+10992,Puerto Bayovar
+10993,Paita
+10994,Talara
+10995,Caleta Lobitos
+10996,Puerto Cabo Blanco
+10997,Puerto Bolivar
+10998,Guayaquil
+10999,Puerto Maritimo De Guayaquil
+11000,La Libertad
+11001,Manta
+11002,Esmeraldas
+11003,Tumaco
+11004,Buenaventura
+11005,Balboa
+11006,Vacamonte
+11007,Charco Azul
+11008,Pedregal
+11009,Puerto Armuelles
+11010,Golfito
+11011,Puerto Quepos
+11012,Puerto Caldera
+11013,Puntarenas
+11014,Puerto Sandino
+11015,Corinto
+11016,Puerto De Hencan
+11017,La Union
+11018,Acajutla
+11019,Acajutla Offshore Terminal
+11020,Puerto Quetzal
+11021,Puerto Madero
+11022,Salina Cruz
+11023,Acapulco
+11024,Lazaro Cardenas
+11025,Manzanillo
+11026,Puerto Vallarta
+11027,Mazatlan
+11028,Topolobampo
+11029,Guaymas
+11030,Santa Rosalia
+11031,Isla San Marcos
+11032,San Juan De La Costa
+11033,Pichilingue
+11034,La Paz
+11035,Puerto Morro Redondo
+11036,Ensenada
+11037,Rosarito
+11038,San Diego
+11039,Wilson Cove
+11040,Isthmus Cove
+11041,Avalon
+11042,Newport Beach
+11043,Long Beach
+11044,Los Angeles
+11045,El Segundo
+11046,Port Hueneme
+11047,Prisoners
+11048,Ventura
+11049,Carpinteria
+11050,Santa Barbara
+11051,Ellwood
+11052,Gaviota
+11053,Pismo Beach
+11054,Port San Luis
+11055,Morro Bay
+11056,Monterey
+11057,Moss Landing
+11058,Santa Cruz
+11059,Davenport
+11060,Princetown
+11061,San Francisco
+11062,Yerbabuena Island
+11063,Redwood City
+11064,Alameda
+11065,Oakland
+11066,Berkeley
+11067,Point Richmond
+11068,Point San Pablo
+11069,Sausalito
+11070,Pinole Point
+11071,Oleum
+11072,Mare Island
+11073,South Vallejo
+11074,Crockett
+11075,Port Costa
+11076,Benicia
+11077,Martinez
+11078,Pittsburg
+11079,Antioch
+11080,Stockton
+11081,Rio Vista
+11082,Isleton
+11083,Walnut Grove
+11084,Courtland
+11085,Sacramento
+11086,Bodega Bay
+11087,Fort Bragg
+11088,Fields Landing
+11089,Eureka
+11090,Samoa
+11091,Crescent City
+11092,Port Orford
+11093,Bandon
+11094,Prosper
+11095,Empire
+11096,North Bend
+11097,Coos Bay
+11098,Winchester Bay
+11099,Gardiner
+11100,Reedsport
+11101,Florence
+11102,Glenada
+11103,Cushman
+11104,Waldport
+11105,Newport
+11106,Toledo
+11107,Depoe Bay
+11108,Ilwaco
+11109,Warrenton
+11110,Astoria
+11111,Tongue Point
+11112,Westport
+11113,Rainier
+11114,Longview
+11115,Kalama
+11116,St Helens
+11117,Portland
+11118,Vancouver
+11119,Camas
+11120,Washougal
+11121,The Dalles
+11122,Nahcotta
+11123,South Bend
+11124,Raymond
+11125,Willapa Harbor
+11126,Westhaven Cove
+11127,Bay City
+11128,Aberdeen
+11129,Hoquiam
+11130,La Push
+11131,Neah Bay
+11132,Sekiu
+11133,Port Angeles
+11134,Port Townsend
+11135,Glen Cove
+11136,Hoodsport
+11137,Port Gamble
+11138,Poulsbo
+11139,Keyport
+11140,Winslow
+11141,Creosote
+11142,Fort Ward
+11143,East Bremerton
+11144,Silverdale
+11145,Bremerton
+11146,Port Orchard
+11147,Quartermaster Harbor
+11148,Shelton
+11149,Olympia
+11150,Nisqually Head
+11151,Tacoma
+11152,Seattle
+11153,Point Wells
+11154,Edwards Point
+11155,Mukilteo
+11156,Everett
+11157,Coupeville
+11158,Richardson
+11159,Friday Harbor
+11160,Roche  Harbor
+11161,Orcas
+11162,Anacortes
+11163,Bellingham
+11164,Cherry Point
+11165,Semiahmoo
+11166,Blaine
+11167,Steveston
+11168,New Westminster
+11169,Fraser Mills
+11170,Port Coquitlam
+11171,Mission City
+11172,Vancouver
+11173,Port Moody
+11174,Squamish
+11175,Port Mellon
+11176,Westview
+11177,Powell River
+11178,Duncan Bay
+11179,Campbell River
+11180,Comox Harbor
+11181,Nanoose Harbor
+11182,Nanaimo
+11183,Harmac
+11184,Chemainus
+11185,Crofton
+11186,Cowichan Bay
+11187,Ganges
+11188,Lyall Harbor
+11189,Hope Bay
+11190,Sidney
+11191,Bamberton
+11192,Victoria Harbor
+11193,Esquimalt Harbor
+11194,Port San Juan
+11195,Port Alberni
+11196,Ucluelet
+11197,Clayoquot
+11198,Ahousat
+11199,Gold River
+11200,Tahsis
+11201,Bergh Cove
+11202,Port Alice
+11203,Coal Harbor
+11204,Port Hardy
+11205,Sointula
+11206,Alert Bay
+11207,Port Mcneill
+11208,Bella Coola
+11209,Bella Bella
+11210,Klemtu
+11211,Butedale
+11212,Kemano Bay
+11213,Kitimat
+11214,Porpoise Harbor
+11215,Prince Rupert
+11216,Port Simpson
+11217,Stewart
+11218,Masset Harbor
+11219,Port Clements
+11220,Queen Charlotte
+11221,Alliford Bay
+11222,Hyder
+11223,Hidden Inlet
+11224,Metlakatla
+11225,George Inlet
+11226,Ketchikan
+11227,Ward Cove
+11228,Knudson Cove
+11229,Loring
+11230,Yes Bay
+11231,Union Bay
+11232,Burnett Inlet
+11233,Wrangell
+11234,Kasaan
+11235,Rose Inlet
+11236,Hydaburg
+11237,Waterfall
+11238,Craig
+11239,Klawock
+11240,Steamboat Bay
+11241,Fishermans Harbor
+11242,Petersburg
+11243,Kake
+11244,Washington Bay
+11245,Bay Of Pillars
+11246,Big Port Walter
+11247,Little Port Walter
+11248,Port Armstrong
+11249,Port Conclusion
+11250,Port Alexander
+11251,Sitka
+11252,Kimshan Cove
+11253,Pelican
+11254,Elfin Cove
+11255,Hoonah
+11256,Tenakee Springs
+11257,Chatham
+11258,Todd
+11259,Hood Bay
+11260,Hawk Inlet
+11261,Funter
+11262,Dupont
+11263,Juneau
+11264,Port Chilkoot
+11265,Haines
+11266,Tanani Point
+11267,Skagway
+11268,Letnikof Cove
+11269,Excursion Inlet
+11270,Yakutat
+11271,Katalla
+11272,Orca
+11273,Cordova
+11274,Shepard Point
+11275,Swanport
+11276,Valdez
+11277,Whittier
+11278,Crab Bay
+11279,Port Ashton
+11280,San Juan Cannery
+11281,Latouche
+11282,Seward
+11283,Port Graham
+11284,Seldovia
+11285,Homer
+11286,Coal Point
+11287,Ninilchik
+11288,Kenai
+11289,Nikiski
+11290,Anchorage
+11291,Drift River
+11292,Snug Harbor
+11293,Ouzinkie
+11294,Kodiak
+11295,Womens Bay
+11296,Port Hobron
+11297,Mccord
+11298,Three Saints Bay
+11299,Trap Point
+11300,Lazy Bay
+11301,Karluk
+11302,Uyak
+11303,Larsen Bay
+11304,Port Obrien
+11305,Dry Spruce Bay
+11306,Port Vita
+11307,Bear Island
+11308,Hogg Island
+11309,Port William
+11310,Kanatak
+11311,Chignik
+11312,Ivanof Bay
+11313,Sand Point
+11314,Baralof Bay
+11315,Unga
+11316,Belkofski
+11317,King Cove
+11318,Cold Bay
+11319,Sanak
+11320,Akutan Harbor
+11321,Cannery Bay
+11322,Makushin
+11323,Dutch Harbor
+11324,Unalaska
+11325,Palisades Point
+11326,Adak Naval Air Station
+11327,Constantine Harbor
+11328,Kiska
+11329,Alcan Harbor
+11330,Skoot Cove
+11331,Massacre Bay
+11332,Village Cove
+11333,Port Moller
+11334,Port Heiden
+11335,Pilot Point
+11336,Ugashik
+11337,Egegik
+11338,Naknek
+11339,Koggiung
+11340,Ekuk
+11341,Clarks Point
+11342,Dillingham
+11343,Platinum
+11344,Bethel
+11345,Nash Harbor
+11346,Kwiguk
+11347,Kotlik
+11348,Hamilton
+11349,St Michael
+11350,Unalakleet
+11351,Solomon
+11352,Nome
+11353,Grantley Harbor
+11354,Savoonga
+11355,Shishmaref
+11356,Deering
+11357,Kotzebue
+11358,Wainwright
+11359,Barrow
+11360,Prudhoe Bay
+11361,Bernard Harbor
+11362,Tuktoyaktuk
+11363,Police Point
+11364,Paulatuk
+11365,Pearce Point
+11366,Tysoe Point
+11367,Sachs Harbor
+11368,Cape Young
+11369,Bernard Harbor
+11370,Lady Franklin Point
+11371,Coppermine
+11372,Cambridge Bay
+11373,Resolute Bay
+11374,Barentsburg
+11375,Longyearbyen
+11376,Ny Alesund
+11377,Kirkenes
+11378,Vadso
+11379,Batsfjorden
+11380,Vardo
+11381,Berlevag
+11382,Kjollefjorden
+11383,Honningsvag
+11384,Kvalsund
+11385,Hammerfest
+11386,Sorvaer
+11387,Bredvik
+11388,Oksfjord
+11389,Alta
+11390,Talvik
+11391,Tromso
+11392,Gibostad
+11393,Finnsnes
+11394,Medby
+11395,Sjovegan
+11396,Harstad
+11397,Andenes
+11398,Sortland
+11399,Stokkmarknes
+11400,Reine
+11401,Ballstad
+11402,Stamsund
+11403,Henningsvaer
+11404,Svolvaer
+11405,Skrova Havn
+11406,Brettesnes
+11407,Lodingen
+11408,Ulvik
+11409,Lilandsgrunnen
+11410,Narvik
+11411,Litle Ballangen
+11412,Drag
+11413,Korsnes
+11414,Tranoy
+11415,Kjerringoy
+11416,Bodo
+11417,Lakselv
+11418,Fauske
+11419,Rognan
+11420,Ornes
+11421,Glomfjord
+11422,Sandnessjoen
+11423,Mo Inlet
+11424,Hemnesberget
+11425,Mosjoen
+11426,Tjotta
+11427,Bronnoysund
+11428,Berg
+11429,Rorvik
+11430,Salsbruket
+11431,Namsos
+11432,Malm
+11433,Steinkjer
+11434,Djupviken
+11435,Levanger
+11436,Langstein
+11437,Muruvik
+11438,Hommelvik
+11439,Trondheim
+11440,Thamshamm
+11441,Kristiansund
+11442,Sunndalsora
+11443,Bud
+11444,Haroysund
+11445,Molde
+11446,Andalsnes
+11447,Hareid
+11448,Moldtustranda
+11449,Orstav
+11450,Alesund
+11451,Maloy
+11452,Floro
+11453,Ardalstangen
+11454,Mongstad
+11455,Stura
+11456,Vaksdal
+11457,Bergen
+11458,Brattholmen
+11459,Tranneset
+11460,Strandvik
+11461,Norheimsund
+11462,Odda
+11463,Meling
+11464,Mosterhamn
+11465,Sagvag
+11466,Leirvik
+11467,Husnes
+11468,Haugesund
+11469,Kopervik
+11470,Karsto
+11471,Espevaer
+11472,Sauda
+11473,Akrahamn
+11474,Sandnes
+11475,Stavanger
+11476,Skudeneshavn
+11477,Tananger
+11478,Egersund
+11479,Rekefjord
+11480,Kirkehamn
+11481,Flekkefjorden
+11482,Farsund
+11483,Stusvik
+11484,Mandal
+11485,Kristiansand
+11486,Arendal
+11487,Tvedestrand
+11488,Risor
+11489,Kragero
+11490,Brevik
+11491,Porsgrunn
+11492,Skien
+11493,Larvik
+11494,Sandefjorden
+11495,Tonsberg
+11496,Valloy
+11497,Slagenstangen
+11498,Horten
+11499,Holmestrand
+11500,Svelvik
+11501,Drammen
+11502,Storsteilene
+11503,Oslo
+11504,Fagerstrand
+11505,Drobak
+11506,Tofte
+11507,Kambo
+11508,Moss
+11509,Sarpsborg
+11510,Fredrikstad
+11511,Halden
+11512,Stromstad
+11513,Grebbestad
+11514,Fjallbacka
+11515,Bovallstrand
+11516,Hunnebostrand
+11517,Brofjorden
+11518,Lysekil
+11519,Uddevalla
+11520,Stenungsund
+11521,Marstrand
+11522,Goteborg
+11523,Varberg
+11524,Falkenberg
+11525,Halmstad
+11526,Hoganas
+11527,Helsingborg
+11528,Landskrona
+11529,Malmo
+11530,Limhamn
+11531,Trelleborg
+11532,Ystad
+11533,Simrishamn
+11534,Ahus
+11535,Solvesborg
+11536,Karlshamn
+11537,Ronneby
+11538,Karlskrona
+11539,Bergkvara
+11540,Kalmar
+11541,Stora Jatterson
+11542,Oskarshamn
+11543,Figeholm
+11544,Degerhamn
+11545,Ronehamn
+11546,Slite
+11547,Farosund
+11548,Storugns
+11549,Visby
+11550,Klintehamn
+11551,Verkeback
+11552,Vastervik
+11553,Norrkoping
+11554,Oxelosund
+11555,Nykoping
+11556,Sodertalje
+11557,Nynashamn
+11558,Gustavsberg
+11559,Sandhamn
+11560,Stockholm
+11561,Vasteras
+11562,Grisslehamn
+11563,Hallstavik
+11564,Hargshamn
+11565,Skutskar
+11566,Karskar
+11567,Gavle
+11568,Norrsundet
+11569,Vallvik
+11570,Sandarne
+11571,Soderhamn
+11572,Iggesund
+11573,Hudiksvall
+11574,Stocka
+11575,Stockvik
+11576,Sundsvall
+11577,Vivstavarv
+11578,Soraker
+11579,Harnosand
+11580,Ulvvik
+11581,Utansjo
+11582,Gustavsvik
+11583,Lunde
+11584,Kramfors
+11585,Vaja
+11586,Bollstabruk
+11587,Kopmanholmen
+11588,Domsjo
+11589,Ornskoldsvik
+11590,Husum
+11591,Rundvik
+11592,Nordmaling
+11593,Obbola
+11594,Umea Hamn
+11595,Gumbodahamn
+11596,Skelleftehamn
+11597,Kagehamn
+11598,Brannfors
+11599,Pitea
+11600,Lulea
+11601,Torehamn
+11602,Karlsborg
+11603,Sandvik
+11604,Torina
+11605,Kemi
+11606,Oulu
+11607,Raahe
+11608,Veitsiluoto
+11609,Rahja
+11610,Himanka
+11611,Kokkola
+11612,Jakobstad
+11613,Nykarleby
+11614,Kantlax
+11615,Hellnas
+11616,Vaasa
+11617,Kaskinen
+11618,Kristinestad
+11619,Pori
+11620,Mantyluoto
+11621,Tahkoluoto
+11622,Rauma
+11623,Uusikaupunki
+11624,Naantali
+11625,Turku
+11626,Tolkkinen
+11627,Signilskar
+11628,Mariehamn
+11629,Pargas
+11630,Hanko
+11631,Ekenas
+11632,Jussaro
+11633,Porkkala
+11634,Inkoo
+11635,Helsinki
+11636,Porvoo
+11637,Loviisa
+11638,Kotka
+11639,Hamina
+11640,Vyborg
+11641,Gavan Vysotsk
+11642,Primorsk
+11643,Sankt-Peterburg
+11644,Lomonosov
+11645,Kronshtadt
+11646,Reka Luga
+11647,Kunda
+11648,Tallinn
+11649,Muuga-Port Of Tallin
+11650,Paldiski
+11651,Osmussaar
+11652,Parnu
+11653,Salacgriva
+11654,Riga
+11655,Lielupe
+11656,Ventspils
+11657,Liepaja
+11658,Butinge Oil Terminal
+11659,Klaipeda
+11660,Baltiysk
+11661,Kaliningrad
+11662,Gdansk
+11663,Port Polnochny
+11664,Nowy Port
+11665,Gdynia
+11666,Police
+11667,Ustka
+11668,Darlowo
+11669,Kolobrzeg
+11670,Swinoujscie
+11671,Szczecin
+11672,Wolgast
+11673,Sassnitz
+11674,Stralsund
+11675,Rostock
+11676,Wismar
+11677,Lubeck-Travemunde
+11678,Lubeck
+11679,Neustadt
+11680,Orth
+11681,Heiligenhafen
+11682,Kiel
+11683,Eckernforde
+11684,Kappeln
+11685,Flensburg
+11686,Nekso
+11687,Ronne
+11688,Hasle
+11689,Christianso Harbor
+11690,Fakse Ladeplads Havn
+11691,Koge
+11692,Kobenhavn
+11693,Tuborg
+11694,Helsingor
+11695,Hundested
+11696,Frederiksvaerk
+11697,Frederikssund
+11698,Kyndbyvaerkets Havn
+11699,Holbaek
+11700,Nykobing (Mor)
+11701,Kalundborg
+11702,Korsor
+11703,Skaelskor
+11704,Stigsnaesvaerket
+11705,Gulfhaven
+11706,Naestved
+11707,Vordingborg
+11708,Stubbekobing
+11709,Stege
+11710,Nykobing (Falster)
+11711,Sakskobing
+11712,Bandholm
+11713,Nakskov
+11714,Rodby Havn
+11715,Nysted
+11716,Rudkobing
+11717,Marstal
+11718,Aeroskobing
+11719,Svendborg
+11720,Nyborg
+11721,Kerteminde
+11722,Odense
+11723,Skaerbaek
+11724,Middelfart
+11725,Assens
+11726,Faborg
+11727,Sonderborg
+11728,Augustenborg
+11729,Abenra
+11730,Ensted
+11731,Haderslev
+11732,Kolding
+11733,Fredericia
+11734,Vejle
+11735,Horsens
+11736,Arhus
+11737,Studstrup
+11738,Grenaa Havn
+11739,Randers
+11740,Hadsund
+11741,Mariager
+11742,Hobro
+11743,Hals
+11744,Alborg
+11745,Frederikshavn
+11746,Skagen Havn
+11747,Hirtshals
+11748,Hanstholm
+11749,Thisted
+11750,Thyboron
+11751,Lemvig
+11752,Holstebro-Stuer
+11753,Ringkobing
+11754,Esbjerg
+11755,Husum
+11756,Busum
+11757,Brunsbuttel Elbahafen
+11758,Brunsbuttel Canal Terminals
+11759,Itzehoe
+11760,Rendsburg
+11761,Neuhaus
+11762,Gluckstadt
+11763,Hamburg
+11764,Butzfleth
+11765,Cuxhaven
+11766,Bremerhaven
+11767,Nordenham
+11768,Brake
+11769,Elsfleth
+11770,Oldenburg
+11771,Bremen
+11772,Wilhelmshaven
+11773,Emden
+11774,Leer
+11775,Papenburg
+11776,Eemshaven
+11777,Delfzijl
+11778,Harlingen
+11779,Den Helder
+11780,Ijmuiden
+11781,Zaandam
+11782,Amsterdam
+11783,Scheveningen
+11784,Hoek Van Holland
+11785,Europoort
+11786,Maassluis
+11787,Vlaardingen
+11788,Schiedam
+11789,Rotterdam
+11790,Dordrecht
+11791,Vlissingen
+11792,Hansweert
+11793,Terneuzen
+11794,Antwerpen
+11795,Bruxelles
+11796,Ghent
+11797,Zeebrugge
+11798,Bruges
+11799,Oostende
+11800,Nieuwpoort
+11801,Whitstable
+11802,Sheerness
+11803,Isle Of Grain
+11804,Thamesport
+11805,Chatham Docks
+11806,Gravesend
+11807,Tilbury
+11808,London
+11809,Colchester
+11810,Harwich
+11811,Ipswich
+11812,Felixstowe
+11813,Lowestoft
+11814,Great Yarmouth
+11815,Wisbech
+11816,King'S Lynn
+11817,Boston
+11818,Grimsby
+11819,Immingham
+11820,Kingston Upon Hull
+11821,Howdendyke
+11822,New Holland
+11823,Goole
+11824,Bridlington
+11825,Scarborough
+11826,Whitby
+11827,Teesport
+11828,Hartlepool
+11829,Seaham
+11830,Sunderland
+11831,Tynemouth
+11832,Blyth
+11833,Warkworth Harbour
+11834,Berwick-Upon-Tweed
+11835,Eyemouth
+11836,Dunbar
+11837,Bird Port
+11838,Leith
+11839,Granton
+11840,Braefoot Bay Terminal
+11841,Hound Point Terminal
+11842,Rosyth
+11843,Grangemouth
+11844,Burntisland
+11845,Methil
+11846,Dundee
+11847,Perth
+11848,Montrose
+11849,Aberdeen
+11850,Peterhead
+11851,Fraserburgh Harbor
+11852,Macduff
+11853,Buckie Harbor
+11854,Lossiemouth
+11855,Burghead
+11856,Inverness
+11857,Cromarty
+11858,Invergordon
+11859,Portmahomack Harbor
+11860,Helmsdale Harbor
+11861,Wick
+11862,Pierowall
+11863,Kettletoft
+11864,Whitehall
+11865,Kirkwall
+11866,Stromness
+11867,South Ness
+11868,St Margarets Hope
+11869,Lyness
+11870,Scapa Bay
+11871,Scalloway
+11872,Lerwick
+11873,Sullom Voe
+11874,Vagur
+11875,Tvoroyri
+11876,Torshavn
+11877,Kongshavn
+11878,Runavik
+11879,Vestmanna
+11880,Sorvagur
+11881,Fuglafjordur
+11882,Klaksvik
+11883,Scrabster Harbor
+11884,Ullapool
+11885,Aultbea
+11886,Gairloch
+11887,Plockton
+11888,Kyle Of Lochalsh
+11889,Kyleakin
+11890,Broadford Bay
+11891,Portree Harbor
+11892,Uig
+11893,Lochmaddy
+11894,Castle Bay
+11895,Lochboisdale
+11896,Stornoway Harbor
+11897,Tarbert
+11898,Ornsay
+11899,Mallaig
+11900,Tobermory
+11901,Kilkeel
+11902,Lochaline
+11903,Craignure
+11904,Corpach
+11905,Fort William
+11906,Glensanda
+11907,Oban
+11908,Port Ellen
+11909,Crinan (Canal)
+11910,Campbeltown
+11911,Lamlash Harbor
+11912,Ardrishaig
+11913,Rothesay Harbor
+11914,Greenock
+11915,Finnart Oil Terminal
+11916,Bowling
+11917,Old Kilpatrick
+11918,Rothesay Dock
+11919,Renfrew
+11920,Glasgow
+11921,Largs
+11922,Hunterston
+11923,Millport
+11924,Ardrossan
+11925,Troon
+11926,Ayr
+11927,Stranraer
+11928,Bangor
+11929,Douglas
+11930,Ramsey
+11931,Warren Point
+11932,Ardglass
+11933,Belfast
+11934,Kilroot
+11935,Larne
+11936,Coleraine
+11937,Londonderry
+11938,Rathmullan
+11939,Killybegs
+11940,Sligo
+11941,Lancaster
+11942,Westport
+11943,Drogheda
+11944,Galway
+11945,Limerick
+11946,Foynes
+11947,Tarbert
+11948,Fenit
+11949,Castletown Bearhaven
+11950,Valentia
+11951,Kilrush
+11952,Bantry
+11953,Cobh
+11954,Cork
+11955,New Ross
+11956,Waterford
+11957,Rosslare
+11958,Dublin
+11959,Greenore
+11960,Silloth
+11961,Workington
+11962,Barrow In Furness
+11963,Heysham
+11964,Garlston
+11965,Liverpool Bay Terminal
+11966,Fleetwood
+11967,Mostyn
+11968,Liverpool
+11969,Manchester
+11970,Holyhead
+11971,Caernarvon
+11972,Fishguard
+11973,Milford Haven
+11974,Swansea
+11975,Neath
+11976,Port Talbot
+11977,Barry
+11978,Cardiff
+11979,Newport
+11980,Sharpness
+11981,Avonmouth
+11982,Bristol
+11983,Bridgwater
+11984,Watchet Harbor
+11985,Bideford
+11986,Padstow
+11987,Hayle
+11988,St. Mary'S (Scilly Isl.)
+11989,Newlyn
+11990,Penzance
+11991,Falmouth Harbour
+11992,Mevagissey
+11993,Charlestown
+11994,Par
+11995,Fowey Harbour
+11996,Plymouth
+11997,Dartmouth Harbour
+11998,Brixham Harbour
+11999,Torquay Harbour
+12000,Teignmouth Harbour
+12001,Bridport Harbour
+12002,Portland Harbour
+12003,Weymouth Harbour
+12004,Poole Harbour
+12005,Cowes Harbour
+12006,Yarmouth Harbour
+12007,Southampton
+12008,Fawley Marine Terminal
+12009,Portsmouth Harbour
+12010,Littlehampton Harbour
+12011,Shoreham Harbour
+12012,Newhaven Harbour
+12013,Rye Harbour
+12014,Folkestone Harbour
+12015,Dover Harbor
+12016,Ramsgate
+12017,Dunkerque Port Est
+12018,Dunkerque Port Ouest
+12019,Gravelines
+12020,Calais
+12021,Boulogne-Sur-Mer
+12022,Saint-Valery-Sur-Somme
+12023,Le Treport
+12024,Dieppe
+12025,Fecamp
+12026,Port Du Havre-Antifer
+12027,Port Of Le Havre
+12028,Port Of Rouen
+12029,Honfleur
+12030,Deauville
+12031,Port De Caen
+12032,Ouistreham
+12033,Rade De Cherbourg
+12034,Alderney Harbour
+12035,Saint Sampson
+12036,Saint Peter Port
+12037,Saint Helier Harbour
+12038,Granville
+12039,Saint-Malo
+12040,Le Legue
+12041,Paimpol
+12042,Pontrieux
+12043,Treguier
+12044,Morlaix
+12045,Port De Roscoff-Bloscon
+12046,Rade De Brest
+12047,Concarneau
+12048,Lorient
+12049,St Nazaire
+12050,Montoir
+12051,Donges
+12052,Nantes
+12053,Les Sables D' Olonne
+12054,La Pallice
+12055,La Rochelle
+12056,Rochefort
+12057,Tonnay Charente
+12058,Le Verdon
+12059,Pauillac
+12060,Blaye
+12061,Ambes
+12062,Bordeaux
+12063,Bayonne
+12064,Puerto De Pasajes
+12065,Bermeo
+12066,Puerto De Bilbao
+12067,Santander
+12068,Gijon
+12069,Aviles
+12070,Ribadeo
+12071,San Ciprian
+12072,Ferrol
+12073,La Coruna
+12074,Villagarcia De Arosa
+12075,Marin
+12076,Vigo
+12077,Viana Do Castelo
+12078,Porto De Leixoes
+12079,Douro
+12080,Aveiro
+12081,Figueira Da Foz
+12082,Lisboa
+12083,Setubal
+12084,Sines
+12085,Lagos
+12086,Faro
+12087,Vila Real De S Antonio
+12088,Horta
+12089,Lajes
+12090,Angra Do Heroismo
+12091,Praia De Vitoria
+12092,Ponta Delgada
+12093,Vila Do Porto
+12094,Funchal
+12095,Santa Cruz De La Palma
+12096,Santa Cruz De Tenerife
+12097,Las Palmas
+12098,Puerto Del Rosario
+12099,Arrecife
+12100,Huelva
+12101,Sevilla
+12102,Rota
+12103,Cadiz
+12104,Algeciras
+12105,Europa Point
+12106,Malaga
+12107,Motril
+12108,Adra
+12109,Almeria
+12110,Puerto De Carboneras
+12111,Puerto De Garrucha
+12112,Aguilas
+12113,Hornillo
+12114,Cartagena
+12115,Islas Hormigas
+12116,Torrevieja
+12117,Alicante
+12118,Puerto De Gandia
+12119,Valencia
+12120,Sagunto
+12121,Burriana
+12122,El Grao
+12123,Tarragona
+12124,Villanueva Y Geltru
+12125,Barcelona
+12126,San Feliu De Guixols
+12127,Palamos
+12128,Las Hormigas
+12129,Rosas
+12130,Ibiza
+12131,Palma De Mallorca
+12132,Puerto De Alcudia
+12133,Mahon
+12134,Port-Vendres
+12135,Port-La-Nouvelle
+12136,Sete
+12137,Port Saint Louis Du Rhone
+12138,Fos
+12139,Port-De-Bouc
+12140,Marseille
+12141,Toulon
+12142,Saint-Tropez
+12143,Saint-Raphael
+12144,Cannes
+12145,Antibes
+12146,Nice
+12147,Villefranche
+12148,Monaco
+12149,Bastia
+12150,Porto Vecchio
+12151,Bonifacio
+12152,Port De Propriano
+12153,Port D' Ajaccio
+12154,Calvi
+12155,L'Ile Rousse
+12156,La Maddalena
+12157,Olbia
+12158,Arbatax
+12159,Cagliari
+12160,Sarroch Oil Terminal
+12161,Porto Ponte Romano
+12162,Carloforte
+12163,Porto Vesme
+12164,Porto Di Oristano
+12165,Porto Torres
+12166,San Remo
+12167,Imperia
+12168,Rada Di Vado
+12169,Savona
+12170,Oristano
+12171,Genova
+12172,La Spezia
+12173,Marina Di Carrara
+12174,Livorno
+12175,Vada
+12176,Portoferraio
+12177,Portovecchio Di Piombino
+12178,Porto Santo Stefano
+12179,Civitavecchia
+12180,Fiumicino
+12181,Anzio
+12182,Gaeta
+12183,Pozzuoli
+12184,Bagnoli
+12185,Napoli
+12186,Torre Annunziata
+12187,Castellammare Di Stabia
+12188,Salerno
+12189,Vibo Valentia Marina
+12190,Reggio Di Calabria
+12191,Messina
+12192,Milazzo
+12193,Gioia Tauro
+12194,Termini Imerese
+12195,Porto Di Palermo
+12196,Trapani
+12197,Marsala
+12198,Mazara Del Vallo
+12199,Porto Empedocle
+12200,Licata
+12201,Gela
+12202,Pozzallo
+12203,Siracusa
+12204,Melilli Oil Terminal
+12205,Augusta
+12206,Catania
+12207,Lipari
+12208,Valletta Harbors
+12209,Marsaxlokk
+12210,Crotone
+12211,Taranto
+12212,Gallipoli
+12213,Otranto
+12214,Brindisi
+12215,Torre Del Greco
+12216,Monopoli
+12217,Bari
+12218,Molfetta
+12219,Porto Di Barletta
+12220,Manfredonia
+12221,Vasto
+12222,Ortona
+12223,Pescara
+12224,Ancona
+12225,Porto Di Corsini
+12226,Porto Di Chioggia
+12227,Porto Di Malamocco
+12228,Porto Di Lido-Venezia
+12229,Monfalcone
+12230,Trieste
+12231,Muggia
+12232,Koper
+12233,Piran
+12234,Umag
+12235,Rovinj
+12236,Pula
+12237,Zaliv Rasa
+12238,Brsica
+12239,Rijeka Luka
+12240,Bakar
+12241,Omisalj
+12242,Senj
+12243,Zadar
+12244,Sibenik
+12245,Split
+12246,Dugi Rat
+12247,Ploce
+12248,Neum
+12249,Korcula
+12250,Dubrovnik
+12251,Risan
+12252,Kotor
+12253,Tivat
+12254,Bar
+12255,Shengjin
+12256,Durres
+12257,Vlores
+12258,Kerkira
+12259,Preveza
+12260,Argostolion
+12261,Mesolongion
+12262,Itea
+12263,Aiyion
+12264,Patrai
+12265,Katakolon
+12266,Pilos
+12267,Kalamata
+12268,Yithion
+12269,Navplio
+12270,Spetses
+12271,Lavrio
+12272,Megara Oil Terminal
+12273,Ayios Nikolaos
+12274,Elevsis
+12275,Pakhi Oil Terminal
+12276,Perama
+12277,Piraievs
+12278,Ormos Mikro Vathi
+12279,Dhiavlos Steno
+12280,Chalkis
+12281,Ormos Aliveriou
+12282,Astakos
+12283,Aspropirgos
+12284,Porthmos Evripou
+12285,Larimna
+12286,Kymassi
+12287,Achladi
+12288,Stilis
+12289,Tsingeli
+12290,Volos
+12291,Miliana
+12292,Thessaloniki
+12293,Yerakini
+12294,Stratoni
+12295,Kavala
+12296,Lagos
+12297,Alexandroupoli
+12298,Mitilini
+12299,Plomarion
+12300,Vrakhonisis Kallonis
+12301,Khios
+12302,Neon Karlovas
+12303,Samos
+12304,Pithagorion
+12305,Gavrio
+12306,Andros
+12307,Mikonos
+12308,Limin Sirou
+12309,Nisos Naxos
+12310,Milos
+12311,Akra Kavonisi
+12312,Soudha
+12313,Rethimnon
+12314,Iraklion
+12315,Sitia
+12316,Ayios Nikolaos
+12317,Kali Limenes
+12318,Rodhos
+12319,Limin Kos
+12320,Kalimnos
+12321,Lakki
+12322,Aliaga
+12323,Gemlik
+12324,Eceabat
+12325,Gelibolu
+12326,Borusan Fertilizer Jetty
+12327,Ambarli
+12328,Tekirdag
+12329,Istanbul
+12330,Defterdar Burnu
+12331,Istinye
+12332,Burgas
+12333,Varna
+12334,Mangalia
+12335,Basarabi
+12336,Constanta
+12337,Medgidia
+12338,Danube-Black Sea Canal
+12339,Cernavoda
+12340,Midia
+12341,Sulina
+12342,Tulcea
+12343,Braila
+12344,Galati
+12345,Izmayil
+12346,Illichivsk
+12347,Odesa
+12348,Yuzhnyy
+12349,Mykolayiv
+12350,Port Oktyabrsk
+12351,Dnipro-Buzkyy
+12352,Kherson
+12353,Belgorod-Dnestrovsky
+12354,Skadovs'K
+12355,Khorly
+12356,Chornomors Ke
+12357,Ust-Dunaisk
+12358,Yevpatoriya
+12359,Sevastopol
+12360,Balaklava
+12361,Yalta
+12362,Alushta
+12363,Sudak
+12364,Feodosiya
+12365,Kerch
+12366,Reni
+12367,Henichesk
+12368,Kyrylivka
+12369,Berdyansk
+12370,Mariupol
+12371,Taganrog
+12372,Rostov-Na-Donu
+12373,Azov
+12374,Yeysk
+12375,Temryuk
+12376,Kavkaz Oil Terminal
+12377,Anapa
+12378,Novorossiysk
+12379,Gelendzhik
+12380,Tuapse
+12381,Sochi
+12382,Adler
+12383,Sokhumi
+12384,Poti
+12385,Supsa Marine Terminal
+12386,Batumi
+12387,Hopa
+12388,Rize
+12389,Trabzon
+12390,Giresun
+12391,Ordu
+12392,Samsun
+12393,Sinop
+12394,Inebolu
+12395,Zonguldak
+12396,Eregli
+12397,Haydarpasa
+12398,Botas Natural Gas Terminal
+12399,Yarimca
+12400,Kaba Burnu
+12401,Derince Burnu
+12402,Izmit
+12403,Gebze
+12404,Golcuk Burnu
+12405,Mudanya
+12406,Bandirma
+12407,Erdek
+12408,Karabiga
+12409,Canakkale
+12410,Ayvalik
+12411,Dikili
+12412,Izmir
+12413,Gulluk
+12414,Nemrut Limani Bay
+12415,Kusadasi
+12416,Bodrum
+12417,Toros Gubre
+12418,Botas Dortyol Oil Terminal
+12419,Yakacik
+12420,Delta Terminal
+12421,Marmaris
+12422,Aksaz Limani
+12423,Antalya Offshore Terminal
+12424,Fethiye
+12425,Antalya
+12426,Alanya
+12427,Tasucu
+12428,Mersin
+12429,Botas
+12430,Iskenderun
+12431,Kyrenia
+12432,Xeros
+12433,Limassol
+12434,Larnaca
+12435,Dhekelia
+12436,Famagusta
+12437,Tartus
+12438,Baniyas
+12439,Al Ladhiqiyah
+12440,Tarabulus
+12441,Bayrut
+12442,Sidon/Zahrani Terminal
+12443,Sayda
+12444,Haifa
+12445,Hadera
+12446,Ashdod
+12447,Ashqelon
+12448,Bur Said (Port Said)
+12449,Damietta
+12450,El Maadiya
+12451,Al Iskandariyh (Alexandria)
+12452,Sidi Kerir (Kurayr)
+12453,El Hamra Oil Terminal
+12454,Mersa Matruh
+12455,Mersa Tobruq
+12456,Darnah
+12457,Banghazi
+12458,Ez Zueitina
+12459,Al Burayqah
+12460,Ras   Lanuf
+12461,As Sidr
+12462,Misratah
+12463,Khoms
+12464,Mina Tarabulus (Tripoli)
+12465,Az Zawiya
+12466,Bouri Oil Field
+12467,Marsa Sabratah
+12468,Abu Khammash
+12469,Zarzis
+12470,Didon Terminal
+12471,Houmt Souk
+12472,Gabes
+12473,Ashtart Oil Terminal
+12474,Skhira
+12475,Mersa Sfax
+12476,Mahdia
+12477,Sousse
+12478,La Goulette
+12479,Tunis
+12480,Rades
+12481,Tazerka Oil Terminal
+12482,Banzart
+12483,Menzel Bourguiba
+12484,Tabarka
+12485,Annaba
+12486,Skikda
+12487,Port Methanier
+12488,Collo
+12489,Djen-Djen
+12490,Jijel
+12491,Bejaia
+12492,Dellys
+12493,Alger
+12494,Tenes
+12495,Mostaganem
+12496,Arzew
+12497,Arzew El Djedid
+12498,Oran
+12499,Mers El Kebir
+12500,Beni Saf
+12501,Ghazaouet
+12502,Port D Al Hoceima
+12503,Cueta
+12504,Tangier-Mediterranean
+12505,Tanger
+12506,Port Nador
+12507,Kenitra
+12508,Mohammedia
+12509,Casablanca
+12510,El Jadida
+12511,El Jorf Lasfar
+12512,Safi
+12513,Essaouira
+12514,Agadir
+12515,Ad Dakhla
+12516,Laayoune
+12517,Nouadhibou
+12518,Nouakchott
+12519,St Louis
+12520,M Bao Oil Terminal
+12521,Dakar
+12522,Rufisque
+12523,Karabane
+12524,Lyndiane
+12525,Banjul
+12526,Rio Cacheu
+12527,Bissau
+12528,Victoria
+12529,Kamsar
+12530,Conakry
+12531,Benti
+12532,Freetown
+12533,Pepel
+12534,Bonthe
+12535,Porto Grande
+12536,Porto Da Praia
+12537,Monrovia
+12538,Buchanan
+12539,Greenville
+12540,Cape Palmas
+12541,San Pedro
+12542,Baobab Marine Terminal
+12543,Port Bouet
+12544,Abidjan
+12545,Espoir Marine Terminal
+12546,Takoradi
+12547,Sekondi
+12548,Saltpond
+12549,Tema
+12550,Lome
+12551,Kpeme
+12552,Cotonou
+12553,Lagos
+12554,Tin Can Island
+12555,Escravos Oil Terminal
+12556,Koko
+12557,Sapele
+12558,Forcados
+12559,Forcados Oil Terminal
+12560,Burutu
+12561,Warri
+12562,Ukpokiti Marine Terminal
+12563,Yoho Terminal
+12564,Sea Eagle Terminal
+12565,Brass Oil Terminal
+12566,Qua Iboe Oil Terminal
+12567,Pennington Oil Terminal
+12568,Bonny
+12569,Bonny Offshore Terminal
+12570,Okrika
+12571,Onne
+12572,Port Harcourt
+12573,Antan Oil Terminal
+12574,Calabar
+12575,Odudu Terminal
+12576,Okono Terminal
+12577,Okwori Terminal
+12578,Limboh Terminal
+12579,Douala
+12580,Kole Oil Terminal
+12581,Moudi Marine Terminal
+12582,Ebome Marine Terminal
+12583,Kome Kribi 1 Marine Terminal
+12584,Bata
+12585,Punta Europa Terminal
+12586,Serpentina Terminal
+12587,Malabo
+12588,Luba
+12589,Ceiba Terminal
+12590,Cogo
+12591,Santo Antonio
+12592,Sao Tome
+12593,Libreville
+12594,Port Owendo
+12595,Port Gentil
+12596,Cap Lopez
+12597,Oguendjo Terminal
+12598,Gamba Oil Terminal
+12599,M'Bya Oil Terminal
+12600,Yombo Terminal
+12601,Pointe Noire
+12602,Djeno Terminal
+12603,N'Kossa Terminal
+12604,Takula Terminal
+12605,Malongo Oil Terminal
+12606,Kuito Oil Field
+12607,Cabinda
+12608,Futila Terminal
+12609,Banana
+12610,Boma
+12611,Matadi
+12612,Soyo Angola Lng Terminal
+12613,Palanca Terminal
+12614,Girassol Terminal
+12615,Porto Do Ambriz
+12616,Estrela Oil Field
+12617,Luanda
+12618,Porto Amboim
+12619,Sumbe
+12620,Lobito
+12621,Namibe
+12622,Walvis Bay
+12623,Luderitz Bay
+12624,Georgetown
+12625,Jamestown
+12626,North Point
+12627,Edinburgh Of The Seven Seas
+12628,Saldanha Bay
+12629,Cape Town
+12630,Simonstown
+12631,Mossel Bay
+12632,Port Elizabeth
+12633,East London
+12634,Durban
+12635,Richards Bay
+12636,Maputo
+12637,Inhambane
+12638,Beira
+12639,Chinde
+12640,Quelimane
+12641,Porto Belo
+12642,Pebane
+12643,Mocambique
+12644,Nacala
+12645,Pemba
+12646,Ibo
+12647,Mikindani
+12648,Mtwara
+12649,Kilwa Kivinje
+12650,Mjimwema Terminal
+12651,Dar Es Salaam
+12652,Chake Chake
+12653,Tanga
+12654,Zanzibar
+12655,Mombasa
+12656,Kilifi
+12657,Malindi
+12658,Lamu
+12659,Kismaayo
+12660,Baraawe
+12661,Marka
+12662,Muqdisho
+12663,Victoria
+12664,Moroni
+12665,Fomboni
+12666,Moutsamoudu
+12667,Dzaoudzi
+12668,Andoany
+12669,Mahajanga
+12670,Maintirano
+12671,Morondava
+12672,Toliara
+12673,Faradofay
+12674,Manakara
+12675,Mananjary
+12676,Toamasina
+12677,Maroantsetra
+12678,Iharana
+12679,Antsohim Bondrona
+12680,Antisranana
+12681,Saint-Denis
+12682,Port Est
+12683,Port Ouest
+12684,Saint-Pierre
+12685,Port Louis
+12686,Port Mathurin
+12687,Diego Garcia
+12688,Berbera
+12689,Boosaaso
+12690,Djibouti
+12691,Doraleh
+12692,Assab
+12693,Mitsiwa Harbor
+12694,Port Sudan
+12695,Al Khair Oil Terminal
+12696,Beshayer Oil Terminal
+12697,Sawakin Harbor
+12698,Nuweiba El Muzeima
+12699,Al Qusayr
+12700,Hamrawein
+12701,Bur Safaga
+12702,El Tur Harbor
+12703,Zeit Bay Terminal
+12704,East Zeit Terminal
+12705,Sharm El Sheikh
+12706,Zeit Bay Lpg Terminal
+12707,El Ghardaqa
+12708,Ras Shukhier
+12709,Ras Gharib
+12710,Ras Badran Oil Terminal
+12711,North Ain Sukhna Port
+12712,Sokhna Port Gas Tanker Term
+12713,As Suways
+12714,El-Adabiya
+12715,El Ismailiya
+12716,Ras Sudr
+12717,Ain Sukhna Terminal
+12718,Zafarana Terminal
+12719,Ras Abu Zanimah
+12720,Wadi Feiran
+12721,Elat
+12722,Al Aqabah
+12723,Sharmah
+12724,Duba
+12725,Duba Bulk Plant Tanker Termi
+12726,Yanbu
+12727,King Fahd Port
+12728,Rabigh
+12729,Jiddah
+12730,Jizan
+12731,Salif
+12732,Ras Isa Marine Terminal
+12733,Al Ahmadi
+12734,Al Mukha
+12735,Aden
+12736,Nishtun
+12737,Ash Shihr Oil Terminal
+12738,Al Mukalla
+12739,Rudum Terminal
+12740,Balhaf
+12741,Mina Raysut
+12742,Qalhat Lng Terminal
+12743,Mina Qabus
+12744,Mina Al Fahl
+12745,Port Of Sohar
+12746,Khawr Khasab
+12747,Fujayrah Harbor
+12748,Khawr Fakkan
+12749,Mina Saqr
+12750,Fateh Oil Terminal
+12751,Zirkuh Petroleum Port
+12752,Zirkuh Oil Field
+12753,Mubarraz Oil Terminal
+12754,Al Jazeera Port
+12755,Ajman
+12756,Ash Shariqah
+12757,Sharjah Offshore Terminal
+12758,Umm Al Qaywayn
+12759,Al Hamriyah Lpg Terminal
+12760,Dubayy
+12761,Mina Jabal Ali
+12762,Jazirat Das
+12763,Abu Zaby
+12764,Umm An Nar
+12765,Hulaylah Oil Terminal
+12766,Jabal Az Zannah/Ruways
+12767,Umm Said
+12768,Doha
+12769,Jazirat Halul
+12770,Ras Laffan
+12771,Al Shaheen Terminal
+12772,Al Rayyan Terminal
+12773,Al Manamah
+12774,Sitrah
+12775,Mina Salman
+12776,Khalifa Bin Salman
+12777,Dammam
+12778,Al Jubayl
+12779,Ras  Tannurah
+12780,Ras Al Ghar
+12781,Ju Aymah Lpg Terminal
+12782,Ju Aymah Oil Terminal
+12783,Ras Al Mishab
+12784,Ras Al Khafji
+12785,Mina Az Zawr
+12786,Mina Ash Shuaybah
+12787,Mina Abd Allah
+12788,Mina Al Ahmadi
+12789,Al Kuwayt
+12790,Doha Harbor
+12791,Khawr Al Amaya
+12792,Al-Basra Oil Terminal
+12793,Umm Qasr
+12794,Al Basrah
+12795,Khawr Al Zubair
+12796,Khawr Al Zubair Lng Terminal
+12797,Khorramshahr
+12798,Abadan
+12799,Khosrowabad
+12800,Bandar-E Mahshahr
+12801,Bandar Khomeyni
+12802,Barkan Oil-Loading Terminal
+12803,Kharg Island Oil Terminal
+12804,Sirus Oil Terminal
+12805,Bushehr
+12806,Bandar-E Pars Terminal
+12807,Jazireh-Ye Lavan Oil Terminal
+12808,Bandar-E Shahid Reajie
+12809,Bandar Abbas
+12810,Jazireh-Ye Hormoz
+12811,Bandar Taheri Offshore Termi 
+12812,Jazireh-Ye Sirri
+12813,Jask
+12814,Chah Bahar
+12815,Gwadar
+12816,Karachi
+12817,Muhamamad Bin Qasim
+12818,Sikka
+12819,Vadinar Terminal
+12820,Mundra
+12821,Mandvi
+12822,Kandla
+12823,Navlakhi
+12824,Bedi
+12825,Okha
+12826,Dahej
+12827,Porbandar
+12828,Veraval
+12829,Pipavav Bandar
+12830,Bhavnagar
+12831,Magdalla
+12832,Hazira
+12833,Mumbai (Bombay)
+12834,Jawaharlal Nehru Port (Nhav
+12835,Ratnagiri
+12836,Panaji
+12837,Marmagao
+12838,Karwar
+12839,Belekeri
+12840,New Mangalore
+12841,Azhikal (Azhikkal)
+12842,Calicut (Kozhikode)
+12843,Beypore
+12844,Kochi (Cochin)
+12845,Quilon (Kollam)
+12846,Trivandrum
+12847,Kolachel
+12848,Male
+12849,Colombo
+12850,Galle Harbor
+12851,Trincomalee Harbor
+12852,Kankesanturai
+12853,Tuticorin
+12854,Nagappattinam
+12855,Karaikal Port
+12856,Cuddalore
+12857,Pondicherry
+12858,Chennai (Madras)
+12859,Kamarajar Port
+12860,Machilipatnam
+12861,Kakinada Bay
+12862,Vishakhapatnam
+12863,Paradip
+12864,Haldia Port
+12865,Calcutta
+12866,Mongla
+12867,Chittagong
+12868,Sittwe
+12869,Bassein
+12870,Rangoon
+12871,Moulmein Harbor
+12872,Yetagun Marine Terminal
+12873,Mergui
+12874,Port Blair
+12875,Phuket
+12876,Krabi
+12877,Kantang Harbor
+12878,Bang Saphan
+12879,Khanom
+12880,Pelabuhan Bass
+12881,Sapangar Bay
+12882,Pulau Pinang
+12883,Malong Marine Terminal
+12884,Lumut
+12885,Teluk Anson
+12886,Port Klang
+12887,Port Dickson
+12888,Pelabuhan Sungai Udang
+12889,Melaka
+12890,Muar
+12891,Johor
+12892,Serangoon Harbor
+12893,Keppel
+12894,Pulau Bukom
+12895,Pulau Sebarok
+12896,Jurong Island
+12897,Tanjunguban
+12898,Tanjungpinang
+12899,Kijang
+12900,Sekupang
+12901,Pulau Sambu
+12902,Lalang Marine Terminal
+12903,Dabo
+12904,Toboali
+12905,Muntok
+12906,Blinyu
+12907,Pangkalpinang
+12908,Ramba
+12909,Tanjungpandan
+12910,Sungaigerong
+12911,Palembang
+12912,Ardjuna Oil Field
+12913,Cinta Oil Terminal
+12914,Panjang
+12915,Bengkulu
+12916,Pulau Baai
+12917,Teluk Bayur
+12918,Sibolga
+12919,Tanjung Balai Karimun
+12920,Jabung Batanghari Marine Ter 
+12921,Kuala Tanjung
+12922,Uleelheue
+12923,Sabang
+12924,Blanglancang
+12925,Blanglancang
+12926,Pangkalansusu
+12927,Belawan
+12928,Kuala Kapus
+12929,Dumai
+12930,Bengkalis
+12931,Sungaipakning
+12932,Flying Fish Cove
+12933,Merak Mas Terminal
+12934,Banten
+12935,Anyer Lor
+12936,Tanjung Gerem
+12937,Tanjung Sekong
+12938,Jakarta
+12939,Poleng Oil Field
+12940,Cirebon
+12941,Tegal
+12942,Pekalongan
+12943,Semarang
+12944,Rembang
+12945,Tuban
+12946,Gresik
+12947,Surabaya
+12948,Probolinggo
+12949,Panarukan
+12950,Celukan Bawang
+12951,Cilacap
+12952,Tanjung Benete
+12953,Benoa
+12954,Ampenan
+12955,Labuhanhaji
+12956,Maumere
+12957,Larantuka
+12958,Ende
+12959,Waingapu
+12960,Kupang
+12961,Dili
+12962,Belida Marine Terminal
+12963,Tarempah
+12964,Belanak Field Terminal
+12965,Udang Oilfield
+12966,Widuri Marine Terminal
+12967,Kuching
+12968,Bintangor
+12969,Sibu
+12970,Sarikei
+12971,Tg. Mani
+12972,Bintulu Port
+12973,Tawa
+12974,Tanjung Pelepas
+12975,Miri
+12976,Lutong
+12977,Muara Harbor
+12978,Bandar Seri Begawan
+12979,Lumut
+12980,Seria Oil Loading Terminal
+12981,Kuala Belait
+12982,Victoria
+12983,Kota Kinabalu
+12984,Kudat
+12985,Pelabuhan Sandakan
+12986,Lahad Datu
+12987,Bakapit
+12988,Mostyn
+12989,Tanjung Arang  (Bunyu)
+12990,Lingkas
+12991,Tanjungredeb
+12992,Tanjung Sangata
+12993,Benoa
+12994,Bontang Lng Terminal
+12995,Tanjung Santan
+12996,Samarinda
+12997,Senipah Oil Terminal
+12998,Balikpapan
+12999,Lawi Lawi Oil Terminal
+13000,Gunung Batu Besar
+13001,North Pulau Laut Coal Termin
+13002,Kota Baru
+13003,Tanah Merah
+13004,Stagen
+13005,Banjarmasin
+13006,Sampit
+13007,Kumai
+13008,Pontianak
+13009,Manado
+13010,Bitung
+13011,Gorontalo
+13012,Poso
+13013,Luwuk
+13014,Kolonodale
+13015,Mangkasa Oil Terminal
+13016,Kendari
+13017,Baubau
+13018,Raha Roadstead
+13019,Pomalaa
+13020,Parepare
+13021,Ujung Pandang
+13022,Donggala
+13023,Tahuna
+13024,Teluk Beo
+13025,Ternate
+13026,Labuha
+13027,Patani
+13028,Wahai
+13029,Bula
+13030,Salawati
+13031,Ambon
+13032,Namlea
+13033,Saumlaki
+13034,Serui
+13035,Miei
+13036,Manokwari Road
+13037,Tg. Sorong
+13038,Kasim Terminal
+13039,Sailolof
+13040,Fakfak
+13041,Amamapare
+13042,Merauke
+13043,Jayapura
+13044,Kumul
+13045,Daru
+13046,Port Moresby
+13047,Alotoa
+13048,Samarai
+13049,Suloga Harbor
+13050,Discovery Bay
+13051,Oro Bay
+13052,Lae
+13053,Madang
+13054,Vanimo
+13055,Thursday Island
+13056,Cape Flattery Harbor
+13057,Cairns
+13058,Mourilyan Harbour
+13059,Lucinda
+13060,Townsville
+13061,Mackay
+13062,Hay Point
+13063,Port Alma
+13064,Gladstone
+13065,Bundaberg
+13066,Brisbane
+13067,Ballina
+13068,Newcastle
+13069,Sydney
+13070,Botany Bay
+13071,Port Kembla
+13072,Jervis Bay
+13073,Batemans Bay
+13074,Eden
+13075,Welshpool
+13076,Western Port
+13077,Melbourne
+13078,Geelong
+13079,Warrnambool
+13080,Portland
+13081,Kingscote
+13082,Klein Point
+13083,Port Adelaide
+13084,Ardrossan
+13085,Port Giles
+13086,Wallaroo
+13087,Port Pirie
+13088,Whyalla
+13089,Port Bonython
+13090,Port Lincoln
+13091,Thevenard
+13092,Esperance
+13093,Albany
+13094,Bunbury
+13095,Fremantle
+13096,Geraldton
+13097,Useless Loop
+13098,Cape Cuvier
+13099,Point Murat
+13100,Onslow
+13101,Port Walcott
+13102,Dampier
+13103,Port Hedland
+13104,Broome
+13105,Wyndham
+13106,Darwin
+13107,Milner Bay
+13108,Weipa
+13109,Gove
+13110,Karumba
+13111,Hobart
+13112,Port Huon
+13113,Dover
+13114,Stanley
+13115,Port Latta
+13116,Burnie
+13117,Devonport
+13118,Port Dalrymple
+13119,Beauty Point
+13120,Launceston
+13121,Whangaroa
+13122,Opua
+13123,Whangarei
+13124,Auckland
+13125,Tauranga
+13126,Gisborne
+13127,Napier
+13128,Wellington
+13129,Wanganui
+13130,New Plymouth
+13131,Manukau Harbor
+13132,Collingwood
+13133,Tarakohe
+13134,Nelson
+13135,Picton
+13136,Port Lyttelton
+13137,Akaroa
+13138,Timaru
+13139,Otago Harbor
+13140,Bluff Harbor
+13141,Greymouth
+13142,Westport
+13143,Kingston
+13144,Lautoka Harbor
+13145,Suva Harbor
+13146,Levuka
+13147,Malai
+13148,Savusavu Bay
+13149,Nuku Alofa
+13150,Pangai
+13151,Neiafu
+13152,Funafuti Atoll
+13153,Mata-Utu
+13154,Apia
+13155,Pago Pago Harbor
+13156,Alofi
+13157,Avatiu
+13158,Vaitape
+13159,Uturoa
+13160,Papeete
+13161,Port Rikitea
+13162,Atuona
+13163,Baie Taiohae
+13164,Canton Island
+13165,English Harbor
+13166,Honokaa
+13167,Hilo
+13168,Honuapo
+13169,Milolii
+13170,Kauhako Bay
+13171,Napoopoo
+13172,Kailua
+13173,Kiholo
+13174,Kawaihae
+13175,Mahukona
+13176,Kahului
+13177,Hana
+13178,Lahaina
+13179,Kaumalapau Harbor
+13180,Pukoo
+13181,Kamalo
+13182,Kaunakakai
+13183,Barbers Point Terminal
+13184,Barber'S Point
+13185,Honolulu
+13186,Port Allen
+13187,Nawiliwili Bay
+13188,Ahukini Landing
+13189,Nonopapa
+13190,Tern Island
+13191,Johnston Atoll
+13192,Midway Island
+13193,Wake Island
+13194,Enitwetak Island
+13195,Kwajalein
+13196,Majuro Atoll
+13197,Tarawa Atoll
+13198,Nauru
+13199,Saipan
+13200,Tinian
+13201,Rota
+13202,Apra Harbor
+13203,Lele Harbor
+13204,Pohnpei Harbor
+13205,Moen
+13206,Colonia
+13207,Malakal Harbor
+13208,Longan Island
+13209,Lorengau
+13210,Wewak Harbor
+13211,Hamburg Harbor
+13212,Kavieng Harbor
+13213,Rabaul
+13214,Kokopo
+13215,Kimbe
+13216,Bialla
+13217,Kieta
+13218,Queen Carola Harbor
+13219,Gizo Harbor
+13220,Port Noro
+13221,Ringgi Cove
+13222,Yandina
+13223,Tulaghi
+13224,Honiara
+13225,Luganville
+13226,Port Vila
+13227,Forari Bay
+13228,Baie De Kouaoua
+13229,Noumea
+13230,Baie Ugue
+13231,Kuantan New Port
+13232,Kemaman Harbor
+13233,Kirteh Oil Terminal
+13234,Kuala Trengganu
+13235,Tapis Marine Terminal A
+13236,Port Langkawi
+13237,Bongkot Terminal
+13238,Tantawan Marine Terminal
+13239,Pattani
+13240,Benchamas Terminal
+13241,Map Ta Phut
+13242,Songkhla Harbor
+13243,Erawan Terminal
+13244,Rayong Tpi Terminal
+13245,Sattahip
+13246,Bangkok
+13247,Si Racha
+13248,Si Racha Terminal
+13249,Siam Seaport
+13250,Laem Chabang
+13251,Ko Si Chang Terminal
+13252,Petchburi Terminal
+13253,Kampong Saom
+13254,Phsar Ream
+13255,Duong Dong
+13256,Vung Tau
+13257,Phu My
+13258,Cat Lai
+13259,Thanh Ho Chi Minh
+13260,Vinh Cam Ranh
+13261,Nha Trang
+13262,Qui Nhon
+13263,Dai Hang
+13264,Da Nang
+13265,Mui Vung Tau
+13266,Thanh Hoa
+13267,Nghe Tinh
+13268,Hai Phong
+13269,Hon Gai
+13270,Cam Pha
+13271,Fang-Cheng
+13272,Beihai
+13273,Haikou
+13274,Basuo
+13275,Zhanjiang
+13276,Lon Shui Terminal
+13277,Shekou
+13278,Macau
+13279,Sanya
+13280,Yangpu
+13281,Chiwan
+13282,Shui Dong
+13283,Qinzhou
+13284,Zhuhai
+13285,Huangpu
+13286,Huangpuxingang
+13287,Guangzhou
+13288,Hong Kong
+13289,Yantian
+13290,Huizhou
+13291,Shan T Ou
+13292,Chaozhou
+13293,Dongshan
+13294,Xiamen
+13295,Zhangzhou
+13296,Quanzhou
+13297,Xiuyu
+13298,Chi-Lung
+13299,Su-Ao
+13300,Hua-Lien Kang
+13301,Kao-Hsiung
+13302,Tan-Shui
+13303,Peng-Hu Kang
+13304,Mailiao
+13305,Tai-Chung Kang
+13306,Basco
+13307,Claveria
+13308,Port San Vicente
+13309,Aparri
+13310,Hondagua
+13311,Jose Panganiban
+13312,Virac
+13313,Tabaco
+13314,Legazpi Port
+13315,Sorsogon
+13316,Santa Cruz (Marinduque Isl)
+13317,Batangas City
+13318,Nasugbu
+13319,Manila
+13320,Mariveles
+13321,Subic Bay
+13322,Masinloc
+13323,San Fernando Harbor
+13324,Calapan
+13325,Port Romblon
+13326,Masbate
+13327,Laoang
+13328,Port Borongan
+13329,Guiuan
+13330,Catbalogan
+13331,Tacloban
+13332,Tanauan
+13333,Maasin
+13334,Baybay
+13335,Ormoc
+13336,Isabel
+13337,Palompon
+13338,Tagbilaran
+13339,Tubigan
+13340,Cebu
+13341,Toledo
+13342,San Carlos
+13343,Bais
+13344,Dumaguete
+13345,Lazi
+13346,Pulupandan
+13347,Port Capiz
+13348,Jordan
+13349,Iloilo
+13350,Puerto Princesa
+13351,Surigao City
+13352,Masao
+13353,Nasipit Port
+13354,Hinatuan
+13355,Mangagoy
+13356,Mati
+13357,Davao
+13358,Gingoog
+13359,General Santos
+13360,Polloc (Cotabato)
+13361,Pagadian
+13362,Margosatubig
+13363,Santa Clara
+13364,Zamboanga
+13365,Jimenez
+13366,Port Ozamis
+13367,Iligan
+13368,Cagayan De Oro
+13369,Bugo
+13370,Villanueva
+13371,Butuan City
+13372,Basilian City (Isabela)
+13373,Port Holland
+13374,Jolo
+13375,Siasi
+13376,Fuzhou
+13377,Wenzhou
+13378,Haimen
+13379,Ningbo
+13380,Zhen Hai
+13381,Zhoushan
+13382,Zhapu
+13383,Shanghai
+13384,Changshu
+13385,Taicang
+13386,Jiangyin
+13387,Changzhou
+13388,Gaogang
+13389,Yangzhou
+13390,Zhangjiangang
+13391,Nantong
+13392,Zhenjiang
+13393,Nanjing
+13394,Wu Hu
+13395,Ankingcheng
+13396,Hankow
+13397,Wanxian
+13398,Chung Ching
+13399,Lanshan
+13400,Lianyungang
+13401,Rizhao
+13402,Qingdao Gang
+13403,Weihai
+13404,Yantai
+13405,Penglai
+13406,Longkou Gang
+13407,Dagu Tanggu
+13408,Tianjin Xin Gang
+13409,Tangshan (Jingtang)
+13410,Qinhuangdao
+13411,Suizhang Gang
+13412,Huludao Gang
+13413,Jinzhou Wan
+13414,Yingkou
+13415,Bayuquan
+13416,Dandong
+13417,Lushun
+13418,Dalian
+13419,Nampo
+13420,Kyomip'O
+13421,Haeju Hang
+13422,Inchon
+13423,Daesan Hang
+13424,Pyeongtaek Hang
+13425,Kunsan
+13426,Mokpo
+13427,Cheju Hang
+13428,Yosu
+13429,Gwangyang Hang
+13430,Masan
+13431,Chinae
+13432,Busan
+13433,Ulsan
+13434,Pohang
+13435,Mukho
+13436,Tonghae
+13437,Sokch'O Hang
+13438,Wonsan
+13439,Hungnam
+13440,Ch'Aho
+13441,Kimch'Aek
+13442,Ch'Ongjin
+13443,Najin
+13444,Senbong
+13445,Pos'Yet
+13446,Zarubino
+13447,Vladivostok
+13448,Bukhta Gaydamak
+13449,Vostochnyy
+13450,Nakhodka
+13451,Sovetskaya Gavan
+13452,Bukhta Vanino
+13453,De Kastri
+13454,Nikolayevsk Na Amur
+13455,Okha
+13456,Vitaz Marine Terminal
+13457,Poronaysk
+13458,Korsakov
+13459,Nevelsk
+13460,Kholmsk
+13461,Uglegorsk
+13462,Shakhtersk
+13463,Lesogorsk
+13464,Mys Rogatyy Oktyabrskiy
+13465,Aleksandrovsk -Sakhalinskiy
+13466,Lazarev
+13467,Moskal Vo
+13468,Shakotan
+13469,Mombetsu Ko
+13470,Abashiri Ko
+13471,Nemuro Ko
+13472,Hanasaki Ko
+13473,Kushiro Ko
+13474,Tomakomai Ko
+13475,Muroran Ko
+13476,Tokachi
+13477,Mori
+13478,Hakodate Ko
+13479,Esasi Ko
+13480,Otaru Ko
+13481,Isikari Wan
+13482,Ishikari Bay New Port
+13483,Rumoi Ko
+13484,Wakkanai
+13485,Aomori Ko
+13486,Noshiro Ko
+13487,Hachinohe Ko
+13488,Miyako
+13489,Kamaishi Ko
+13490,Ofunato
+13491,Kesennuma Ko
+13492,Onagawa
+13493,Ishinomaki Ko
+13494,Sendai-Shiogama
+13495,Soma
+13496,Onahama Ko
+13497,Hitachi
+13498,Kashima Ko
+13499,Choshi
+13500,Tateyama Ko
+13501,Kisarazu Ko
+13502,Chiba Ko
+13503,Katsunan Ko
+13504,Funabashi
+13505,Tokyo Ko
+13506,Kawasaki Ko
+13507,Yokohama Ko
+13508,Yokosuka Ko
+13509,Uraga Ko
+13510,Tagonoura Ko
+13511,Atsumi
+13512,Shimoda Ko
+13513,Omaezaki Ko
+13514,Shimizu Ko
+13515,Mikawa
+13516,Kinuura Ko
+13517,Gamagori Ko
+13518,Nagoya Ko
+13519,Yokkaichi
+13520,Matsusaka
+13521,Toba
+13522,Owase Ko
+13523,Tanabe Ko
+13524,Yura
+13525,Wakayama-Shimotsu Ko
+13526,Sakai-Senboku
+13527,Osaka
+13528,Amagasaki
+13529,Kobe
+13530,Hirohata
+13531,Shikama
+13532,Himeji
+13533,Higashi-Harima
+13534,Aioi
+13535,O0Kihama
+13536,Kakogawa
+13537,Uno Ko
+13538,Hibi Ko
+13539,Mizushima Ko
+13540,Fukuyama
+13541,Habu Ko
+13542,Onomichi-Itozaki
+13543,Kure
+13544,Mitsukojima
+13545,Hiroshima
+13546,Kanokawa Ko
+13547,Iwakuni Ko
+13548,Namikata
+13549,Kudamatsu
+13550,Tokuyama
+13551,Ube Ko
+13552,Hikari
+13553,Shimonoseki
+13554,Hagi Ko
+13555,Hamada Ko
+13556,Sakai Ko
+13557,Sakaiminato
+13558,Miyazu
+13559,Maizuru Ko
+13560,Uchiura
+13561,Fukui
+13562,Tsuruga Ko
+13563,Fukui Ko
+13564,Kanazawa
+13565,Nanao Ko
+13566,Fushiki-Toyama
+13567,Shimminato
+13568,Himekawa
+13569,Naoetsu Ko
+13570,Kashiwazaki
+13571,Niigata Ko
+13572,Eastern Part Of Niigata-Ko
+13573,Ryotu Ko
+13574,Sakata Ko
+13575,Akita-Funakawa Ko
+13576,Mega
+13577,Hannan Ko
+13578,Takamatsu
+13579,Komatsushima
+13580,Tachibana
+13581,Shingu
+13582,Kochi Ko
+13583,Susaki Ko
+13584,Uwajima Ko
+13585,Yawatahama
+13586,Matsuyama
+13587,Kikuma Ko
+13588,Muturezima Ko
+13589,Imabari Ko
+13590,Takuma
+13591,Tonda
+13592,Onoda
+13593,Niihama
+13594,Mishima-Kawanoe Ko
+13595,Marugame Ko
+13596,Sakaide Ko
+13597,Yanai
+13598,Tobata
+13599,Hibikinada
+13600,Wakamatsu Ko
+13601,Yahata
+13602,Kokura Ko
+13603,Moji Ko
+13604,Kanda
+13605,Beppu
+13606,Oita Ko
+13607,Saganoseki Ko
+13608,Tsukumi Ko
+13609,Saiki Ko
+13610,Hososhima Ko
+13611,Kagoshima Ko
+13612,Shibushi Wan
+13613,Kiire
+13614,Minamata Ko
+13615,Yatsushiro Ko
+13616,Misumi Ko
+13617,Miike Ko
+13618,Matsu-Shima
+13619,Aokata
+13620,Nagasaki
+13621,Sasebo
+13622,Imari
+13623,Karatsu
+13624,Hakata
+13625,Izuhara
+13626,Kin Wan
+13627,Nishihara
+13628,Naha Ko
+13629,Nakagusuku
+13630,Hirara Ko
+13631,Ishigaki
+13632,Slavyanka
+13633,Okhotsk Iy Reyd
+13634,Bukhta Nagayeva (Magadan)
+13635,Petropavlovsk
+13636,Nikol Skoye
+13637,Port Beringovsky
+13638,Provideniya
+13639,Ambarchik
+13640,Tiksi
+13641,Pevek
+13642,Port Dikson
+13643,Ust-Port
+13644,Dudinka
+13645,Igarka
+13646,Mys Novyy Port
+13647,Nar Yan-Mar
+13648,Mezen
+13649,Arkhangels'K
+13650,Severodvinsk
+13651,Onega
+13652,Belomorsk
+13653,Rabocheostrovsk
+13654,Keret
+13655,Kovda
+13656,Kandalaksha
+13657,Vitino
+13658,Bolshaya Piryu Guba
+13659,Ostrovnoy Gremikha
+13660,Murmansk
+13661,Mys Abram
+13662,Ellefsen Harbor
+13663,Scotia Bay
+13664,Admiralty Bay
+13665,Port Foster
+13666,Port Lockroy
+13667,Melchior Harbor
+13668,Andersen Harbor
+13669,Mcmurdo Station
+13670,Bishop Rock
+13671,Cape Leeuwin
+13672,Cape of Good Hope
+13673,Fastnet Rock
+13674,Grand Banks South
+13675,Honshu
+13676,Ile d’Ouessant
+13677,Inishtrahull
+13678,Montreal
+13679,Nord-Ostsee-Kanal
+13680,Panama
+13681,Pentland Firth
+13682,Port Said
+13683,Punta Arenas
+13684,Selat Lombok
+13685,Selat Sunda
+13686,Selat Wetar
+13687,Singapore
+13688,Skagens Odde
+13689,Strait of Gibraltar
+13690,Straits of Florida
+13691,Torres Strait
+13692,Tsugaru-Kaikyo
+13693,Wilson Promontory
+13694,Yucatan Channel
+13695,Osumi-kaikyo
